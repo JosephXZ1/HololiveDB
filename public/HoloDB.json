@@ -33,8 +33,8 @@
             "Descripcion": "Robot de alta gama torpe pero adorable, conocida por su voz suave y relajante, su habilidad en shooters y su risa contagiosa.",
             "Youtube": "https://www.youtube.com/@Robocosan",
             "Twitter": "https://x.com/robocosan",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Roboco_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Roboco_F.png"
         }
     },
     {
@@ -52,8 +52,8 @@
             "Descripcion": "Sacerdotisa shintoísta autoproclamada 'Elite', famosa por su lenguaje único (lenguaje élite), su carisma cómico y momentos pon en stream.",
             "Youtube": "https://www.youtube.com/@SakuraMiko",
             "Twitter": "https://x.com/sakuramiko35",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Miko_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/MikO_F.png"
         }
     },
     {
@@ -71,8 +71,8 @@
             "Descripcion": "Potencia vocal y estrella fugaz de Hololive, reconocida por su carrera musical de primer nivel, su talento en Tetris y su lado despiadado y divertido en juegos de engaño.",
             "Youtube": "https://www.youtube.com/@HoshimachiSuisei",
             "Twitter": "https://x.com/suisei_hosimati",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Suisei_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Suisei_F.png"
         }
     },
     {
@@ -90,8 +90,8 @@
             "Descripcion": "Diva virtual originaria de INoNaKa Music transferida a Hololive; destaca por su voz melódica y versátil, además de sus legendarias habilidades de deducción en GeoGuessr.",
             "Youtube": "https://www.youtube.com/@AZKi",
             "Twitter": "https://x.com/AZKi_VDiVA",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Azki_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Azki_F.png"
         }
     },
     {
@@ -109,8 +109,8 @@
             "Descripcion": "Vampiresa dulce y de voz angelical que prefiere el jugo de acerola a la sangre. Parte fundamental del inicio de la primera generación.",
             "Youtube": "https://www.youtube.com/@YozoraMel",
             "Twitter": "https://x.com/yozoramel",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Mel_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Mel_F.png"
         }
     },
     {
@@ -125,11 +125,11 @@
             "Debut": "1/Jun/2018",
             "Altura": "1.55 Mts",
             "Fanbase": "Sukonbu",
-            "Descripcion": "Zorro ártico otaku y líder informal de Hololive. Famosa por sus streams de gaming de alta resistencia, memes a alta velocidad y su carisma que conecta Gen 1 con GAMERS.",
+            "Descripcion": "Zorro ártico otaku y líder informal de Hololive. Famosa por sus streams de gaming de alta resistencia, memes a alta velocidad y su carisma su relación con Mio.",
             "Youtube": "https://www.youtube.com/@ShirakamiFubuki",
             "Twitter": "https://x.com/shirakamifubuki",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Fubuki_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Fubuki_F.png"
         }
     },
     {
@@ -147,8 +147,8 @@
             "Descripcion": "Chica de instituto alegre y expresiva vinculada a festivales japoneses. Reconocida por su voz clara en canto, su personalidad extrovertida y su espontaneidad.",
             "Youtube": "https://www.youtube.com/@NatsuiroMatsuri",
             "Twitter": "https://x.com/natsuiromatsuri",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Matsuri_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Matsuri_F.png"
         }
     },
     {
@@ -166,8 +166,8 @@
             "Descripcion": "Chica elfo proveniente de otra dimensión. Destaca por su pasión por la danza del vientre, su habilidad en juegos de supervivencia como Ark y su estilo de stream relajado.",
             "Youtube": "https://www.youtube.com/@AkiRosenthal",
             "Twitter": "https://x.com/akirosenthal",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Akirose_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Akirose_F.png"
         }
     },
     {
@@ -182,11 +182,11 @@
             "Debut": "2/Jun/2018",
             "Altura": "1.54 Mts",
             "Fanbase": "Haaton",
-            "Descripcion": "Tsundere rebelde con doble identidad ('Haato' y el alter-ego caótico 'Haachama'). Revolucionó la creación de contenido con vlogs abstractos, cocina experimental y edición surrealista.",
+            "Descripcion": "Tsundere rebelde con doble identidad (alter-ego 'Haachama'). Revolucionó la creación de contenido con vlogs abstractos, cocina experimental y edición surrealista.",
             "Youtube": "https://www.youtube.com/@AkaiHaato",
             "Twitter": "https://x.com/akaihaato",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Haato_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Haato_F.png"
         }
     },
     {
@@ -201,11 +201,11 @@
             "Debut": "8/Ago/2018",
             "Altura": "1.48 Mts",
             "Fanbase": "Aqua Crew",
-            "Descripcion": "Maid marina torpe y tierna, célebre por su timidez extrema en la vida cotidiana combinada con un nivel de juego competitivo e hiperactivo en títulos como Apex Legends y Smash Bros.",
+            "Descripcion": "Maid marina pon y tierna, muy timida pero con un nivel de juego competitivo e hiperactivo en títulos como Apex Legends y Smash Bros.",
             "Youtube": "https://www.youtube.com/@MinatoAqua",
             "Twitter": "https://x.com/minatoaqua",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Aqua_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Aqua_F.png"
         }
     },
     {
@@ -220,11 +220,11 @@
             "Debut": "17/Ago/2018",
             "Altura": "1.45 Mts",
             "Fanbase": "Shiokko",
-            "Descripcion": "Maga de magia negra infantil y engreída, de personalidad marcadamente bratty/kusogaki, conocida por sus bromas sarcásticas, su risa característica y sus streams matutinos retrasados.",
+            "Descripcion": "Maga de magia negra infantil y engreída (kusogaki) conocida por sus bromas sarcásticas, su risa característica y sus streams matutinos retrasados.",
             "Youtube": "https://www.youtube.com/@MurasakiShion",
             "Twitter": "https://x.com/murasakishionch",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Shion_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Shion_F.png"
         }
     },
     {
@@ -239,11 +239,11 @@
             "Debut": "3/Sep/2018",
             "Altura": "1.52 Mts",
             "Fanbase": "Nakiri-gumi",
-            "Descripcion": "Oni con kimono de la Academia Demoníaca del Inframundo. Destaca por su risa risueña y contagiosa (Nakirium), su ternura natural y su afición a juegos multijugador y de disparos.",
+            "Descripcion": "Oni con kimono de la Academia Demoníaca del Inframundo. Destaca por su risa y alto contenido en nakirium, su ternura natural y su afición a juegos FPS",
             "Youtube": "https://www.youtube.com/@NakiriAyame",
             "Twitter": "https://x.com/nakiriayame",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Ayame_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Ayame_F.png"
         }
     },
     {
@@ -258,11 +258,11 @@
             "Debut": "4/Sep/2018",
             "Altura": "1.65 Mts",
             "Fanbase": "Chocomate",
-            "Descripcion": "Súcubo y enfermera escolar de la Academia Demoníaca. Famosa por su tono de voz seductor y ASMR de alta calidad, sus legendarios cuestionarios de cultura general y su habilidad culinaria.",
+            "Descripcion": "Súcubo y enfermera escolar. Famosa por su tono de voz seductor y ASMR, sus legendarios cuestionarios de cultura general y su habilidad culinaria.",
             "Youtube": "https://www.youtube.com/@YuzukiChoco",
             "Twitter": "https://x.com/yuzukichococh",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Choco_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Choco_F.png"
         }
     },
     {
@@ -277,11 +277,11 @@
             "Debut": "16/Sep/2018",
             "Altura": "1.54 Mts",
             "Fanbase": "Subatomo",
-            "Descripcion": "Entrenadora de un club de MMA y e-sports, alegre y enérgica como un rayo de sol. Conocida como la tsukkomi por excelencia de Hololive y por el meme universal del pato bailarín.",
+            "Descripcion": "Entrenadora de un club de MMA y e-sports, alegre y enérgica como un rayo de sol. Conocida como el sol de Hololive y por el meme del pato bailarín.",
             "Youtube": "https://www.youtube.com/@OozoraSubaru",
             "Twitter": "https://x.com/oozorasubaru",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Subaru_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Subaru_F.png"
         }
     },
     {
@@ -296,11 +296,11 @@
             "Debut": "7/Dic/2018",
             "Altura": "1.65 Mts",
             "Fanbase": "Mio-fa",
-            "Descripcion": "Chica lobo de cabello negro que actúa como la figura materna y mediadora de confianza en Hololive. Destaca por sus lecturas de tarot, su risa wheezing contagiosa y sus talentos en canto folclórico y ukelele.",
+            "Descripcion": "Chica lobo que actúa como madre y mediadora de confianza en Hololive. Destaca por sus lecturas de tarot, su risa wheezing y sus talentos en canto folclórico y ukelele.",
             "Youtube": "https://www.youtube.com/@OokamiMio",
             "Twitter": "https://x.com/ookamimio",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Mio_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Mio_F.png"
         }
     },
     {
@@ -315,11 +315,11 @@
             "Debut": "6/Abr/2019",
             "Altura": "1.52 Mts",
             "Fanbase": "Onigiriya",
-            "Descripcion": "Gata criada en una tienda de onigiri con una personalidad sumamente relajada y traviesa. Su voz andrógina y calmada la hace experta en streams de larga duración y juegos de plataformas retro.",
+            "Descripcion": "Gata criada en una tienda de onigiri con una personalidad relajada y traviesa. Su voz andrógina y calmada la hace experta en streams de larga duración y juegos retro.",
             "Youtube": "https://www.youtube.com/@NekomataOkayu",
             "Twitter": "https://x.com/nekomataokayu",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Okayu_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Okayu_F.png"
         }
     },
     {
@@ -334,11 +334,11 @@
             "Debut": "13/Abr/2019",
             "Altura": "1.56 Mts",
             "Fanbase": "Koronesuki",
-            "Descripcion": "Perra Cavalier King Charles Spaniel que trabaja en una panadería. Legendaria por sus maratones de videojuegos retro de más de 24 horas, sus sonidos espontáneos en dialecto de Tohoku y su apetito por recolectar 'yubis' (dedos).",
+            "Descripcion": "Cavalier King Charles Spaniel que trabaja en una panadería. Hace streams muy MUY largos, tiene un apetito por recolectar 'yubis' y es mejor amiga de Okayu.",
             "Youtube": "https://www.youtube.com/@InugamiKorone",
             "Twitter": "https://x.com/inugamikorone",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Korone_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Korone_F.png"
         }
     },
     {
@@ -353,11 +353,11 @@
             "Debut": "17/Jul/2019",
             "Altura": "1.53 Mts",
             "Fanbase": "Nousagi",
-            "Descripcion": "Chica conejo solitaria y traviesa del país de Pekoland. Famosa por sus complejas trampas en Minecraft que a menudo se vuelven en su contra, sus risas maníacas y su carisma caótico.",
+            "Descripcion": "Chica conejo princesa de Pekoland. Famosa por sus complejas trampas en Minecraft que le da su nombre de criminal de guerra, sus risas maníacas y su carisma caótico.",
             "Youtube": "https://www.youtube.com/@usadapekora",
             "Twitter": "https://x.com/usadapekora",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Pekora_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Pekora_F.png"
         }
     },
     {
@@ -372,11 +372,11 @@
             "Debut": "7/Ago/2019",
             "Altura": "1.58 Mts",
             "Fanbase": "Elfriend",
-            "Descripcion": "Medio elfo de tez bronceada y espíritu aventurero. Se distingue por su voz cálida y tranquilizadora, su talento para el canto melódico y sus impresionantes construcciones arquitectónicas en Minecraft.",
+            "Descripcion": "Medio elfo de espíritu aventurero. Tiene voz cálida y tranquilizadora, un gran talento para el canto melódico y es arquitecta en Minecraft.",
             "Youtube": "https://www.youtube.com/@ShiranuiFlare",
             "Twitter": "https://x.com/shiranuiflare",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Flare_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Flare_F.png"
         }
     },
     {
@@ -391,11 +391,11 @@
             "Debut": "8/Ago/2019",
             "Altura": "1.58 Mts",
             "Fanbase": "Shirogumi",
-            "Descripcion": "Caballero novata de corazón bondadoso que compensa su falta de destreza con pura fuerza bruta muscular. Destacada por su gusto por el gyudon y sus streams de ASMR.",
+            "Descripcion": "Caballero novata de corazón bondadoso que compensa su falta de destreza con fuerza bruta. Destaca por su gusto por el gyudon y sus streams de ASMR, y ser LA Ahijo No. 1.",
             "Youtube": "https://www.youtube.com/@ShiroganeNoel",
             "Twitter": "https://x.com/shiroganenoel",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Noel_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Noel_F.png"
         }
     },
     {
@@ -410,11 +410,11 @@
             "Debut": "11/Ago/2019",
             "Altura": "1.50 Mts",
             "Fanbase": "Houshou Ichimi",
-            "Descripcion": "Capitana de cosplay que sueña con comprar su propio barco pirata. Reconocida por su velocidad verbal prodigiosa, su enciclopédico conocimiento de la cultura otaku de los 2000 y sus excepcionales dotes de ilustración.",
+            "Descripcion": "Capitana de cosplay que sueña con comprar su propio barco pirata. Reconocida por hablar muy rápido, ser otaku de los 2000 y gran habilidad artística (y tener 17 años eternos).",
             "Youtube": "https://www.youtube.com/@HoushouMarine",
             "Twitter": "https://x.com/houshoumarine",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Marine_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Marine_F.png"
         }
     },
     {
@@ -429,11 +429,11 @@
             "Debut": "27/Dic/2019",
             "Altura": "1.49 Mts",
             "Fanbase": "Heimin",
-            "Descripcion": "Ángel novata con una legendaria fuerza de agarre de más de 50 kg (apodada PPTenshi). Destaca por su determinación incansable en retos de videojuegos difíciles y su impresionante capacidad vocal.",
+            "Descripcion": "Ángel con una legendaria fuerza de agarre de más de 50 kg. Tiene gran determinacion en retos de videojuegos difíciles y su impresionante capacidad vocal (y ser una gorila).",
             "Youtube": "https://www.youtube.com/@AmaneKanata",
             "Twitter": "https://x.com/amanekanatach",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Kanata_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Kanata_F.png"
         }
     },
     {
@@ -448,11 +448,11 @@
             "Debut": "28/Dic/2019",
             "Altura": "1.80 Mts",
             "Fanbase": "Tatsunoko",
-            "Descripcion": "Dragona irreverente de otra dimensión que sirvió como el mayor puente cultural entre las audiencias occidentales y japonesas gracias a sus programas matutinos de AsaCoco y revisiones de memes de Reddit.",
+            "Descripcion": "Dragona irreverente de otra dimensión que sirvió como el mayor puente cultural entre las audiencias occidentales y japonesas (Te amamos Coco).",
             "Youtube": "https://www.youtube.com/@KiryuCoco",
             "Twitter": "https://x.com/kiryucoco",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Coco_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Coco_F.png"
         }
     },
     {
@@ -467,11 +467,11 @@
             "Debut": "29/Dic/2019",
             "Altura": "1.51 Mts",
             "Fanbase": "Watamate",
-            "Descripcion": "Oveja cantautora con una resistencia inagotable para transmisiones nocturnas de canto y gaming (Watame Night Fever). Inmortalizó la icónica frase 'Watame wa warukunai yo ne' (Watame no hizo nada malo).",
+            "Descripcion": "Oveja con gran stamina de streaming nocturnas de canto y gaming (Watame Night Fever). Watame wa warukunai yo ne.",
             "Youtube": "https://www.youtube.com/@TsunomakiWatame",
             "Twitter": "https://x.com/tsunomakiwatame",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Watame_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Watame_F.png"
         }
     },
     {
@@ -486,11 +486,11 @@
             "Debut": "3/Ene/2020",
             "Altura": "1.50 Mts",
             "Fanbase": "Kenzoku",
-            "Descripcion": "Pequeña diablesa enviada al mundo humano para aprender a hacer el mal, aunque su naturaleza amable, leal y angelical hace que su comunidad la llame cariñosamente TMT (Towa Maji Tenshi). Excelente jugadora de FPS competitivos.",
+            "Descripcion": "Pequeña diabla enviada al mundo a hacer el mal, pero es amable, leal y angelical (Es un ángel). Excelente jugadora de FPS. KIMOE.",
             "Youtube": "https://www.youtube.com/@TokoyamiTowa",
             "Twitter": "https://x.com/tokoyamitowa",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Towa_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Towa_F.png"
         }
     },
     {
@@ -505,11 +505,11 @@
             "Debut": "4/Ene/2020",
             "Altura": "1.50 Mts",
             "Fanbase": "Lu-knight",
-            "Descripcion": "Princesa del Reino de los Caramelos caracterizada por su habla nasal e infantil, su adorable muletilla 'Nnaa~' y su admirable talento musical autodidacta tocando el Electone (órgano electrónico de dos teclados).",
+            "Descripcion": "Princesa del Reino de los Caramelos caracterizada por su habla nasal e infantil, decir 'Nnaa~' y su admirable talento musical autodidacta tocando el Electone.",
             "Youtube": "https://www.youtube.com/@HimemoriLuna",
             "Twitter": "https://x.com/himemoriluna",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Luna_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Luna_F.png"
         }
     },
 
@@ -525,11 +525,11 @@
             "Debut": "12/Ago/2020",
             "Altura": "1.58 Mts",
             "Fanbase": "Yukimin",
-            "Descripcion": "Elfa de las nieves de voz suave y apariencia frágil, famosa por su gran afición y conocimiento del sake japonés (ganadora de medallas con su propio sake 'Jyuurokushizuku') y sus divertidas reacciones a juegos de terror.",
+            "Descripcion": "Elfa de las nieves de voz suave y apariencia frágil, famosa por su gran afición y conocimiento del sake japonés y sus ser miedosa.",
             "Youtube": "https://www.youtube.com/@YukihanaLamy",
             "Twitter": "https://x.com/yukihanalamy",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Lamy_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Lamy_F.png"
         }
     },
     {
@@ -544,11 +544,11 @@
             "Debut": "13/Ago/2020",
             "Altura": "1.53 Mts",
             "Fanbase": "Husbands",
-            "Descripcion": "Chica alegre vestida con temática de gyozas y osos que declara a toda su audiencia como sus 'esposos'. Reconocida por su carisma infantil e hiperactivo, su pasión por los escarabajos rinoceronte y sus emotivos streams de canto.",
+            "Descripcion": "Chica alegre vestida con temática de gyozas y osos, (aunque se parece mas a una foca). Es infantil e hiperactiva, su pasión por los escarabajos y sus emotivos streams de canto.",
             "Youtube": "https://www.youtube.com/@MomosuzuNene",
             "Twitter": "https://x.com/momosuzunene",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Nene_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Nene_F.png"
         }
     },
     {
@@ -563,11 +563,11 @@
             "Debut": "14/Ago/2020",
             "Altura": "1.66 Mts",
             "Fanbase": "SSRB",
-            "Descripcion": "Leona blanca relajada y amante de la tecnología y los shooters en primera persona (FPS). Inmune al miedo en juegos de terror, destaca por su puntería letal, su sabiduría armando PCs y su contagiosa risa wheeze.",
+            "Descripcion": "Leona blanca relajada y amante de la tecnología y FPS. Inmune al miedo en juegos de terror, destaca por su puntería letal, su sabiduría armando PCs y su contagiosa risa.",
             "Youtube": "https://www.youtube.com/@ShishiroBotan",
             "Twitter": "https://x.com/shishirobotan",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Botan_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Botan_F.png"
         }
     },
     {
@@ -582,11 +582,11 @@
             "Debut": "16/Ago/2020",
             "Altura": "1.53 Mts",
             "Fanbase": "Omaza",
-            "Descripcion": "Fénix fennec e intérprete principal de circo con una energía teatral desbordante. Maestra del entretenimiento caótico, efectos de sonido manuales y conductora del show de variedades 'Legend of Polka'.",
+            "Descripcion": "Fennec e intérprete principal de circo con una gran energía teatral. Maestra del entretenimiento caótico, efectos de sonido manuales y capacidad de actuación de voz.",
             "Youtube": "https://www.youtube.com/@OmaruPolka",
             "Twitter": "https://x.com/omarupolka",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Polka_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Polka_F.png"
         }
     },
     {
@@ -601,11 +601,11 @@
             "Debut": "26/Nov/2021",
             "Altura": "1.39 Mts",
             "Fanbase": "Plusmate",
-            "Descripcion": "Líder de la sociedad secreta holoX cuyos poderes originales fueron sellados con grilletes. Famosa por su personalidad de 'kusogaki' orgullosa pero sumamente vulnerable a las burlas de sus subordinadas, y su enorme fanatismo por el k-pop y los FPS.",
+            "Descripcion": "Líder de la sociedad secreta holoX cuyos poderes originales fueron sellados con grilletes. Es una kusogaki, fan del k-pop y los FPS (y es muy yabai).",
             "Youtube": "https://www.youtube.com/@LaplusDarknesss",
             "Twitter": "https://x.com/LaplusDarknesss",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Laplus_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Laplus_F.png"
         }
     },
     {
@@ -620,11 +620,11 @@
             "Debut": "27/Nov/2021",
             "Altura": "1.61 Mts",
             "Fanbase": "Luikomo",
-            "Descripcion": "Oficial ejecutiva (mano derecha) de holoX con temática de halcón. Es el pilar de organización y sentido común del grupo, destacada por sus excelentes dotes culinarias, etiqueta empresarial y cálida personalidad madura.",
+            "Descripcion": "Oficial ejecutiva de holoX. Es el pilar de organización y sentido común del grupo, destaca por sus excelentes dotes culinarias, etiqueta empresarial y cálida personalidad madura.",
             "Youtube": "https://www.youtube.com/@TakaneLui",
             "Twitter": "https://x.com/takanelui",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Lui_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Lui_F.png"
         }
     },
     {
@@ -639,11 +639,11 @@
             "Debut": "28/Nov/2021",
             "Altura": "1.53 Mts",
             "Fanbase": "Assistants",
-            "Descripcion": "Científica e investigadora con orejas y cola de coyote, apodada el 'motor incansable' de Hololive por sus maratónicos horarios de transmisión diarios y su programa matutino de noticias 'Asakoyo'.",
+            "Descripcion": "Científica e investigadora coyote, apodada el 'motor incansable' de Hololive por sus maratónicos horarios de transmisión diarios y su programa matutino de noticias 'Asakoyo'.",
             "Youtube": "https://www.youtube.com/@HakuiKoyori",
             "Twitter": "https://x.com/hakuikoyori",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Koyori_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Koyori_F.png"
         }
     },
     {
@@ -658,11 +658,11 @@
             "Debut": "29/Nov/2021",
             "Altura": "1.48 Mts",
             "Fanbase": "Shiikagakari",
-            "Descripcion": "Orca y 'limpiadora' de la organización. Posee un contraste fascinante entre su voz ronca/seductora al cantar baladas y su personalidad tierna y mimada en charlas, además de su legendaria aversión a bañarse con frecuencia.",
+            "Descripcion": "Orca 'conserje' de la organización. Posee un contraste fascinante entre su voz ronca/seductora al cantar y su personalidad tierna y mimada en charlas (no se baña seguido).",
             "Youtube": "https://www.youtube.com/@SakamataChloe",
             "Twitter": "https://x.com/sakamatachloe",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Chloe_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Chloe_F.png"
         }
     },
     {
@@ -677,11 +677,11 @@
             "Debut": "30/Nov/2021",
             "Altura": "1.56 Mts",
             "Fanbase": "Kazama-tai",
-            "Descripcion": "Guardaespaldas de la sociedad holoX proveniente de una remota aldea montañosa. A pesar de insistir en que es un samurái y no un ninja, sus manierismos 'nin-nin' y su naturaleza inocente y servicial la convirtieron en el blanco favorito de las bromas de sus compañeras.",
+            "Descripcion": "Guardaespaldas de holoX proveniente de una remota aldea montañosa. Es un samurái y no un ninja, aveces molestada por sus compañeras y la hoshiyomi definitiva.",
             "Youtube": "https://www.youtube.com/@KazamaIroha",
             "Twitter": "https://x.com/kazamairohach",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Iroha_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Iroha_F.png"
         }
     },
     {
@@ -696,11 +696,11 @@
             "Debut": "12/Sep/2020",
             "Altura": "1.67 Mts",
             "Fanbase": "Dead Beats",
-            "Descripcion": "Primera aprendiz de la Parca con una trayectoria musical y discográfica de clase mundial. Destaca por sus letras de rap afiladas y veloces en inglés y japonés, combinadas con una personalidad dorky, afectuosa y sobreprotectora hacia sus compañeras.",
+            "Descripcion": "Primera aprendiz de la Muerte, aunque es muy dulce y cool. Rapea en inglés y japonés, es dorky, afectuosa y sobreprotectora hacia sus compañeras.",
             "Youtube": "https://www.youtube.com/@MoriCalliope",
             "Twitter": "https://x.com/moricalliope",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Calli_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Calli_F.png"
         }
     },
     {
@@ -715,11 +715,11 @@
             "Debut": "12/Sep/2020",
             "Altura": "1.65 Mts",
             "Fanbase": "KFP",
-            "Descripcion": "Fénix renacida propietaria de la cadena de comida rápida KFP. Multilingüe (alemán, inglés y japonés) con una inmensa vocación de idol pura, experta en coreografías de baile enérgicas y conductora del talk show 'HOLOTALK'.",
+            "Descripcion": "Fénix CEO de KFP. Multilingüe (alemán, inglés y japonés) con una inmensa vocación de idol pura, experta en baile y conductora del 'HOLOTALK'.",
             "Youtube": "https://www.youtube.com/@TakanashiKiara",
             "Twitter": "https://x.com/takanashikiara",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Kiara_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Kiara_F.png"
         }
     },
     {
@@ -734,11 +734,11 @@
             "Debut": "13/Sep/2020",
             "Altura": "1.57 Mts",
             "Fanbase": "Takodachi",
-            "Descripcion": "Sacerdotisa de los Dioses Antiguos con tentáculos e ilustradora profesional de alto calibre. Reconocida por su atmósfera de stream sumamente pacífica y acogedora (comfy), sus juegos de palabras (puns) interminables y el lema 'WAH'.",
+            "Descripcion": "Sacerdote de los Dioses Antiguos con tentáculos e ilustradora profesional. Es muy pacífica y comfy, adorable y excelente cantante, algún día dominará el mundo, WAH!.",
             "Youtube": "https://www.youtube.com/@NinomaeInanis",
             "Twitter": "https://x.com/ninomaeinanis",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Ina_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Ina_F.png"
         }
     },
     {
@@ -753,11 +753,11 @@
             "Debut": "13/Sep/2020",
             "Altura": "1.41 Mts",
             "Fanbase": "Chumbuds",
-            "Descripcion": "Tiburón de la Atlántida que se convirtió en la VTuber con mayor número de suscriptores del mundo. Célebre por su icónico 'a', su prodigiosa voz cantando clásicos de jazz y city pop, y su humor travieso y despistado en juegos de ritmo y terror.",
+            "Descripcion": "Tiburón de la Atlántida que se convirtió en la VTuber. Canta clásicos de jazz y city pop de forma increible y su humor travieso y despistado en juegos de ritmo y terror. 'A'",
             "Youtube": "https://www.youtube.com/@GawrGura",
             "Twitter": "https://x.com/gawrgura",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Gura_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Gura_F.png"
         }
     },
     {
@@ -772,11 +772,11 @@
             "Debut": "13/Sep/2020",
             "Altura": "1.50 Mts",
             "Fanbase": "Teamates",
-            "Descripcion": "Investigadora privada y viajera en el tiempo. Pionera técnica dentro de Hololive por la creación de estudios de captura 3D caseros y formatos interactivos, además de su estilo gamer competitivo caracterizado por sus ground pounds y rage quits cómicos.",
+            "Descripcion": "Investigadora privada y viajera en el tiempo. Pionera técnica dentro de Hololive, experta en CSGO y CS2 y la mejor amiga de Gura (y enojarse mucho y de forma linda).",
             "Youtube": "https://www.youtube.com/@AmeliaWatson",
             "Twitter": "https://x.com/watsonameliaen",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Ame_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Ame_F.png"
         }
     },
     {
@@ -791,11 +791,11 @@
             "Debut": "11/Jul/2021",
             "Altura": "1.66 Mts",
             "Fanbase": "GuyS",
-            "Descripcion": "Nephilim (mitad ángel, mitad demonio) encargada de traer esperanza al mundo terrenal a través de la música. Se distingue por su prodigioso rango vocal, sus frecuentes comentarios de doble sentido involuntarios (YabaIRyS) y su gran habilidad en Minecraft y Mario Kart.",
+            "Descripcion": "Nephilim encargada de dar esperanza a través de la música. Es muy hábil en Minecraft y Mario Kart, es una ojou-sama aunque débil físicamente y muy Yabai (YabaIrys).",
             "Youtube": "https://www.youtube.com/@IRyS",
             "Twitter": "https://x.com/irys_en",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Irys_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Irys_F.png"
         }
     },
     {
@@ -810,11 +810,11 @@
             "Debut": "22/Ago/2021",
             "Altura": "1.64 Mts",
             "Fanbase": "Saplings",
-            "Descripcion": "Guardiana de la Naturaleza con cuernos de ciervo y ramas vivas. Conocida por su voz sumamente relajante, sus streams de ASMR de nivel profesional, su juego experto en speedruns como Getting Over It y su faceta de jugadora competitiva camuflada tras su calma natural.",
+            "Descripcion": "Guardiana de la Naturaleza. Conocida por su voz relajante, sus streams de ASMR, su juego experto en speedruns y su faceta de jugadora competitiva camuflada tras su calma natural.",
             "Youtube": "https://www.youtube.com/@CeresFauna",
             "Twitter": "https://x.com/ceresfauna",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Fauna_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Fauna_F.png"
         }
     },
     {
@@ -824,16 +824,16 @@
         "Gen": ["Promise"],
         "Modal":
         {
-            "Saludo": "Hello, it's the Warden of Time, Ouro Kronii.",
+            "Saludo": "Kroniichiwa.",
             "Cumpleaños": "14 de Marzo",
             "Debut": "23/Ago/2021",
             "Altura": "1.68 Mts",
             "Fanbase": "Kronies",
-            "Descripcion": "Guardiana del Tiempo de tono barítono elegante, sarcástico y sofisticado. Famosa por su humor seco, sus momentos de crisis existencial y estrés cómico en juegos de rompecabezas, su autoproclamado narcisismo y su legendaria anécdota del sándwich licuado.",
+            "Descripcion": "Guardiana del Tiempo de tono barítono elegante, guapa, poderosa, asombrosa aunque crisis existenciales fugaces y narcisismo lindo (le licuaron su sandwich).",
             "Youtube": "https://www.youtube.com/@OuroKronii",
             "Twitter": "https://x.com/ourokronii",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Kronii_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Kronii_F.png"
         }
     },
     {
@@ -848,11 +848,11 @@
             "Debut": "23/Ago/2021",
             "Altura": "1.56 Mts",
             "Fanbase": "Hoomans",
-            "Descripcion": "Guardiana de la Civilización con rasgos de búho que a menudo olvida detalles cotidianos. Combina una apariencia dulce y voz inocente con una faceta oscura, caótica y artística reflejada en sus inquietantes dibujos y canciones emotivas.",
+            "Descripcion": "Buhó Guardiana de la Civilización. Dulce y linda pero intimidante con dibujos intimidantes, pero con canciones emotivas, es una Towl.",
             "Youtube": "https://www.youtube.com/@NanashiMumei",
             "Twitter": "https://x.com/nanashimumei_en",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Mumei_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Mumei_F.png"
         }
     },
     {
@@ -867,11 +867,11 @@
             "Debut": "23/Ago/2021",
             "Altura": "1.49 Mts",
             "Fanbase": "Bratz",
-            "Descripcion": "Encarnación viva del Caos con apariencia de ratón. A pesar de representar el desorden, frecuentemente funge como el cable a tierra de sus compañeras. Destaca por su dialecto australiano, sus coreografías de baile profesionales y su talento rítmico en el canto.",
+            "Descripcion": "Encarnación del Caos con apariencia de ratón, aunque es linda. Destaca por su dialecto australiano, sus coreografías de baile pro y ser confundida por ser de JP y no EN.",
             "Youtube": "https://www.youtube.com/@HakosBaelz",
             "Twitter": "https://x.com/hakosbaelz",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Bae_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Bae_F.png"
         }
     },
     {
@@ -886,11 +886,11 @@
             "Debut": "22/Ago/2021",
             "Altura": "1.69 Mts",
             "Fanbase": "Sanallites",
-            "Descripcion": "Heraldo del Espacio de escala cósmica y personalidad soleada y reconfortante. Reconocida por su amor a la astronomía, su talento profesional en ilustración digital y su risa expansiva que llenaba de calidez las transmisiones grupales.",
+            "Descripcion": "Heraldo del Espacio de escala cósmica y personalidad reconfortante. Ama la astronomía, tiene talento en dibujo y una risa expansiva que en transmisiones grupales (Sana 4Ever).",
             "Youtube": "https://www.youtube.com/@TsukumoSana",
             "Twitter": "https://x.com/tsukumosana",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Sana_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Sana_F.png"
         }
     },
     {
@@ -905,11 +905,11 @@
             "Debut": "30/Jul/2023",
             "Altura": "1.52 Mts",
             "Fanbase": "Novellites",
-            "Descripcion": "Archivera obsesionada con recopilar historias y conocimientos prohibidos. Famosa por sus anécdotas extravagantes sin filtro, su gusto por el terror psicológico, su risa desquiciada y su fascinación por fabricar tinta artesanal y recortar revistas.",
+            "Descripcion": "Archivera obsesionada con recopilar historias y conocimientos prohibidos. Famosa por su gusto por el terror psicológico, su fascinación por fabricar tinta y recortar revistas.",
             "Youtube": "https://www.youtube.com/@ShioriNovella",
             "Twitter": "https://x.com/shiorinovella",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Shiori_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Shiori_F.png"
         }
     },
     {
@@ -919,16 +919,16 @@
         "Gen": ["Advent"],
         "Modal":
         {
-            "Saludo": "Dang it! It's the Jewel of Emotions, Koseki Bijou! :D",
+            "Saludo": "Bon Bijou! :D",
             "Cumpleaños": "14 de Abril",
             "Debut": "30/Jul/2023",
             "Altura": "1.40 Mts",
             "Fanbase": "Pebbles",
-            "Descripcion": "Joya viviente formada por la cristalización de emociones humanas. Destaca por su resistencia de acero para completar retos ultra difíciles en juegos Soulsborne y Elden Ring, su arsenal infinito de memes de internet (brainrot) y su energía hilarante de hermana menor.",
+            "Descripcion": "Joya viviente formada por la cristalización de emociones humanas. Gamer de souls, brainrot PRO y su energía hilarante de hermana menor, además de ser una kusogaki.",
             "Youtube": "https://www.youtube.com/@KosekiBijou",
             "Twitter": "https://x.com/kosekibijou",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Bijou_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Bijou_F.png"
         }
     },
     {
@@ -938,16 +938,16 @@
         "Gen": ["Advent"],
         "Modal":
         {
-            "Saludo": "Hey, cutie! It's the Demon of Soup and Song, Nerissa Ravencroft!",
+            "Saludo": "Hey, darlings! It's the Demon of Soup and Song, Nerissa Ravencroft!",
             "Cumpleaños": "21 de Noviembre",
             "Debut": "31/Jul/2023",
             "Altura": "1.75 Mts",
             "Fanbase": "Jailbirds",
-            "Descripcion": "Demonio de las sombras y el canto encerrada por su voz prohibida. Dueña de un rango vocal y estilo teatral operístico imponente, además de un encanto familiar entrañable reflejado en sus divertidas charlas sobre su vida cotidiana con su peculiar familia de cuervos.",
+            "Descripcion": "Demonio del canto, dueña de un rango vocal y estilo teatral operístico imponente, además de un encanto familiar entrañable y mostrar a toda su familia.",
             "Youtube": "https://www.youtube.com/@NerissaRavencroft",
             "Twitter": "https://x.com/nerissa_en",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Rissa_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Rissa_F.png"
         }
     },
     {
@@ -957,16 +957,16 @@
         "Gen": ["Advent"],
         "Modal":
         {
-            "Saludo": "Bow wow! I'm Fuwawa, the fluffy older twin sister of FUWAMOCO!",
+            "Saludo": "I'm not a chihuahua, I'm Fuwawa!",
             "Cumpleaños": "1 de Febrero",
             "Debut": "31/Jul/2023",
             "Altura": "1.58 Mts",
             "Fanbase": "Ruffians",
-            "Descripcion": "Gemela mayor y más tranquila del dúo guardián del inframundo. Con su característica risa coqueta y actitud protectora, equilibra la energía de su hermana menor mientras dirigen juntas el programa matutino diario 'FWMC Morning'.",
+            "Descripcion": "Gemela mayor y más tranquila del dúo guardián del inframundo. De actitud protectora, equilibra la energía de su hermana menor aunque muy celosa con ella.",
             "Youtube": "https://www.youtube.com/@FUWAMOCOch",
             "Twitter": "https://x.com/fuwamoco_en",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Fuwawa_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Fuwawa_F.png"
         }
     },
     {
@@ -976,16 +976,16 @@
         "Gen": ["Advent"],
         "Modal":
         {
-            "Saludo": "Bau bau! I'm Mococo, the fuzzy younger twin sister of FUWAMOCO!",
+            "Saludo": "I'm not Fuwawa, I'm Mococo!",
             "Cumpleaños": "1 de Febrero",
             "Debut": "31/Jul/2023",
             "Altura": "1.58 Mts",
             "Fanbase": "Ruffians",
-            "Descripcion": "Gemela menor enérgica y revoltosa del dúo guardián canino. Famosa por sus icónicos gruñidos 'bau bau', su competitividad y sus berrinches cómicos en juegos de acción y aventuras cooperativas.",
+            "Descripcion": "Gemela menor enérgica y revoltosa del dúo guardián. Famosa por su competitividad y sus berrinches cómicos en juegos, estornudar mucho y acabar las palabras con e (hoeh).",
             "Youtube": "https://www.youtube.com/@FUWAMOCOch",
             "Twitter": "https://x.com/fuwamoco_en",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Mococo_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Mococo_F.png"
         }
     },
     {
@@ -1000,11 +1000,11 @@
             "Debut": "22/Jun/2024",
             "Altura": "1.70 Mts",
             "Fanbase": "Bloodflame Knights (Champions)",
-            "Descripcion": "Líder de Hololive English -Justice-, destacada por su potente rango vocal lírico y de teatro musical, su marcado acento británico RP y una presencia escénica dominante pero entrañablemente afectuosa con sus compañeras.",
+            "Descripcion": "Líder de Justice, destacada por su potente rango vocal lírico y de teatro musical, su acento británico y una presencia escénica dominante pero afectuosa con sus compañeras.",
             "Youtube": "https://www.youtube.com/@ElizabethRoseBloodflame",
             "Twitter": "https://x.com/ERBloodflame",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/ERB_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/ERB_F.png"
         }
     },
     {
@@ -1019,11 +1019,11 @@
             "Debut": "22/Jun/2024",
             "Altura": "1.53 Mts",
             "Fanbase": "Gremlins",
-            "Descripcion": "Rastreadora y gremlin honoraria del escuadrón. Posee un sentido del humor veloz, caótico y espontáneo, acompañado de comentarios agudos, excelente capacidad de improvisación cómica y afinidad por los juegos de estrategia y deducción.",
+            "Descripcion": "Rastreadora y gremlin honoraria del escuadrón. Posee un sentido del humor veloz, caótico y espontáneo, capacidad de improvisación cómica aunque brainrot pero sumamente inteligente.",
             "Youtube": "https://www.youtube.com/@GigiMurin",
             "Twitter": "https://x.com/gigimurin",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Gigi_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Gigi_F.png"
         }
     },
     {
@@ -1038,11 +1038,11 @@
             "Debut": "23/Jun/2024",
             "Altura": "1.58 Mts",
             "Fanbase": "Otomin",
-            "Descripcion": "Autómata impulsada por cuerda y música. Célebre por sus interpretaciones de violín y flauta en directo, su peculiar risa teatral de 'villana refinada' y su fascinación por los juegos clásicos de aventura y supervivencia.",
+            "Descripcion": "Autómata impulsada por cuerda y música. Sabe tocar violín y flauta, su risa teatral y su fascinación por los juegos clásicos de aventura y supervivencia, y es dúo de Gigi.",
             "Youtube": "https://www.youtube.com/@CeciliaImmergreen",
             "Twitter": "https://x.com/ceciliaimgreen",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Ceci_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Ceci_F.png"
         }
     },
     {
@@ -1052,16 +1052,16 @@
         "Gen": ["Justice"],
         "Modal":
         {
-            "Saludo": "Ciao a tutti! It's your cute pink panther artist, Raora Panthera!",
+            "Saludo": "Ciaora!",
             "Cumpleaños": "24 de Enero",
             "Debut": "23/Jun/2024",
             "Altura": "1.62 Mts",
             "Fanbase": "Chattino",
-            "Descripcion": "Pantera rosa de ojos brillantes especializada en investigación visual y arte digital. Se distingue por su encantador acento italiano, su talento sobresaliente en ilustración y bocetos en vivo, y su personalidad afectuosa y reconfortante.",
+            "Descripcion": "Pantera rosa especializada en investigación visual y arte digital. Tiene acento italiano, pro en dibujo y bocetos en vivo, y su personalidad afectuosa y reconfortante.",
             "Youtube": "https://www.youtube.com/@RaoraPanthera",
             "Twitter": "https://x.com/raorapanthera",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Raora_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Raora_F.png"
         }
     },
     {
@@ -1079,8 +1079,8 @@
             "Descripcion": "Chica ardilla de un bosque mágico que terminó en el mundo humano. Famosa a nivel global por sus videos anuales del 'Nonstop Nut November (NNN)', su risa de tetera hirviendo y una prodigiosa dualidad vocal que alterna entre un tono sumamente tierno y una voz madura, potente y profunda (Ayunda).",
             "Youtube": "https://www.youtube.com/@AyundaRisu",
             "Twitter": "https://x.com/ayunda_risu",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/_F.png"
         }
     },
     {
@@ -1098,8 +1098,8 @@
             "Descripcion": "Modelo humana fusionada con la diosa de la Luna. Reconocida como una de las mejores vocalistas de la agencia por su tono profundo y emotivo, además de su legendaria amistad y complicidad con Usada Pekora durante la construcción del servidor de Minecraft (Usada Kensetsu).",
             "Youtube": "https://www.youtube.com/@MoonaHoshinova",
             "Twitter": "https://x.com/moonahoshinova",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/_F.png"
         }
     },
     {
@@ -1117,8 +1117,8 @@
             "Descripcion": "Princesa alienígena apasionada por la Tierra que escapó de su planeta para estudiar arte. Actúa como el puente políglota indiscutible de Hololive gracias a su fluidez en indonesio, inglés, japonés, javanés, sundanés y alemán, destacando por sus transmisiones de ilustración y entrevistas inter-ramas.",
             "Youtube": "https://www.youtube.com/@AiraniIofifteen",
             "Twitter": "https://x.com/airaniiofifteen",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/_F.png"
         }
     },
     {
@@ -1136,8 +1136,8 @@
             "Descripcion": "Zombi resucitada que escapó de su tumba tras descubrir el anime y las idols. Célebre por sus gritos ensordecedores a todo volumen, su velocidad verbal imparable, su pasión infinita por el ajedrez y su amor desmedido e insistente hacia casi todas sus senpais.",
             "Youtube": "https://www.youtube.com/@KureijiOllie",
             "Twitter": "https://x.com/kureijiollie",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/_F.png"
         }
     },
     {
@@ -1155,8 +1155,8 @@
             "Descripcion": "Antigua daga tradicional indonesia (Keris) que cobró forma humana mediante un ritual místico. Posee una actitud apática, sarcástica y sumamente tranquila, experta en comentarios agudos y juiciosos, además de volverse un meme viral por su característica expresión facial impasible ('Anya Face').",
             "Youtube": "https://www.youtube.com/@AnyaMelfissa",
             "Twitter": "https://x.com/anyamelfissa",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/_F.png"
         }
     },
     {
@@ -1174,8 +1174,8 @@
             "Descripcion": "Dama de la nobleza pavo real transferida al mundo humano mientras asistía a una academia de magia. Destaca por su porte aristocrático contrastado con su peculiar risa semejante a un motor de automóvil arrancando, sus canciones de R&B/pop sofisticadas y su adicción a las novelas ligeras.",
             "Youtube": "https://www.youtube.com/@PavoliaReine",
             "Twitter": "https://x.com/pavoliareine",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/_F.png"
         }
     },
     {
@@ -1193,8 +1193,8 @@
             "Descripcion": "Agente encubierta del 'Secret Archive Unit' asignada a investigar el mundo virtual. Reconocida por su voz dulce y susurrada, su puntería en FPS como Valorant y por la insistente broma de su comunidad de compararla con un gato gris, a pesar de sus constantes negaciones.",
             "Youtube": "https://www.youtube.com/@VestiaZeta",
             "Twitter": "https://x.com/vestiazeta",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/_F.png"
         }
     },
     {
@@ -1212,8 +1212,8 @@
             "Descripcion": "Herrera formidable de presencia imponente y risa silenciosa. Legendaria en la comunidad por su resistencia sobrehumana para maratones de farmeo y minería de docenas de horas en juegos de gestión, supervivencia y League of Legends bajo el lema 'No pressure'.",
             "Youtube": "https://www.youtube.com/@KaelaKovalskia",
             "Twitter": "https://x.com/kaelakovalskia",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/_F.png"
         }
     },
     {
@@ -1231,8 +1231,8 @@
             "Descripcion": "Chamán de la lluvia alegre y mimada que busca recuperar el prestigio del negocio familiar. Un fenómeno masivo en el sudeste asiático por su energía contagiosa de hermana menor traviesa, su talento natural tocando la guitarra y cantando, y su habilidad cómica en juegos multijugador.",
             "Youtube": "https://www.youtube.com/@KoboKanaeru",
             "Twitter": "https://x.com/kobokanaeru",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/_F.png"
         }
     },
     {
@@ -1250,8 +1250,8 @@
             "Descripcion": "Mangaka autoproclamada 'ikemen' y solitaria de gustos refinados. A pesar de su apariencia elegante y voz seductora, es propensa a avergonzarse con facilidad y ser objeto de burlas cariñosas por parte de sus compañeras debido a sus reacciones cómicas y torpes.",
             "Youtube": "https://www.youtube.com/@HiodoshiAo",
             "Twitter": "https://x.com/hiodoshiao",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/_F.png"
         }
     },
     {
@@ -1269,8 +1269,8 @@
             "Descripcion": "Músico aprendiz con una personalidad infantil, escandalosa y desvergonzadamente traviesa. Destaca por el asombroso contraste entre sus chillidos de 'kusogaki' en charlas y su impecable rango vocal y destreza técnica al interpretar baladas y canciones pop complejas.",
             "Youtube": "https://www.youtube.com/@OtonoseKanade",
             "Twitter": "https://x.com/otonosekanade",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/_F.png"
         }
     },
     {
@@ -1288,8 +1288,8 @@
             "Descripcion": "Joven emprendedora y presidenta de su propia compañía con una energía contagiosa y actitud positiva inquebrantable. Se distingue por sus transmisiones matutinas de charla y cocina, su risa estruendosa y su entusiasmo por conectar con personas de todo el mundo.",
             "Youtube": "https://www.youtube.com/@IchijouRirika",
             "Twitter": "https://x.com/ichijouririka",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/_F.png"
         }
     },
     {
@@ -1307,8 +1307,8 @@
             "Descripcion": "Narradora tradicional de rakugo y apasionada divulgadora cultural. Destaca por su erudición enciclopédica sobre museos, arte clásico, literatura, arquitectura japonesa y sake, transmitida con una elocuencia teatral única en el medio.",
             "Youtube": "https://www.youtube.com/@JuufuuteiRaden",
             "Twitter": "https://x.com/juufuuteiraden",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/_F.png"
         }
     },
     {
@@ -1326,8 +1326,8 @@
             "Descripcion": "Líder de pandilla ('bancho') que aspira a ser la mejor del mundo. Muy querida por su particular manera de arrastrar las palabras y ceceo que la hace sonar adorable en lugar de intimidante, contrastado de manera impresionante con su talento sobresaliente en el baile y coreografía urbana.",
             "Youtube": "https://www.youtube.com/@TodorokiHajime",
             "Twitter": "https://x.com/todoroki_hajime",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/_F.png"
         }
     },
     {
@@ -1345,8 +1345,8 @@
             "Descripcion": "Líder indiscutible de FLOW GLOW con una presencia escénica electrizante y espíritu competitivo. Destaca por su voz enérgica en géneros de hip-hop y rock urbano, además de su papel protector e impulsivo dentro del grupo.",
             "Youtube": "https://www.youtube.com/@IsakiRiona",
             "Twitter": "https://x.com/isakiriona",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/_F.png"
         }
     },
     {
@@ -1364,8 +1364,8 @@
             "Descripcion": "Personalidad traviesa y risueña del grupo con un carisma callejero inconfundible. Su estilo vocal ágil y su ritmo rápido al rapear complementan una actitud divertida, siempre dispuesta a levantar los ánimos de sus compañeras.",
             "Youtube": "https://www.youtube.com/@KoganeiNiko",
             "Twitter": "https://x.com/koganeiniko",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/_F.png"
         }
     },
     {
@@ -1383,8 +1383,8 @@
             "Descripcion": "El eje de tranquilidad y templanza de FLOW GLOW. Aporta una voz suave, melódica y atmosférica a las composiciones musicales, balanceando con su serenidad y humor sutil el caos del resto de la alineación.",
             "Youtube": "https://www.youtube.com/@MizumiyaSu",
             "Twitter": "https://x.com/mizumiyasu",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/_F.png"
         }
     },
     {
@@ -1402,8 +1402,8 @@
             "Descripcion": "Fanática de la velocidad, la cultura automotriz y los ritmos acelerados. Combina una actitud decidida y madura con un timbre vocal dinámico, destacando en temas de alta intensidad y en directos de gaming de reflejos rápidos.",
             "Youtube": "https://www.youtube.com/@RindoChihaya",
             "Twitter": "https://x.com/rindochihaya",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/_F.png"
         }
     },
     {
@@ -1421,8 +1421,8 @@
             "Descripcion": "Diseñadora de tendencias y referente de estilo del quinteto. Sobresale por su estética visual extravagante, su energía burbujeante y su tono vocal versátil, transitando con naturalidad entre melodías pop alegres y versos de rap rítmicos.",
             "Youtube": "https://www.youtube.com/@KikirikiVivi",
             "Twitter": "https://x.com/kikirikivivi",
-            "Outfit1": "",
-            "Outfit2": ""
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/_F.png"
         }
     }
 ]
