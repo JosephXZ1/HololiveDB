@@ -1,0 +1,1428 @@
+[
+    {
+        "Id": 1,
+        "Nombre": "Tokino Sora",
+        "NombreJP": "ときのそら",
+        "Gen": ["Zero"],
+        "Modal":
+        {
+            "Saludo": "Everyone! How are you doing? It's me, Tokino Sora!",
+            "Cumpleaños": "15 de Mayo",
+            "Debut": "7/Sep/2017",
+            "Altura": "1.60 Mts",
+            "Fanbase": "Sora-tomo",
+            "Descripcion": "El Alfa y el Omega, el inicio de todo, pilar fundamental de Hololive y la Idol definitiva",
+            "Youtube": "https://www.youtube.com/@tokinosora",
+            "Twitter": "https://x.com/tokino_sora",
+            "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Sora_OG.png",
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Sora_F.png"
+        }
+    },
+    {
+        "Id": 2,
+        "Nombre": "Roboco-san",
+        "NombreJP": "ロボ子さん",
+        "Gen": ["Zero"],
+        "Modal":
+        {
+            "Saludo": "Hellobo! I'm the high-spec robot, Roboco-san!",
+            "Cumpleaños": "23 de Mayo",
+            "Debut": "4/Mar/2018",
+            "Altura": "1.54 Mts",
+            "Fanbase": "Robosa",
+            "Descripcion": "Robot de alta gama torpe pero adorable, conocida por su voz suave y relajante, su habilidad en shooters y su risa contagiosa.",
+            "Youtube": "https://www.youtube.com/@Robocosan",
+            "Twitter": "https://x.com/robocosan",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 3,
+        "Nombre": "Sakura Miko",
+        "NombreJP": "さくらみこ",
+        "Gen": ["Zero"],
+        "Modal":
+        {
+            "Saludo": "Nya-hello! I'm the elite shrine maiden, Sakura Miko!",
+            "Cumpleaños": "5 de Marzo",
+            "Debut": "1/Ago/2018",
+            "Altura": "1.52 Mts",
+            "Fanbase": "35P",
+            "Descripcion": "Sacerdotisa shintoísta autoproclamada 'Elite', famosa por su lenguaje único (lenguaje élite), su carisma cómico y momentos pon en stream.",
+            "Youtube": "https://www.youtube.com/@SakuraMiko",
+            "Twitter": "https://x.com/sakuramiko35",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 4,
+        "Nombre": "Hoshimachi Suisei",
+        "NombreJP": "星街すいせい",
+        "Gen": ["Zero"],
+        "Modal":
+        {
+            "Saludo": "It's your shooting star, your diamond in the rough, idol VTuber Hoshimachi Suisei! Sui-chan wa~ kyou mo kawaii!",
+            "Cumpleaños": "22 de Marzo",
+            "Debut": "22/Mar/2018",
+            "Altura": "1.60 Mts",
+            "Fanbase": "Hoshiyomi",
+            "Descripcion": "Potencia vocal y estrella fugaz de Hololive, reconocida por su carrera musical de primer nivel, su talento en Tetris y su lado despiadado y divertido en juegos de engaño.",
+            "Youtube": "https://www.youtube.com/@HoshimachiSuisei",
+            "Twitter": "https://x.com/suisei_hosimati",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 5,
+        "Nombre": "AZKi",
+        "NombreJP": "あずき",
+        "Gen": ["Zero"],
+        "Modal":
+        {
+            "Saludo": "Hello, this is diva AZKi!",
+            "Cumpleaños": "1 de Julio",
+            "Debut": "15/Nov/2018",
+            "Altura": "1.58 Mts",
+            "Fanbase": "Pioneer",
+            "Descripcion": "Diva virtual originaria de INoNaKa Music transferida a Hololive; destaca por su voz melódica y versátil, además de sus legendarias habilidades de deducción en GeoGuessr.",
+            "Youtube": "https://www.youtube.com/@AZKi",
+            "Twitter": "https://x.com/AZKi_VDiVA",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 6,
+        "Nombre": "Yozora Mel",
+        "NombreJP": "夜空メル",
+        "Gen": ["1st"],
+        "Modal":
+        {
+            "Saludo": "Kapu-kapu~! It's Yozora Mel, Hololive's vampire!",
+            "Cumpleaños": "31 de Octubre",
+            "Debut": "13/May/2018",
+            "Altura": "1.54 Mts",
+            "Fanbase": "Kapumin",
+            "Descripcion": "Vampiresa dulce y de voz angelical que prefiere el jugo de acerola a la sangre. Parte fundamental del inicio de la primera generación.",
+            "Youtube": "https://www.youtube.com/@YozoraMel",
+            "Twitter": "https://x.com/yozoramel",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 7,
+        "Nombre": "Shirakami Fubuki",
+        "NombreJP": "白上フブキ",
+        "Gen": ["1st", "GAMERS"],
+        "Modal":
+        {
+            "Saludo": "Konkon kitsune! Shirakami Fubuki desu!",
+            "Cumpleaños": "5 de Octubre",
+            "Debut": "1/Jun/2018",
+            "Altura": "1.55 Mts",
+            "Fanbase": "Sukonbu",
+            "Descripcion": "Zorro ártico otaku y líder informal de Hololive. Famosa por sus streams de gaming de alta resistencia, memes a alta velocidad y su carisma que conecta Gen 1 con GAMERS.",
+            "Youtube": "https://www.youtube.com/@ShirakamiFubuki",
+            "Twitter": "https://x.com/shirakamifubuki",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 8,
+        "Nombre": "Natsuiro Matsuri",
+        "NombreJP": "夏色まつり",
+        "Gen": ["1st"],
+        "Modal":
+        {
+            "Saludo": "Wasshoi! Hololive 1st Gen's pure and energetic festival girl, Natsuiro Matsuri!",
+            "Cumpleaños": "22 de Julio",
+            "Debut": "1/Jun/2018",
+            "Altura": "1.52 Mts",
+            "Fanbase": "Matsurisu",
+            "Descripcion": "Chica de instituto alegre y expresiva vinculada a festivales japoneses. Reconocida por su voz clara en canto, su personalidad extrovertida y su espontaneidad.",
+            "Youtube": "https://www.youtube.com/@NatsuiroMatsuri",
+            "Twitter": "https://x.com/natsuiromatsuri",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 9,
+        "Nombre": "Aki Rosenthal",
+        "NombreJP": "アキ・ローゼンタール",
+        "Gen": ["1st"],
+        "Modal":
+        {
+            "Saludo": "Alona! Aki Rosenthal desu!",
+            "Cumpleaños": "17 de Febrero",
+            "Debut": "1/Jun/2018",
+            "Altura": "1.62 Mts",
+            "Fanbase": "Rosetai",
+            "Descripcion": "Chica elfo proveniente de otra dimensión. Destaca por su pasión por la danza del vientre, su habilidad en juegos de supervivencia como Ark y su estilo de stream relajado.",
+            "Youtube": "https://www.youtube.com/@AkiRosenthal",
+            "Twitter": "https://x.com/akirosenthal",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 10,
+        "Nombre": "Akai Haato",
+        "NombreJP": "赤井はあと",
+        "Gen": ["1st"],
+        "Modal":
+        {
+            "Saludo": "Haachama-chama~! Welcome to Haato Channel!",
+            "Cumpleaños": "10 de Agosto",
+            "Debut": "2/Jun/2018",
+            "Altura": "1.54 Mts",
+            "Fanbase": "Haaton",
+            "Descripcion": "Tsundere rebelde con doble identidad ('Haato' y el alter-ego caótico 'Haachama'). Revolucionó la creación de contenido con vlogs abstractos, cocina experimental y edición surrealista.",
+            "Youtube": "https://www.youtube.com/@AkaiHaato",
+            "Twitter": "https://x.com/akaihaato",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 11,
+        "Nombre": "Minato Aqua",
+        "NombreJP": "湊あくあ",
+        "Gen": ["2nd"],
+        "Modal":
+        {
+            "Saludo": "A-K-U-A! Minato Aqua desu!",
+            "Cumpleaños": "1 de Diciembre",
+            "Debut": "8/Ago/2018",
+            "Altura": "1.48 Mts",
+            "Fanbase": "Aqua Crew",
+            "Descripcion": "Maid marina torpe y tierna, célebre por su timidez extrema en la vida cotidiana combinada con un nivel de juego competitivo e hiperactivo en títulos como Apex Legends y Smash Bros.",
+            "Youtube": "https://www.youtube.com/@MinatoAqua",
+            "Twitter": "https://x.com/minatoaqua",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 12,
+        "Nombre": "Murasaki Shion",
+        "NombreJP": "紫咲シオン",
+        "Gen": ["2nd"],
+        "Modal":
+        {
+            "Saludo": "Hellshio! It's Murasaki Shion!",
+            "Cumpleaños": "8 de Diciembre",
+            "Debut": "17/Ago/2018",
+            "Altura": "1.45 Mts",
+            "Fanbase": "Shiokko",
+            "Descripcion": "Maga de magia negra infantil y engreída, de personalidad marcadamente bratty/kusogaki, conocida por sus bromas sarcásticas, su risa característica y sus streams matutinos retrasados.",
+            "Youtube": "https://www.youtube.com/@MurasakiShion",
+            "Twitter": "https://x.com/murasakishionch",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 13,
+        "Nombre": "Nakiri Ayame",
+        "NombreJP": "百鬼あやめ",
+        "Gen": ["2nd"],
+        "Modal":
+        {
+            "Saludo": "Konnakiri~! Nakiri Ayame desu!",
+            "Cumpleaños": "13 de Diciembre",
+            "Debut": "3/Sep/2018",
+            "Altura": "1.52 Mts",
+            "Fanbase": "Nakiri-gumi",
+            "Descripcion": "Oni con kimono de la Academia Demoníaca del Inframundo. Destaca por su risa risueña y contagiosa (Nakirium), su ternura natural y su afición a juegos multijugador y de disparos.",
+            "Youtube": "https://www.youtube.com/@NakiriAyame",
+            "Twitter": "https://x.com/nakiriayame",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 14,
+        "Nombre": "Yuzuki Choco",
+        "NombreJP": "癒月ちょこ",
+        "Gen": ["2nd"],
+        "Modal":
+        {
+            "Saludo": "Good evening, my cute students! Choco-sensei here!",
+            "Cumpleaños": "14 de Febrero",
+            "Debut": "4/Sep/2018",
+            "Altura": "1.65 Mts",
+            "Fanbase": "Chocomate",
+            "Descripcion": "Súcubo y enfermera escolar de la Academia Demoníaca. Famosa por su tono de voz seductor y ASMR de alta calidad, sus legendarios cuestionarios de cultura general y su habilidad culinaria.",
+            "Youtube": "https://www.youtube.com/@YuzukiChoco",
+            "Twitter": "https://x.com/yuzukichococh",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 15,
+        "Nombre": "Oozora Subaru",
+        "NombreJP": "大空スバル",
+        "Gen": ["2nd"],
+        "Modal":
+        {
+            "Saludo": "Sup, everyone! It's Hololive 2nd Gen's MMA club manager, Oozora Subaru!",
+            "Cumpleaños": "2 de Julio",
+            "Debut": "16/Sep/2018",
+            "Altura": "1.54 Mts",
+            "Fanbase": "Subatomo",
+            "Descripcion": "Entrenadora de un club de MMA y e-sports, alegre y enérgica como un rayo de sol. Conocida como la tsukkomi por excelencia de Hololive y por el meme universal del pato bailarín.",
+            "Youtube": "https://www.youtube.com/@OozoraSubaru",
+            "Twitter": "https://x.com/oozorasubaru",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 16,
+        "Nombre": "Ookami Mio",
+        "NombreJP": "大神ミオ",
+        "Gen": ["GAMERS"],
+        "Modal":
+        {
+            "Saludo": "Konbanmio! Ookami Mio da yo!",
+            "Cumpleaños": "20 de Agosto",
+            "Debut": "7/Dic/2018",
+            "Altura": "1.65 Mts",
+            "Fanbase": "Mio-fa",
+            "Descripcion": "Chica lobo de cabello negro que actúa como la figura materna y mediadora de confianza en Hololive. Destaca por sus lecturas de tarot, su risa wheezing contagiosa y sus talentos en canto folclórico y ukelele.",
+            "Youtube": "https://www.youtube.com/@OokamiMio",
+            "Twitter": "https://x.com/ookamimio",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 17,
+        "Nombre": "Nekomata Okayu",
+        "NombreJP": "猫又おかゆ",
+        "Gen": ["GAMERS"],
+        "Modal":
+        {
+            "Saludo": "Mogu mogu~ Okayu! Hello, everyone, it's Nekomata Okayu!",
+            "Cumpleaños": "22 de Febrero",
+            "Debut": "6/Abr/2019",
+            "Altura": "1.52 Mts",
+            "Fanbase": "Onigiriya",
+            "Descripcion": "Gata criada en una tienda de onigiri con una personalidad sumamente relajada y traviesa. Su voz andrógina y calmada la hace experta en streams de larga duración y juegos de plataformas retro.",
+            "Youtube": "https://www.youtube.com/@NekomataOkayu",
+            "Twitter": "https://x.com/nekomataokayu",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 18,
+        "Nombre": "Inugami Korone",
+        "NombreJP": "戌神ころね",
+        "Gen": ["GAMERS"],
+        "Modal":
+        {
+            "Saludo": "Orayo! Fingers, fingers! It's Inugami Korone!",
+            "Cumpleaños": "1 de Octubre",
+            "Debut": "13/Abr/2019",
+            "Altura": "1.56 Mts",
+            "Fanbase": "Koronesuki",
+            "Descripcion": "Perra Cavalier King Charles Spaniel que trabaja en una panadería. Legendaria por sus maratones de videojuegos retro de más de 24 horas, sus sonidos espontáneos en dialecto de Tohoku y su apetito por recolectar 'yubis' (dedos).",
+            "Youtube": "https://www.youtube.com/@InugamiKorone",
+            "Twitter": "https://x.com/inugamikorone",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 19,
+        "Nombre": "Usada Pekora",
+        "NombreJP": "兎田ぺこら",
+        "Gen": ["3rd"],
+        "Modal":
+        {
+            "Saludo": "Konpeko, konpeko, konpeko! It's Usada Pekora, peko!",
+            "Cumpleaños": "12 de Enero",
+            "Debut": "17/Jul/2019",
+            "Altura": "1.53 Mts",
+            "Fanbase": "Nousagi",
+            "Descripcion": "Chica conejo solitaria y traviesa del país de Pekoland. Famosa por sus complejas trampas en Minecraft que a menudo se vuelven en su contra, sus risas maníacas y su carisma caótico.",
+            "Youtube": "https://www.youtube.com/@usadapekora",
+            "Twitter": "https://x.com/usadapekora",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 20,
+        "Nombre": "Shiranui Flare",
+        "NombreJP": "不知火フレア",
+        "Gen": ["3rd"],
+        "Modal":
+        {
+            "Saludo": "Noon-noon! Flare here!",
+            "Cumpleaños": "2 de Abril",
+            "Debut": "7/Ago/2019",
+            "Altura": "1.58 Mts",
+            "Fanbase": "Elfriend",
+            "Descripcion": "Medio elfo de tez bronceada y espíritu aventurero. Se distingue por su voz cálida y tranquilizadora, su talento para el canto melódico y sus impresionantes construcciones arquitectónicas en Minecraft.",
+            "Youtube": "https://www.youtube.com/@ShiranuiFlare",
+            "Twitter": "https://x.com/shiranuiflare",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 21,
+        "Nombre": "Shirogane Noel",
+        "NombreJP": "白銀ノエル",
+        "Gen": ["3rd"],
+        "Modal":
+        {
+            "Saludo": "Konnassuru! Shirogane Noel desu!",
+            "Cumpleaños": "24 de Noviembre",
+            "Debut": "8/Ago/2019",
+            "Altura": "1.58 Mts",
+            "Fanbase": "Shirogumi",
+            "Descripcion": "Caballero novata de corazón bondadoso que compensa su falta de destreza con pura fuerza bruta muscular. Destacada por su gusto por el gyudon y sus streams de ASMR.",
+            "Youtube": "https://www.youtube.com/@ShiroganeNoel",
+            "Twitter": "https://x.com/shiroganenoel",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 22,
+        "Nombre": "Houshou Marine",
+        "NombreJP": "宝鐘マリン",
+        "Gen": ["3rd"],
+        "Modal":
+        {
+            "Saludo": "Ahoy! Houshou Pirate Captain, Houshou Marine desu!",
+            "Cumpleaños": "30 de Julio",
+            "Debut": "11/Ago/2019",
+            "Altura": "1.50 Mts",
+            "Fanbase": "Houshou Ichimi",
+            "Descripcion": "Capitana de cosplay que sueña con comprar su propio barco pirata. Reconocida por su velocidad verbal prodigiosa, su enciclopédico conocimiento de la cultura otaku de los 2000 y sus excepcionales dotes de ilustración.",
+            "Youtube": "https://www.youtube.com/@HoushouMarine",
+            "Twitter": "https://x.com/houshoumarine",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 23,
+        "Nombre": "Amane Kanata",
+        "NombreJP": "天音かなた",
+        "Gen": ["4th"],
+        "Modal":
+        {
+            "Saludo": "Konkanata! Hololive 4th Gen's angel, Amane Kanata desu!",
+            "Cumpleaños": "22 de Abril",
+            "Debut": "27/Dic/2019",
+            "Altura": "1.49 Mts",
+            "Fanbase": "Heimin",
+            "Descripcion": "Ángel novata con una legendaria fuerza de agarre de más de 50 kg (apodada PPTenshi). Destaca por su determinación incansable en retos de videojuegos difíciles y su impresionante capacidad vocal.",
+            "Youtube": "https://www.youtube.com/@AmaneKanata",
+            "Twitter": "https://x.com/amanekanatach",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 24,
+        "Nombre": "Kiryu Coco",
+        "NombreJP": "桐生ココ",
+        "Gen": ["4th"],
+        "Modal":
+        {
+            "Saludo": "Good morning, motherfuckers! Kiryu Coco desu!",
+            "Cumpleaños": "17 de Junio",
+            "Debut": "28/Dic/2019",
+            "Altura": "1.80 Mts",
+            "Fanbase": "Tatsunoko",
+            "Descripcion": "Dragona irreverente de otra dimensión que sirvió como el mayor puente cultural entre las audiencias occidentales y japonesas gracias a sus programas matutinos de AsaCoco y revisiones de memes de Reddit.",
+            "Youtube": "https://www.youtube.com/@KiryuCoco",
+            "Twitter": "https://x.com/kiryucoco",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 25,
+        "Nombre": "Tsunomaki Watame",
+        "NombreJP": "角巻わため",
+        "Gen": ["4th"],
+        "Modal":
+        {
+            "Saludo": "Konban Dododo~! Tsunomaki Watame desu!",
+            "Cumpleaños": "6 de Junio",
+            "Debut": "29/Dic/2019",
+            "Altura": "1.51 Mts",
+            "Fanbase": "Watamate",
+            "Descripcion": "Oveja cantautora con una resistencia inagotable para transmisiones nocturnas de canto y gaming (Watame Night Fever). Inmortalizó la icónica frase 'Watame wa warukunai yo ne' (Watame no hizo nada malo).",
+            "Youtube": "https://www.youtube.com/@TsunomakiWatame",
+            "Twitter": "https://x.com/tsunomakiwatame",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 26,
+        "Nombre": "Tokoyami Towa",
+        "NombreJP": "常闇トワ",
+        "Gen": ["4th"],
+        "Modal":
+        {
+            "Saludo": "Konbanto-wa! Tokoyami Towa desu!",
+            "Cumpleaños": "8 de Agosto",
+            "Debut": "3/Ene/2020",
+            "Altura": "1.50 Mts",
+            "Fanbase": "Kenzoku",
+            "Descripcion": "Pequeña diablesa enviada al mundo humano para aprender a hacer el mal, aunque su naturaleza amable, leal y angelical hace que su comunidad la llame cariñosamente TMT (Towa Maji Tenshi). Excelente jugadora de FPS competitivos.",
+            "Youtube": "https://www.youtube.com/@TokoyamiTowa",
+            "Twitter": "https://x.com/tokoyamitowa",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 27,
+        "Nombre": "Himemori Luna",
+        "NombreJP": "姫森ルーナ",
+        "Gen": ["4th"],
+        "Modal":
+        {
+            "Saludo": "Nnnaaaaa~! Candy Kingdom's princess, Himemori Luna desu!",
+            "Cumpleaños": "10 de Octubre",
+            "Debut": "4/Ene/2020",
+            "Altura": "1.50 Mts",
+            "Fanbase": "Lu-knight",
+            "Descripcion": "Princesa del Reino de los Caramelos caracterizada por su habla nasal e infantil, su adorable muletilla 'Nnaa~' y su admirable talento musical autodidacta tocando el Electone (órgano electrónico de dos teclados).",
+            "Youtube": "https://www.youtube.com/@HimemoriLuna",
+            "Twitter": "https://x.com/himemoriluna",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+
+    {
+        "Id": 28,
+        "Nombre": "Yukihana Lamy",
+        "NombreJP": "雪花ラミィ",
+        "Gen": ["5th"],
+        "Modal":
+        {
+            "Saludo": "Konrami~! Yukihana Lamy desu!",
+            "Cumpleaños": "15 de Noviembre",
+            "Debut": "12/Ago/2020",
+            "Altura": "1.58 Mts",
+            "Fanbase": "Yukimin",
+            "Descripcion": "Elfa de las nieves de voz suave y apariencia frágil, famosa por su gran afición y conocimiento del sake japonés (ganadora de medallas con su propio sake 'Jyuurokushizuku') y sus divertidas reacciones a juegos de terror.",
+            "Youtube": "https://www.youtube.com/@YukihanaLamy",
+            "Twitter": "https://x.com/yukihanalamy",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 29,
+        "Nombre": "Momosuzu Nene",
+        "NombreJP": "桃鈴ねね",
+        "Gen": ["5th"],
+        "Modal":
+        {
+            "Saludo": "Kon-nene~! It's your super hyper ultimate idol, Momosuzu Nene!",
+            "Cumpleaños": "2 de Marzo",
+            "Debut": "13/Ago/2020",
+            "Altura": "1.53 Mts",
+            "Fanbase": "Husbands",
+            "Descripcion": "Chica alegre vestida con temática de gyozas y osos que declara a toda su audiencia como sus 'esposos'. Reconocida por su carisma infantil e hiperactivo, su pasión por los escarabajos rinoceronte y sus emotivos streams de canto.",
+            "Youtube": "https://www.youtube.com/@MomosuzuNene",
+            "Twitter": "https://x.com/momosuzunene",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 30,
+        "Nombre": "Shishiro Botan",
+        "NombreJP": "獅白ぼたん",
+        "Gen": ["5th"],
+        "Modal":
+        {
+            "Saludo": "La-la-lion~! Shishiro Botan desu!",
+            "Cumpleaños": "8 de Septiembre",
+            "Debut": "14/Ago/2020",
+            "Altura": "1.66 Mts",
+            "Fanbase": "SSRB",
+            "Descripcion": "Leona blanca relajada y amante de la tecnología y los shooters en primera persona (FPS). Inmune al miedo en juegos de terror, destaca por su puntería letal, su sabiduría armando PCs y su contagiosa risa wheeze.",
+            "Youtube": "https://www.youtube.com/@ShishiroBotan",
+            "Twitter": "https://x.com/shishirobotan",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 31,
+        "Nombre": "Omaru Polka",
+        "NombreJP": "尾丸ポルカ",
+        "Gen": ["5th"],
+        "Modal":
+        {
+            "Saludo": "Poyoyo~n! It's Omaru Polka from the circus!",
+            "Cumpleaños": "30 de Enero",
+            "Debut": "16/Ago/2020",
+            "Altura": "1.53 Mts",
+            "Fanbase": "Omaza",
+            "Descripcion": "Fénix fennec e intérprete principal de circo con una energía teatral desbordante. Maestra del entretenimiento caótico, efectos de sonido manuales y conductora del show de variedades 'Legend of Polka'.",
+            "Youtube": "https://www.youtube.com/@OmaruPolka",
+            "Twitter": "https://x.com/omarupolka",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 32,
+        "Nombre": "La+ Darknesss",
+        "NombreJP": "ラプラス・ダークネス",
+        "Gen": ["holoX"],
+        "Modal":
+        {
+            "Saludo": "Yes My Dark! It's the founder of Secret Society holoX, La+ Darknesss!",
+            "Cumpleaños": "25 de Mayo",
+            "Debut": "26/Nov/2021",
+            "Altura": "1.39 Mts",
+            "Fanbase": "Plusmate",
+            "Descripcion": "Líder de la sociedad secreta holoX cuyos poderes originales fueron sellados con grilletes. Famosa por su personalidad de 'kusogaki' orgullosa pero sumamente vulnerable a las burlas de sus subordinadas, y su enorme fanatismo por el k-pop y los FPS.",
+            "Youtube": "https://www.youtube.com/@LaplusDarknesss",
+            "Twitter": "https://x.com/LaplusDarknesss",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 33,
+        "Nombre": "Takane Lui",
+        "NombreJP": "鷹嶺ルイ",
+        "Gen": ["holoX"],
+        "Modal":
+        {
+            "Saludo": "Konruru~! It's holoX's executive officer, Takane Lui!",
+            "Cumpleaños": "11 de Junio",
+            "Debut": "27/Nov/2021",
+            "Altura": "1.61 Mts",
+            "Fanbase": "Luikomo",
+            "Descripcion": "Oficial ejecutiva (mano derecha) de holoX con temática de halcón. Es el pilar de organización y sentido común del grupo, destacada por sus excelentes dotes culinarias, etiqueta empresarial y cálida personalidad madura.",
+            "Youtube": "https://www.youtube.com/@TakaneLui",
+            "Twitter": "https://x.com/takanelui",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 34,
+        "Nombre": "Hakui Koyori",
+        "NombreJP": "博衣こより",
+        "Gen": ["holoX"],
+        "Modal":
+        {
+            "Saludo": "Konkoyo~! holoX's brain and researcher, Hakui Koyori desu!",
+            "Cumpleaños": "15 de Marzo",
+            "Debut": "28/Nov/2021",
+            "Altura": "1.53 Mts",
+            "Fanbase": "Assistants",
+            "Descripcion": "Científica e investigadora con orejas y cola de coyote, apodada el 'motor incansable' de Hololive por sus maratónicos horarios de transmisión diarios y su programa matutino de noticias 'Asakoyo'.",
+            "Youtube": "https://www.youtube.com/@HakuiKoyori",
+            "Twitter": "https://x.com/hakuikoyori",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 35,
+        "Nombre": "Sakamata Chloe",
+        "NombreJP": "沙花叉クロヱ",
+        "Gen": ["holoX"],
+        "Modal":
+        {
+            "Saludo": "Bakkon~! holoX's cleaner and intern, Sakamata Chloe desu!",
+            "Cumpleaños": "18 de Mayo",
+            "Debut": "29/Nov/2021",
+            "Altura": "1.48 Mts",
+            "Fanbase": "Shiikagakari",
+            "Descripcion": "Orca y 'limpiadora' de la organización. Posee un contraste fascinante entre su voz ronca/seductora al cantar baladas y su personalidad tierna y mimada en charlas, además de su legendaria aversión a bañarse con frecuencia.",
+            "Youtube": "https://www.youtube.com/@SakamataChloe",
+            "Twitter": "https://x.com/sakamatachloe",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 36,
+        "Nombre": "Kazama Iroha",
+        "NombreJP": "風真いろは",
+        "Gen": ["holoX"],
+        "Modal":
+        {
+            "Saludo": "Nin-nin! HoloX's bodyguard, samurai Kazama Iroha de gozaru!",
+            "Cumpleaños": "18 de Junio",
+            "Debut": "30/Nov/2021",
+            "Altura": "1.56 Mts",
+            "Fanbase": "Kazama-tai",
+            "Descripcion": "Guardaespaldas de la sociedad holoX proveniente de una remota aldea montañosa. A pesar de insistir en que es un samurái y no un ninja, sus manierismos 'nin-nin' y su naturaleza inocente y servicial la convirtieron en el blanco favorito de las bromas de sus compañeras.",
+            "Youtube": "https://www.youtube.com/@KazamaIroha",
+            "Twitter": "https://x.com/kazamairohach",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 37,
+        "Nombre": "Mori Calliope",
+        "NombreJP": "森カリオペ",
+        "Gen": ["Myth"],
+        "Modal":
+        {
+            "Saludo": "Guh! What's up guys, it's your boy, the Grim Reaper's first apprentice, Mori Calliope!",
+            "Cumpleaños": "4 de Abril",
+            "Debut": "12/Sep/2020",
+            "Altura": "1.67 Mts",
+            "Fanbase": "Dead Beats",
+            "Descripcion": "Primera aprendiz de la Parca con una trayectoria musical y discográfica de clase mundial. Destaca por sus letras de rap afiladas y veloces en inglés y japonés, combinadas con una personalidad dorky, afectuosa y sobreprotectora hacia sus compañeras.",
+            "Youtube": "https://www.youtube.com/@MoriCalliope",
+            "Twitter": "https://x.com/moricalliope",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 38,
+        "Nombre": "Takanashi Kiara",
+        "NombreJP": "小鳥遊キアラ",
+        "Gen": ["Myth"],
+        "Modal":
+        {
+            "Saludo": "Kikiriki~! It's the idol phoenix, Takanashi Kiara!",
+            "Cumpleaños": "6 de Julio",
+            "Debut": "12/Sep/2020",
+            "Altura": "1.65 Mts",
+            "Fanbase": "KFP",
+            "Descripcion": "Fénix renacida propietaria de la cadena de comida rápida KFP. Multilingüe (alemán, inglés y japonés) con una inmensa vocación de idol pura, experta en coreografías de baile enérgicas y conductora del talk show 'HOLOTALK'.",
+            "Youtube": "https://www.youtube.com/@TakanashiKiara",
+            "Twitter": "https://x.com/takanashikiara",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 39,
+        "Nombre": "Ninomae Ina'nis",
+        "NombreJP": "一伊那尓栖",
+        "Gen": ["Myth"],
+        "Modal":
+        {
+            "Saludo": "Wah! We Are Here! Hololive English's priestess of the Ancient Ones, Ninomae Ina'nis!",
+            "Cumpleaños": "20 de Mayo",
+            "Debut": "13/Sep/2020",
+            "Altura": "1.57 Mts",
+            "Fanbase": "Takodachi",
+            "Descripcion": "Sacerdotisa de los Dioses Antiguos con tentáculos e ilustradora profesional de alto calibre. Reconocida por su atmósfera de stream sumamente pacífica y acogedora (comfy), sus juegos de palabras (puns) interminables y el lema 'WAH'.",
+            "Youtube": "https://www.youtube.com/@NinomaeInanis",
+            "Twitter": "https://x.com/ninomaeinanis",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 40,
+        "Nombre": "Gawr Gura",
+        "NombreJP": "がうる・ぐら",
+        "Gen": ["Myth"],
+        "Modal":
+        {
+            "Saludo": "A! Domo, same desu! It's Gawr Gura from Atlantis!",
+            "Cumpleaños": "20 de Junio",
+            "Debut": "13/Sep/2020",
+            "Altura": "1.41 Mts",
+            "Fanbase": "Chumbuds",
+            "Descripcion": "Tiburón de la Atlántida que se convirtió en la VTuber con mayor número de suscriptores del mundo. Célebre por su icónico 'a', su prodigiosa voz cantando clásicos de jazz y city pop, y su humor travieso y despistado en juegos de ritmo y terror.",
+            "Youtube": "https://www.youtube.com/@GawrGura",
+            "Twitter": "https://x.com/gawrgura",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 41,
+        "Nombre": "Amelia Watson",
+        "NombreJP": "ワトソン・アメリア",
+        "Gen": ["Myth"],
+        "Modal":
+        {
+            "Saludo": "Hello there! Detective Amelia Watson at your service!",
+            "Cumpleaños": "6 de Enero",
+            "Debut": "13/Sep/2020",
+            "Altura": "1.50 Mts",
+            "Fanbase": "Teamates",
+            "Descripcion": "Investigadora privada y viajera en el tiempo. Pionera técnica dentro de Hololive por la creación de estudios de captura 3D caseros y formatos interactivos, además de su estilo gamer competitivo caracterizado por sus ground pounds y rage quits cómicos.",
+            "Youtube": "https://www.youtube.com/@AmeliaWatson",
+            "Twitter": "https://x.com/watsonameliaen",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 42,
+        "Nombre": "IRyS",
+        "NombreJP": "アイリス",
+        "Gen": ["Promise"],
+        "Modal":
+        {
+            "Saludo": "HiDown! HiRyS, it's IRyS!",
+            "Cumpleaños": "7 de Marzo",
+            "Debut": "11/Jul/2021",
+            "Altura": "1.66 Mts",
+            "Fanbase": "GuyS",
+            "Descripcion": "Nephilim (mitad ángel, mitad demonio) encargada de traer esperanza al mundo terrenal a través de la música. Se distingue por su prodigioso rango vocal, sus frecuentes comentarios de doble sentido involuntarios (YabaIRyS) y su gran habilidad en Minecraft y Mario Kart.",
+            "Youtube": "https://www.youtube.com/@IRyS",
+            "Twitter": "https://x.com/irys_en",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 43,
+        "Nombre": "Ceres Fauna",
+        "NombreJP": "セレス・ファウナ",
+        "Gen": ["Promise"],
+        "Modal":
+        {
+            "Saludo": "Konfauna~! Mother Nature here, Ceres Fauna!",
+            "Cumpleaños": "21 de Marzo",
+            "Debut": "22/Ago/2021",
+            "Altura": "1.64 Mts",
+            "Fanbase": "Saplings",
+            "Descripcion": "Guardiana de la Naturaleza con cuernos de ciervo y ramas vivas. Conocida por su voz sumamente relajante, sus streams de ASMR de nivel profesional, su juego experto en speedruns como Getting Over It y su faceta de jugadora competitiva camuflada tras su calma natural.",
+            "Youtube": "https://www.youtube.com/@CeresFauna",
+            "Twitter": "https://x.com/ceresfauna",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 44,
+        "Nombre": "Ouro Kronii",
+        "NombreJP": "オーロ・クロニー",
+        "Gen": ["Promise"],
+        "Modal":
+        {
+            "Saludo": "Hello, it's the Warden of Time, Ouro Kronii.",
+            "Cumpleaños": "14 de Marzo",
+            "Debut": "23/Ago/2021",
+            "Altura": "1.68 Mts",
+            "Fanbase": "Kronies",
+            "Descripcion": "Guardiana del Tiempo de tono barítono elegante, sarcástico y sofisticado. Famosa por su humor seco, sus momentos de crisis existencial y estrés cómico en juegos de rompecabezas, su autoproclamado narcisismo y su legendaria anécdota del sándwich licuado.",
+            "Youtube": "https://www.youtube.com/@OuroKronii",
+            "Twitter": "https://x.com/ourokronii",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 45,
+        "Nombre": "Nanashi Mumei",
+        "NombreJP": "七詩ムメイ",
+        "Gen": ["Promise"],
+        "Modal":
+        {
+            "Saludo": "Hoo-hoo! It's the Guardian of Civilization, Nanashi Mumei!",
+            "Cumpleaños": "4 de Agosto",
+            "Debut": "23/Ago/2021",
+            "Altura": "1.56 Mts",
+            "Fanbase": "Hoomans",
+            "Descripcion": "Guardiana de la Civilización con rasgos de búho que a menudo olvida detalles cotidianos. Combina una apariencia dulce y voz inocente con una faceta oscura, caótica y artística reflejada en sus inquietantes dibujos y canciones emotivas.",
+            "Youtube": "https://www.youtube.com/@NanashiMumei",
+            "Twitter": "https://x.com/nanashimumei_en",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 46,
+        "Nombre": "Hakos Baelz",
+        "NombreJP": "ハコス・ベールズ",
+        "Gen": ["Promise"],
+        "Modal":
+        {
+            "Saludo": "G'day mate! It's the manifestation of Chaos, Hakos Baelz!",
+            "Cumpleaños": "29 de Febrero",
+            "Debut": "23/Ago/2021",
+            "Altura": "1.49 Mts",
+            "Fanbase": "Bratz",
+            "Descripcion": "Encarnación viva del Caos con apariencia de ratón. A pesar de representar el desorden, frecuentemente funge como el cable a tierra de sus compañeras. Destaca por su dialecto australiano, sus coreografías de baile profesionales y su talento rítmico en el canto.",
+            "Youtube": "https://www.youtube.com/@HakosBaelz",
+            "Twitter": "https://x.com/hakosbaelz",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 47,
+        "Nombre": "Tsukumo Sana",
+        "NombreJP": "九十九佐命",
+        "Gen": ["Promise"],
+        "Modal":
+        {
+            "Saludo": "Sanan-nara! It's the Speaker of Space, Tsukumo Sana!",
+            "Cumpleaños": "10 de Junio",
+            "Debut": "22/Ago/2021",
+            "Altura": "1.69 Mts",
+            "Fanbase": "Sanallites",
+            "Descripcion": "Heraldo del Espacio de escala cósmica y personalidad soleada y reconfortante. Reconocida por su amor a la astronomía, su talento profesional en ilustración digital y su risa expansiva que llenaba de calidez las transmisiones grupales.",
+            "Youtube": "https://www.youtube.com/@TsukumoSana",
+            "Twitter": "https://x.com/tsukumosana",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 48,
+        "Nombre": "Shiori Novella",
+        "NombreJP": "シオリ・ノヴェラ",
+        "Gen": ["Advent"],
+        "Modal":
+        {
+            "Saludo": "Greetings, my curious little bookmarks! It's Shiori Novella, the Archiver!",
+            "Cumpleaños": "2 de Mayo",
+            "Debut": "30/Jul/2023",
+            "Altura": "1.52 Mts",
+            "Fanbase": "Novellites",
+            "Descripcion": "Archivera obsesionada con recopilar historias y conocimientos prohibidos. Famosa por sus anécdotas extravagantes sin filtro, su gusto por el terror psicológico, su risa desquiciada y su fascinación por fabricar tinta artesanal y recortar revistas.",
+            "Youtube": "https://www.youtube.com/@ShioriNovella",
+            "Twitter": "https://x.com/shiorinovella",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 49,
+        "Nombre": "Koseki Bijou",
+        "NombreJP": "古石ビジュー",
+        "Gen": ["Advent"],
+        "Modal":
+        {
+            "Saludo": "Dang it! It's the Jewel of Emotions, Koseki Bijou! :D",
+            "Cumpleaños": "14 de Abril",
+            "Debut": "30/Jul/2023",
+            "Altura": "1.40 Mts",
+            "Fanbase": "Pebbles",
+            "Descripcion": "Joya viviente formada por la cristalización de emociones humanas. Destaca por su resistencia de acero para completar retos ultra difíciles en juegos Soulsborne y Elden Ring, su arsenal infinito de memes de internet (brainrot) y su energía hilarante de hermana menor.",
+            "Youtube": "https://www.youtube.com/@KosekiBijou",
+            "Twitter": "https://x.com/kosekibijou",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 50,
+        "Nombre": "Nerissa Ravencroft",
+        "NombreJP": "ネリッサ・レイヴンクロフト",
+        "Gen": ["Advent"],
+        "Modal":
+        {
+            "Saludo": "Hey, cutie! It's the Demon of Soup and Song, Nerissa Ravencroft!",
+            "Cumpleaños": "21 de Noviembre",
+            "Debut": "31/Jul/2023",
+            "Altura": "1.75 Mts",
+            "Fanbase": "Jailbirds",
+            "Descripcion": "Demonio de las sombras y el canto encerrada por su voz prohibida. Dueña de un rango vocal y estilo teatral operístico imponente, además de un encanto familiar entrañable reflejado en sus divertidas charlas sobre su vida cotidiana con su peculiar familia de cuervos.",
+            "Youtube": "https://www.youtube.com/@NerissaRavencroft",
+            "Twitter": "https://x.com/nerissa_en",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 51,
+        "Nombre": "Fuwawa Abyssgard",
+        "NombreJP": "フワワ・アビスガード",
+        "Gen": ["Advent"],
+        "Modal":
+        {
+            "Saludo": "Bow wow! I'm Fuwawa, the fluffy older twin sister of FUWAMOCO!",
+            "Cumpleaños": "1 de Febrero",
+            "Debut": "31/Jul/2023",
+            "Altura": "1.58 Mts",
+            "Fanbase": "Ruffians",
+            "Descripcion": "Gemela mayor y más tranquila del dúo guardián del inframundo. Con su característica risa coqueta y actitud protectora, equilibra la energía de su hermana menor mientras dirigen juntas el programa matutino diario 'FWMC Morning'.",
+            "Youtube": "https://www.youtube.com/@FUWAMOCOch",
+            "Twitter": "https://x.com/fuwamoco_en",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 52,
+        "Nombre": "Mococo Abyssgard",
+        "NombreJP": "モココ・アビスガード",
+        "Gen": ["Advent"],
+        "Modal":
+        {
+            "Saludo": "Bau bau! I'm Mococo, the fuzzy younger twin sister of FUWAMOCO!",
+            "Cumpleaños": "1 de Febrero",
+            "Debut": "31/Jul/2023",
+            "Altura": "1.58 Mts",
+            "Fanbase": "Ruffians",
+            "Descripcion": "Gemela menor enérgica y revoltosa del dúo guardián canino. Famosa por sus icónicos gruñidos 'bau bau', su competitividad y sus berrinches cómicos en juegos de acción y aventuras cooperativas.",
+            "Youtube": "https://www.youtube.com/@FUWAMOCOch",
+            "Twitter": "https://x.com/fuwamoco_en",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 53,
+        "Nombre": "Elizabeth Rose Bloodflame",
+        "NombreJP": "エリザベス・ローズ・ブラッドフレイム",
+        "Gen": ["Justice"],
+        "Modal":
+        {
+            "Saludo": "Greetings, my darling champions! It is I, your Queen, Elizabeth Rose Bloodflame!",
+            "Cumpleaños": "13 de Enero",
+            "Debut": "22/Jun/2024",
+            "Altura": "1.70 Mts",
+            "Fanbase": "Bloodflame Knights (Champions)",
+            "Descripcion": "Líder de Hololive English -Justice-, destacada por su potente rango vocal lírico y de teatro musical, su marcado acento británico RP y una presencia escénica dominante pero entrañablemente afectuosa con sus compañeras.",
+            "Youtube": "https://www.youtube.com/@ElizabethRoseBloodflame",
+            "Twitter": "https://x.com/ERBloodflame",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 54,
+        "Nombre": "Gigi Murin",
+        "NombreJP": "ジジ・ミュリン",
+        "Gen": ["Justice"],
+        "Modal":
+        {
+            "Saludo": "Yo! What's crackin'? It's the Chaser of Justice, Gigi Murin!",
+            "Cumpleaños": "19 de Septiembre",
+            "Debut": "22/Jun/2024",
+            "Altura": "1.53 Mts",
+            "Fanbase": "Gremlins",
+            "Descripcion": "Rastreadora y gremlin honoraria del escuadrón. Posee un sentido del humor veloz, caótico y espontáneo, acompañado de comentarios agudos, excelente capacidad de improvisación cómica y afinidad por los juegos de estrategia y deducción.",
+            "Youtube": "https://www.youtube.com/@GigiMurin",
+            "Twitter": "https://x.com/gigimurin",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 55,
+        "Nombre": "Cecilia Immergreen",
+        "NombreJP": "セシリア・イマーグリーン",
+        "Gen": ["Justice"],
+        "Modal":
+        {
+            "Saludo": "Tick-tock, clack-clack! Automaton of Justice, Cecilia Immergreen, operational!",
+            "Cumpleaños": "11 de Octubre",
+            "Debut": "23/Jun/2024",
+            "Altura": "1.58 Mts",
+            "Fanbase": "Otomin",
+            "Descripcion": "Autómata impulsada por cuerda y música. Célebre por sus interpretaciones de violín y flauta en directo, su peculiar risa teatral de 'villana refinada' y su fascinación por los juegos clásicos de aventura y supervivencia.",
+            "Youtube": "https://www.youtube.com/@CeciliaImmergreen",
+            "Twitter": "https://x.com/ceciliaimgreen",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 56,
+        "Nombre": "Raora Panthera",
+        "NombreJP": "ラオーラ・パンテーラ",
+        "Gen": ["Justice"],
+        "Modal":
+        {
+            "Saludo": "Ciao a tutti! It's your cute pink panther artist, Raora Panthera!",
+            "Cumpleaños": "24 de Enero",
+            "Debut": "23/Jun/2024",
+            "Altura": "1.62 Mts",
+            "Fanbase": "Chattino",
+            "Descripcion": "Pantera rosa de ojos brillantes especializada en investigación visual y arte digital. Se distingue por su encantador acento italiano, su talento sobresaliente en ilustración y bocetos en vivo, y su personalidad afectuosa y reconfortante.",
+            "Youtube": "https://www.youtube.com/@RaoraPanthera",
+            "Twitter": "https://x.com/raorapanthera",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 57,
+        "Nombre": "Ayunda Risu",
+        "NombreJP": "アユンダ・リス",
+        "Gen": ["Area-15"],
+        "Modal":
+        {
+            "Saludo": "Halo, ini Risu si tupai lucu! It's Ayunda Risu!",
+            "Cumpleaños": "15 de Enero",
+            "Debut": "10/Abr/2020",
+            "Altura": "1.53 Mts",
+            "Fanbase": "Risuners",
+            "Descripcion": "Chica ardilla de un bosque mágico que terminó en el mundo humano. Famosa a nivel global por sus videos anuales del 'Nonstop Nut November (NNN)', su risa de tetera hirviendo y una prodigiosa dualidad vocal que alterna entre un tono sumamente tierno y una voz madura, potente y profunda (Ayunda).",
+            "Youtube": "https://www.youtube.com/@AyundaRisu",
+            "Twitter": "https://x.com/ayunda_risu",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 58,
+        "Nombre": "Moona Hoshinova",
+        "NombreJP": "ムーナ・ホシノヴァ",
+        "Gen": ["Area-15"],
+        "Modal":
+        {
+            "Saludo": "Moon moon, Moona! It's Hololive Indonesia's moon idol, Moona Hoshinova!",
+            "Cumpleaños": "15 de Febrero",
+            "Debut": "11/Abr/2020",
+            "Altura": "1.65 Mts",
+            "Fanbase": "Moonafic",
+            "Descripcion": "Modelo humana fusionada con la diosa de la Luna. Reconocida como una de las mejores vocalistas de la agencia por su tono profundo y emotivo, además de su legendaria amistad y complicidad con Usada Pekora durante la construcción del servidor de Minecraft (Usada Kensetsu).",
+            "Youtube": "https://www.youtube.com/@MoonaHoshinova",
+            "Twitter": "https://x.com/moonahoshinova",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 59,
+        "Nombre": "Airani Iofifteen",
+        "NombreJP": "アイラニ・イオフィフティーン",
+        "Gen": ["Area-15"],
+        "Modal":
+        {
+            "Saludo": "Obisa! It's your alien artist friend, Airani Iofifteen!",
+            "Cumpleaños": "15 de Julio",
+            "Debut": "12/Abr/2020",
+            "Altura": "1.50 Mts",
+            "Fanbase": "Ioforia",
+            "Descripcion": "Princesa alienígena apasionada por la Tierra que escapó de su planeta para estudiar arte. Actúa como el puente políglota indiscutible de Hololive gracias a su fluidez en indonesio, inglés, japonés, javanés, sundanés y alemán, destacando por sus transmisiones de ilustración y entrevistas inter-ramas.",
+            "Youtube": "https://www.youtube.com/@AiraniIofifteen",
+            "Twitter": "https://x.com/airaniiofifteen",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 60,
+        "Nombre": "Kureiji Ollie",
+        "NombreJP": "クレイジー・オリー",
+        "Gen": ["Holoro"],
+        "Modal":
+        {
+            "Saludo": "ZOM-BANG! Hal-Ollie! It's Hololive Indonesia's energetic zombie idol, Kureiji Ollie!",
+            "Cumpleaños": "13 de Octubre",
+            "Debut": "4/Dic/2020",
+            "Altura": "1.62 Mts",
+            "Fanbase": "ZOMRADE",
+            "Descripcion": "Zombi resucitada que escapó de su tumba tras descubrir el anime y las idols. Célebre por sus gritos ensordecedores a todo volumen, su velocidad verbal imparable, su pasión infinita por el ajedrez y su amor desmedido e insistente hacia casi todas sus senpais.",
+            "Youtube": "https://www.youtube.com/@KureijiOllie",
+            "Twitter": "https://x.com/kureijiollie",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 61,
+        "Nombre": "Anya Melfissa",
+        "NombreJP": "アーニャ・メルフィッサ",
+        "Gen": ["Holoro"],
+        "Modal":
+        {
+            "Saludo": "Kon-nya! Ancient weapon Keris, Anya Melfissa desu!",
+            "Cumpleaños": "12 de Marzo",
+            "Debut": "5/Dic/2020",
+            "Altura": "1.47 Mts",
+            "Fanbase": "Melfriends",
+            "Descripcion": "Antigua daga tradicional indonesia (Keris) que cobró forma humana mediante un ritual místico. Posee una actitud apática, sarcástica y sumamente tranquila, experta en comentarios agudos y juiciosos, además de volverse un meme viral por su característica expresión facial impasible ('Anya Face').",
+            "Youtube": "https://www.youtube.com/@AnyaMelfissa",
+            "Twitter": "https://x.com/anyamelfissa",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 62,
+        "Nombre": "Pavolia Reine",
+        "NombreJP": "パヴォリア・レイネ",
+        "Gen": ["Holoro"],
+        "Modal":
+        {
+            "Saludo": "Attention please! It's the lady peacock, Pavolia Reine!",
+            "Cumpleaños": "9 de Septiembre",
+            "Debut": "6/Dic/2020",
+            "Altura": "1.72 Mts",
+            "Fanbase": "MerPutih",
+            "Descripcion": "Dama de la nobleza pavo real transferida al mundo humano mientras asistía a una academia de magia. Destaca por su porte aristocrático contrastado con su peculiar risa semejante a un motor de automóvil arrancando, sus canciones de R&B/pop sofisticadas y su adicción a las novelas ligeras.",
+            "Youtube": "https://www.youtube.com/@PavoliaReine",
+            "Twitter": "https://x.com/pavoliareine",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 63,
+        "Nombre": "Vestia Zeta",
+        "NombreJP": "ベスティア・ゼータ",
+        "Gen": ["HoloHolo"],
+        "Modal":
+        {
+            "Saludo": "Mission accomplished! It's the secret agent, Vestia Zeta!",
+            "Cumpleaños": "7 de Noviembre",
+            "Debut": "25/Mar/2022",
+            "Altura": "1.55 Mts",
+            "Fanbase": "Zesties",
+            "Descripcion": "Agente encubierta del 'Secret Archive Unit' asignada a investigar el mundo virtual. Reconocida por su voz dulce y susurrada, su puntería en FPS como Valorant y por la insistente broma de su comunidad de compararla con un gato gris, a pesar de sus constantes negaciones.",
+            "Youtube": "https://www.youtube.com/@VestiaZeta",
+            "Twitter": "https://x.com/vestiazeta",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 64,
+        "Nombre": "Kaela Kovalskia",
+        "NombreJP": "カエラ・コヴァルスキア",
+        "Gen": ["HoloHolo"],
+        "Modal":
+        {
+            "Saludo": "GSH! Get Some Help! It's your blacksmith, Kaela Kovalskia!",
+            "Cumpleaños": "30 de Agosto",
+            "Debut": "26/Mar/2022",
+            "Altura": "1.73 Mts",
+            "Fanbase": "Pemaloe",
+            "Descripcion": "Herrera formidable de presencia imponente y risa silenciosa. Legendaria en la comunidad por su resistencia sobrehumana para maratones de farmeo y minería de docenas de horas en juegos de gestión, supervivencia y League of Legends bajo el lema 'No pressure'.",
+            "Youtube": "https://www.youtube.com/@KaelaKovalskia",
+            "Twitter": "https://x.com/kaelakovalskia",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 65,
+        "Nombre": "Kobo Kanaeru",
+        "NombreJP": "こぼ・かなえる",
+        "Gen": ["HoloHolo"],
+        "Modal":
+        {
+            "Saludo": "Ehe! It's the rain shaman, Kobo Kanaeru!",
+            "Cumpleaños": "12 de Diciembre",
+            "Debut": "27/Mar/2022",
+            "Altura": "1.50 Mts",
+            "Fanbase": "Kobokerz",
+            "Descripcion": "Chamán de la lluvia alegre y mimada que busca recuperar el prestigio del negocio familiar. Un fenómeno masivo en el sudeste asiático por su energía contagiosa de hermana menor traviesa, su talento natural tocando la guitarra y cantando, y su habilidad cómica en juegos multijugador.",
+            "Youtube": "https://www.youtube.com/@KoboKanaeru",
+            "Twitter": "https://x.com/kobokanaeru",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 66,
+        "Nombre": "Hiodoshi Ao",
+        "NombreJP": "火威青",
+        "Gen": ["ReGLOSS"],
+        "Modal":
+        {
+            "Saludo": "Kon-ao! It's Hololive DEV_IS ReGLOSS's manga artist, Hiodoshi Ao!",
+            "Cumpleaños": "27 de Febrero",
+            "Debut": "9/Sep/2023",
+            "Altura": "1.71 Mts",
+            "Fanbase": "Aotomo",
+            "Descripcion": "Mangaka autoproclamada 'ikemen' y solitaria de gustos refinados. A pesar de su apariencia elegante y voz seductora, es propensa a avergonzarse con facilidad y ser objeto de burlas cariñosas por parte de sus compañeras debido a sus reacciones cómicas y torpes.",
+            "Youtube": "https://www.youtube.com/@HiodoshiAo",
+            "Twitter": "https://x.com/hiodoshiao",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 67,
+        "Nombre": "Otonose Kanade",
+        "NombreJP": "音乃瀬奏",
+        "Gen": ["ReGLOSS"],
+        "Modal":
+        {
+            "Saludo": "Ba-kkyun! It's your cute musical chick, Otonose Kanade!",
+            "Cumpleaños": "20 de Abril",
+            "Debut": "9/Sep/2023",
+            "Altura": "1.53 Mts",
+            "Fanbase": "Otonote (Kanadepyon)",
+            "Descripcion": "Músico aprendiz con una personalidad infantil, escandalosa y desvergonzadamente traviesa. Destaca por el asombroso contraste entre sus chillidos de 'kusogaki' en charlas y su impecable rango vocal y destreza técnica al interpretar baladas y canciones pop complejas.",
+            "Youtube": "https://www.youtube.com/@OtonoseKanade",
+            "Twitter": "https://x.com/otonosekanade",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 68,
+        "Nombre": "Ichijou Ririka",
+        "NombreJP": "一条莉々華",
+        "Gen": ["ReGLOSS"],
+        "Modal":
+        {
+            "Saludo": "Good morning/afternoon! It's your ambitious entrepreneur, Ichijou Ririka!",
+            "Cumpleaños": "12 de Mayo",
+            "Debut": "9/Sep/2023",
+            "Altura": "1.62 Mts",
+            "Fanbase": "Riristocrat",
+            "Descripcion": "Joven emprendedora y presidenta de su propia compañía con una energía contagiosa y actitud positiva inquebrantable. Se distingue por sus transmisiones matutinas de charla y cocina, su risa estruendosa y su entusiasmo por conectar con personas de todo el mundo.",
+            "Youtube": "https://www.youtube.com/@IchijouRirika",
+            "Twitter": "https://x.com/ichijouririka",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 69,
+        "Nombre": "Juufuutei Raden",
+        "NombreJP": "儒烏風亭らでん",
+        "Gen": ["ReGLOSS"],
+        "Modal":
+        {
+            "Saludo": "Domo! Rakugoka and culture enthusiast, Juufuutei Raden desu!",
+            "Cumpleaños": "4 de Febrero",
+            "Debut": "10/Sep/2023",
+            "Altura": "1.59 Mts",
+            "Fanbase": "Radeners (Za)",
+            "Descripcion": "Narradora tradicional de rakugo y apasionada divulgadora cultural. Destaca por su erudición enciclopédica sobre museos, arte clásico, literatura, arquitectura japonesa y sake, transmitida con una elocuencia teatral única en el medio.",
+            "Youtube": "https://www.youtube.com/@JuufuuteiRaden",
+            "Twitter": "https://x.com/juufuuteiraden",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 70,
+        "Nombre": "Todoroki Hajime",
+        "NombreJP": "轟はじめ",
+        "Gen": ["ReGLOSS"],
+        "Modal":
+        {
+            "Saludo": "Osu! The ultimate bancho, Todoroki Hajime da zo!",
+            "Cumpleaños": "7 de Junio",
+            "Debut": "10/Sep/2023",
+            "Altura": "1.55 Mts",
+            "Fanbase": "Hajime-gumi",
+            "Descripcion": "Líder de pandilla ('bancho') que aspira a ser la mejor del mundo. Muy querida por su particular manera de arrastrar las palabras y ceceo que la hace sonar adorable en lugar de intimidante, contrastado de manera impresionante con su talento sobresaliente en el baile y coreografía urbana.",
+            "Youtube": "https://www.youtube.com/@TodorokiHajime",
+            "Twitter": "https://x.com/todoroki_hajime",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 71,
+        "Nombre": "Isaki Riona",
+        "NombreJP": "響咲リオナ",
+        "Gen": ["FlowGlow"],
+        "Modal":
+        {
+            "Saludo": "Gao~! It's FLOW GLOW's leader, Isaki Riona!",
+            "Cumpleaños": "29 de Mayo",
+            "Debut": "9/Nov/2024",
+            "Altura": "1.56 Mts",
+            "Fanbase": "GaoRion",
+            "Descripcion": "Líder indiscutible de FLOW GLOW con una presencia escénica electrizante y espíritu competitivo. Destaca por su voz enérgica en géneros de hip-hop y rock urbano, además de su papel protector e impulsivo dentro del grupo.",
+            "Youtube": "https://www.youtube.com/@IsakiRiona",
+            "Twitter": "https://x.com/isakiriona",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 72,
+        "Nombre": "Koganei Niko",
+        "NombreJP": "虎金妃笑虎",
+        "Gen": ["FlowGlow"],
+        "Modal":
+        {
+            "Saludo": "Niko-niko smile! Koganei Niko at your service!",
+            "Cumpleaños": "23 de Noviembre",
+            "Debut": "9/Nov/2024",
+            "Altura": "1.52 Mts",
+            "Fanbase": "NikoNiko-tai",
+            "Descripcion": "Personalidad traviesa y risueña del grupo con un carisma callejero inconfundible. Su estilo vocal ágil y su ritmo rápido al rapear complementan una actitud divertida, siempre dispuesta a levantar los ánimos de sus compañeras.",
+            "Youtube": "https://www.youtube.com/@KoganeiNiko",
+            "Twitter": "https://x.com/koganeiniko",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 73,
+        "Nombre": "Mizumiya Su",
+        "NombreJP": "水宮枢",
+        "Gen": ["FlowGlow"],
+        "Modal":
+        {
+            "Saludo": "Splash! Cool and steady, Mizumiya Su here.",
+            "Cumpleaños": "16 de Julio",
+            "Debut": "9/Nov/2024",
+            "Altura": "1.63 Mts",
+            "Fanbase": "Submarines",
+            "Descripcion": "El eje de tranquilidad y templanza de FLOW GLOW. Aporta una voz suave, melódica y atmosférica a las composiciones musicales, balanceando con su serenidad y humor sutil el caos del resto de la alineación.",
+            "Youtube": "https://www.youtube.com/@MizumiyaSu",
+            "Twitter": "https://x.com/mizumiyasu",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 74,
+        "Nombre": "Rindo Chihaya",
+        "NombreJP": "輪堂千速",
+        "Gen": ["FlowGlow"],
+        "Modal":
+        {
+            "Saludo": "Accelerating to maximum speed! Rindo Chihaya ready to roll!",
+            "Cumpleaños": "12 de Agosto",
+            "Debut": "10/Nov/2024",
+            "Altura": "1.68 Mts",
+            "Fanbase": "Speedsters",
+            "Descripcion": "Fanática de la velocidad, la cultura automotriz y los ritmos acelerados. Combina una actitud decidida y madura con un timbre vocal dinámico, destacando en temas de alta intensidad y en directos de gaming de reflejos rápidos.",
+            "Youtube": "https://www.youtube.com/@RindoChihaya",
+            "Twitter": "https://x.com/rindochihaya",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    },
+    {
+        "Id": 75,
+        "Nombre": "Kikiriki Vivi",
+        "NombreJP": "綺々羅々ヴィヴィ",
+        "Gen": ["FlowGlow"],
+        "Modal":
+        {
+            "Saludo": "Sparkle and shine! It's the colorful fashionista, Kikiriki Vivi!",
+            "Cumpleaños": "30 de Octubre",
+            "Debut": "10/Nov/2024",
+            "Altura": "1.58 Mts",
+            "Fanbase": "Vivivids",
+            "Descripcion": "Diseñadora de tendencias y referente de estilo del quinteto. Sobresale por su estética visual extravagante, su energía burbujeante y su tono vocal versátil, transitando con naturalidad entre melodías pop alegres y versos de rap rítmicos.",
+            "Youtube": "https://www.youtube.com/@KikirikiVivi",
+            "Twitter": "https://x.com/kikirikivivi",
+            "Outfit1": "",
+            "Outfit2": ""
+        }
+    }
+]
