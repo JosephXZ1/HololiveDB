@@ -1,0 +1,110 @@
+*, *::before, *::after
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/* ========================= ANIMACIÓN DE FONDO ========================= */
+@keyframes triangle
+{
+    from
+    {
+        transform: scale(0) rotate(0deg);
+        opacity: 1;
+    }
+    to
+    {
+        transform: scale(20) rotate(960deg);
+        opacity: 0;
+    }
+}
+
+/* FONDO */
+.background
+{
+    position: fixed;
+
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    background: #ffffff;
+    overflow: hidden;
+    z-index: -1;
+    list-style: none;
+}
+
+/* TRIÁNGULOS */
+.background li
+{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    color: #28c6ff4d;
+    transform-origin: center;
+    transform: scale(0) rotate(0deg);
+    animation: triangle 7s ease-in forwards infinite;
+}
+
+/* SVG */
+.background .triangle
+{
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+/* POSICIONES */
+.background li:nth-child(1)
+{
+    animation-delay: 0s;
+    left: 81vw;
+    top: 92vh;
+    color: #28c6ff1a;
+}
+
+.background li:nth-child(2)
+{
+    animation-delay: 2s;
+    left: 31vw;
+    top: 64vh;
+    color: #28c6ff4d;
+}
+
+.background li:nth-child(3)
+{
+    animation-delay: 4s;
+    left: 3vw;
+    top: 15vh;
+    color: #28c6ff4d;
+}
+
+.background li:nth-child(4)
+{
+    animation-delay: 6s;
+    left: 65vw;
+    top: 24vh;
+    color: #28c6ff4d;
+}
+
+.background li:nth-child(5)
+{
+    animation-delay: 8s;
+    left: 48vw;
+    top: 72vh;
+    color: #28c6ff4d;
+}
+
+.background li:nth-child(6)
+{
+    animation-delay: 10s;
+    left: 96vw;
+    top: 40vh;
+    color: #28c6ff1a;
+}
+
