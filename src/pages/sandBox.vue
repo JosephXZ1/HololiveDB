@@ -1,15 +1,44 @@
 <script setup>
+
+import navBar from '@/components/navBar.vue'
+
 </script>
 
 <template>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati reprehenderit eius blanditiis. Quibusdam fugiat impedit nulla ratione voluptatibus pariatur a, cupiditate, repudiandae vel deleniti dolore suscipit quam assumenda! Quasi, iure.</p>
+    <section class="main flex">
+        <nav class="menu flex flexColumn">
+            <navBar>
+            </navBar>
+        </nav>
+        <div class="talents">
+
+        </div>
+    </section>
 </template>
 
 <style scoped>
-template
+.main
 {
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: bold;
-    font-size: 2rem;
+    width: 100%;
+    height: 100vh;
+    padding: 2rem;
+}
+
+.menu
+{
+    width: 20vw;
+    height: 100%;
+    padding: 1.5rem 0;
+    justify-content: start;
+
+    border: 1px solid #000;
+    color: #000;
+}
+
+.talents
+{
+    width: 80vw;
+    height: 100%;
+    background-color: aquamarine;
 }
 </style>

@@ -1,7 +1,7 @@
 <script setup>
 //Esto de aquí importa router para que se pueda usar el <RouterCiew />
 import { useRoute } from 'vue-router';
-//import Header from '@/components/header.vue'
+import Header from '@/components/header.vue'
 
 //Con esto se puede ver en qué página está el usuario metido
 const route = useRoute(); 
@@ -21,7 +21,6 @@ const route = useRoute();
             />
         </svg>
     </li>
-
     <li>
         <svg viewBox="0 0 100 100" class="triangle">
             <polygon
@@ -33,7 +32,6 @@ const route = useRoute();
             />
         </svg>
     </li>
-
     <li>
         <svg viewBox="0 0 100 100" class="triangle">
             <polygon
@@ -45,7 +43,6 @@ const route = useRoute();
             />
         </svg>
     </li>
-
     <li>
         <svg viewBox="0 0 100 100" class="triangle">
             <polygon
@@ -57,7 +54,6 @@ const route = useRoute();
             />
         </svg>
     </li>
-
     <li>
         <svg viewBox="0 0 100 100" class="triangle">
             <polygon
@@ -69,7 +65,6 @@ const route = useRoute();
             />
         </svg>
     </li>
-
     <li>
         <svg viewBox="0 0 100 100" class="triangle">
             <polygon
