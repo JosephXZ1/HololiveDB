@@ -11,7 +11,7 @@ import navBar from '@/components/navBar.vue'
             </navBar>
         </nav>
         <div class="talents">
-
+            
         </div>
     </section>
 </template>
@@ -33,7 +33,12 @@ import navBar from '@/components/navBar.vue'
 
     border: 1px solid #000;
     color: #000;
+    overflow: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
 }
+
+.menu::-webkit-scrollbar {display: none;}
 
 .talents
 {
