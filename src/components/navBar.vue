@@ -1,5 +1,4 @@
 <script setup>
-
 </script>
 
 <template>
@@ -7,7 +6,7 @@
         <summary class="flex">
             <span class="material-symbols-outlined transition">play_arrow</span> <img src="../assets/Multimedia/Imagenes/logo_Jp.png" alt="">
         </summary>
-        <div class="options flex flexColumn">
+        <div class="options flex flexColumn transition">
             <button class="transition">Gen 0</button>
             <button class="transition">Gen 1</button>
             <button class="transition">Gen 2</button>
@@ -22,7 +21,7 @@
         <summary class="flex">
             <span class="material-symbols-outlined transition">play_arrow</span> <img src="../assets/Multimedia/Imagenes/logo_En.png" alt="">
         </summary>
-        <div class="options flex flexColumn">
+        <div class="options flex flexColumn transition">
             <button class="transition">Myth</button>
             <button class="transition">Promise</button>
             <button class="transition">Advent</button>
@@ -33,7 +32,7 @@
         <summary class="flex">
             <span class="material-symbols-outlined transition">play_arrow</span> <img src="../assets/Multimedia/Imagenes/logo_Id.png" alt="">
         </summary>
-        <div class="options flex flexColumn">
+        <div class="options flex flexColumn transition">
             <button class="transition">Area-15</button>
             <button class="transition">Holoro</button>
             <button class="transition lastBtn">Holoholo</button>
@@ -43,7 +42,7 @@
         <summary class="flex">
             <span class="material-symbols-outlined transition">play_arrow</span> <img src="../assets/Multimedia/Imagenes/logo_DevIs.png" alt="">
         </summary>
-        <div class="options flex flexColumn">
+        <div class="options flex flexColumn transition">
             <button class="transition">ReGloss</button>
             <button class="transition lastBtn">FlowGlow</button>
         </div>
@@ -54,15 +53,31 @@
 /* Contenedor general del details */
 details
 {
-    width: 87%;
+    width: 90%;
     height: fit-content;
     margin-bottom: 10px;
     align-items: stretch;
-    border: 3.5px solid #CFD0DF;
+    border: 2.5px solid #CFD0DF;
     border-radius: 30px;
 }
 
 details:hover, details[open] {border-color: #A3A4C0;}
+
+details[open] .options
+{
+    display: flex;
+    opacity: 1;
+    transform: translateY(0);
+}
+
+@starting-style
+{
+    details[open] .options
+    {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+}
 
 /* El summary (lo que abre el details pues) */
 details summary img {width: 9vw;}
@@ -75,16 +90,16 @@ details summary
     cursor: pointer;
 }
 
-details[open] summary > span  /* Animación de rotación del triangulo */
-{
-    transform: rotate(90deg);
-}
+details[open] summary > span {transform: rotate(90deg);} /* Animación de rotación del triangulo */
 
 /* El contenedor de los botones y los botones */
 .options
 {
     width: 100%;
+    display: none;
     row-gap: 10px;
+    opacity: 0;
+    transform: translateY(-10px);
 }
 
 button
