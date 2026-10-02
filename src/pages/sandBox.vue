@@ -1,6 +1,10 @@
 <script setup>
 
 import navBar from '@/components/navBar.vue'
+import {ref} from 'vue';
+
+// El estado que controla si el modal se ve o no
+const mostrarModal = ref(false);
 
 </script>
 
@@ -10,11 +14,44 @@ import navBar from '@/components/navBar.vue'
             <navBar>
             </navBar>
         </nav>
+
         <div class="talents">
-            <label class="container-Toggle">
-                <input type="checkbox" checked>
-                <span class="toggle"></span>
-            </label>
+
+            <!-- El DIV común transformado en botón -->
+            <div class="modalBtn" @click="mostrarModal = true" role="button" tabindex="0">
+                <img src="../assets/Multimedia/Imagenes/HolomemsBtn/Kronii2.png" alt="">
+                <div class="modalBtnHover flex transition">
+                    <h3>Shirakami Fubuki</h3>
+                </div>
+            </div>
+
+            <div class="modalBtn" @click="mostrarModal = true" role="button" tabindex="0">
+                Haz clic aquí para abrir el modal
+            </div>
+
+            <div class="modalBtn" @click="mostrarModal = true" role="button" tabindex="0">
+                Haz clic aquí para abrir el modal
+            </div>
+
+            <div class="modalBtn" @click="mostrarModal = true" role="button" tabindex="0">
+                Haz clic aquí para abrir el modal
+            </div>
+
+            <div class="modalBtn" @click="mostrarModal = true" role="button" tabindex="0">
+                Haz clic aquí para abrir el modal
+            </div>
+
+
+            <!-- El Contenedor del Modal -->
+            <div v-if="mostrarModal" class="modalBg">
+                <div class="modalContainer">
+                    <h3>¡Hola! Soy un Modal</h3>
+                    <p>Este modal se abrió de forma reactiva.</p>
+                    
+                    <!-- Botón para cerrar el modal -->
+                    <button @click="mostrarModal = false">Cerrar</button>
+                </div>
+            </div>
         </div>
     </section>
 </template>
@@ -22,16 +59,16 @@ import navBar from '@/components/navBar.vue'
 <style scoped>
 .main
 {
-    width: 100%;
+    width: 95%;
     height: 82vh;
-    padding: 0 2rem;
+    margin: auto;
     position: relative;
     top: 15vh;
 }
 
 .menu
 {
-    width: 20vw;
+    width: 22%;
     height: 100%;
     padding: 1.5rem 0;
     justify-content: start;
@@ -49,77 +86,82 @@ import navBar from '@/components/navBar.vue'
 
 .talents
 {
-    width: 80vw;
+    width: 70%;
     height: 100%;
     padding: 1.3rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(370px, 1fr));
+    grid-auto-rows: 23vh;
+    gap: 1.3rem;
     border: 3.5px solid #A3A4C0;
     border-radius: 30px;
+    overflow: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
 }
 
 
 
 
-/* El contenedor maestro (Osea, el que contiene todo) */
-.container-Toggle
+/* Estilos sugeridos para que el DIV parezca un botón */
+.modalBtn
 {
     position: relative;
     display: inline-block;
-    width: 83px;
-    height: 47px;
-}
-.container-Toggle input
-{ 
-    opacity: 0;
-    width: 0;
-    height: 0;
+    border-radius: 1rem;
+    background-color: #6879c7;
+    user-select: none;
 }
 
-/* El contenedor toggle (el que se anima y se mueve) */
-.toggle
+.modalBtnHover
 {
     position: absolute;
+    padding: 1rem 3rem;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-size: 2rem;
+    color: transparent;
+    background-color: transparent;
+    border-radius: 1rem;
     cursor: pointer;
+}
+
+.modalBtn:hover .modalBtnHover
+{
+    background-color: #00000077;
+    color: #FBFBFD;
+}
+
+.modalBtn img
+{
+    height: 100%;
+    margin: auto;
+    display: block;
+}
+
+/* Estilos básicos para el fondo del modal */
+.modalBg
+{
+    position: fixed;
     top: 0;
     left: 0;
-    right: 0;
-    bottom: 0;
-    background-color: #183357;
-    border: 2px solid #28C4FF;
-    border-radius: 34px;
-    -webkit-transition: .4s;
-    transition: .4s;
-}
-/* El círculo que se mueve (El que indica si esta activado o no pues) */
-.toggle:before
-{
-    position: absolute;
-    content: "";
-    height: 36px;
-    width: 36px;
-    left: 40px;
-    bottom: 4px;
-    background-color: #CFD0DF;
-    border-radius: 50%;
-    -webkit-transition: .4s;
-    transition: .4s;
+    width: 100vw;
+    height: 100vh;
+    background: #00000080;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-/* Lo que pasa cuando se hace click (se mueve y cambia de color) */
-input:checked + .toggle
+.modalContainer
 {
-    background-color: #FBFBFD;
-    border-color: #35629C;
-}
-input:checked + .toggle:before
-{
-    -webkit-transform: translateX(36px);
-    -ms-transform: translateX(36px);
-    transform: translateX(-36px);    
-    background-color: #EEDD68;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
 }
 
-/* 
-Opcional: Sombra para el elemento
-input:focus + .toggle {box-shadow: 0 0 1px #2196F3;}
-*/
 </style>
