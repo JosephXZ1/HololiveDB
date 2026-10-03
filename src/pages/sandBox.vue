@@ -1,6 +1,8 @@
 <script setup>
 
 import navBar from '@/components/navBar.vue'
+import carouselModal from '@/components/carouselModal.vue'
+import infoModal from '@/components/infoModal.vue'
 import {ref} from 'vue';
 
 // El estado que controla si el modal se ve o no
@@ -21,7 +23,7 @@ const mostrarModal = ref(false);
             <div class="modalBtn" @click="mostrarModal = true" role="button" tabindex="0">
                 <img src="../assets/Multimedia/Imagenes/HolomemsBtn/Kronii2.png" alt="">
                 <div class="modalBtnHover flex transition">
-                    <h3>Shirakami Fubuki</h3>
+                    <h3>Ouro Kronii</h3>
                 </div>
             </div>
 
@@ -44,12 +46,15 @@ const mostrarModal = ref(false);
 
             <!-- El Contenedor del Modal -->
             <div v-if="mostrarModal" class="modalBg">
-                <div class="modalContainer">
-                    <h3>¡Hola! Soy un Modal</h3>
-                    <p>Este modal se abrió de forma reactiva.</p>
-                    
-                    <!-- Botón para cerrar el modal -->
-                    <button @click="mostrarModal = false">Cerrar</button>
+                <div class="modalContainer flex">
+                    <div class="imgCarousel">
+                        <carouselModal>
+                        </carouselModal>
+                    </div>
+                    <div class="info">
+                        <infoModal @close="mostrarModal = false">
+                        </infoModal>
+                    </div>
                 </div>
             </div>
         </div>
@@ -103,7 +108,7 @@ const mostrarModal = ref(false);
 
 
 
-/* Estilos sugeridos para que el DIV parezca un botón */
+/* Boton del modal */
 .modalBtn
 {
     position: relative;
@@ -142,7 +147,7 @@ const mostrarModal = ref(false);
     display: block;
 }
 
-/* Estilos básicos para el fondo del modal */
+/* Fondo del modal (capa de obscuresencia) */
 .modalBg
 {
     position: fixed;
@@ -150,18 +155,34 @@ const mostrarModal = ref(false);
     left: 0;
     width: 100vw;
     height: 100vh;
-    background: #00000080;
+    background: #00000052;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
+/* Contenedor del modal */
 .modalContainer
 {
-    background: #fff;
-    padding: 20px;
-    border-radius: 8px;
-    text-align: center;
+    background: #FBFBFD;
+    padding: 20px 0;
+    width: 80%;
+    height: 87%;
+    border: 5px solid #8586A4;
+    border-radius: 2rem;
 }
 
+
+.modalContainer .imgCarousel
+{
+    width: 45%;
+    height: 100%;
+}
+
+.modalContainer .info
+{
+    width: 55%;
+    height: 100%;
+    border: 3px solid #000;
+}
 </style>
