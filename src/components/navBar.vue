@@ -111,15 +111,10 @@ button
     font-weight: 400;
     color: #35629C;
     background-color: transparent;
-    outline: none;
-    border: none;
     border-radius: 10px;
-    cursor: pointer;
 }
 
 button:hover {background-color: #CFD0DF;}
 
 .lastBtn {margin-bottom: 14px;}
-
-
 </style>
