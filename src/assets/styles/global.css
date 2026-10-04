@@ -87,7 +87,100 @@ html
 
 .flexColumn{flex-direction: column;}
 
-
+:root
+{
+  /* Gen 0 */
+  --bgColor-Sora: #245efe;
+  --bgColor-Roboco: #a36594;
+  --bgColor-Azki: #f4338a;
+  --bgColor-Miko: #ff9bb1;
+  --bgColor-Suisei: #50e5f9;
+  /* Gen 1 */
+  --bgColor-Aki: #fe1c9a;
+  --bgColor-Haato: #fb123f;
+  --bgColor-Fubuki: #76dfff;
+  --bgColor-Matsuri: #ffa228;
+  /* Gen 2 */
+  --bgColor-Ayame: #ed3a4f;
+  --bgColor-Choco: #ff6d9a;
+  --bgColor-Subaru: #e1ff2d;
+  --bgColor-Aqua: #ffa6ea;
+  --bgColor-Shion: #ad6ce0;
+  /* Gamers */
+  --bgColor-Mio: #ff304a;
+  --bgColor-Okayu: #e27dfd;
+  --bgColor-Korone: #ffcc2a;
+  /* Gen 3 */
+  --bgColor-Pekora: #88d2ff;
+  --bgColor-Flare: #ff5027;
+  --bgColor-Noel: #acabb1;
+  --bgColor-Marine: #ca3c28;
+  /* Gen 4 */
+  --bgColor-Watame: #fef29e;
+  --bgColor-Towa: #cabbff;
+  --bgColor-Luna: #ff85c2;
+  --bgColor-Kanata: #99d9ff;
+  --bgColor-Coco: #fd8b04;
+  /* Gen 5 */
+  --bgColor-Lamy: #6ccdf8;
+  --bgColor-Nene: #ffb65d;
+  --bgColor-Botan: #a4e5cf;
+  --bgColor-Polka: #cf2830;
+  /* HoloX */
+  --bgColor-Laplus: #936cc5;
+  --bgColor-lui: #831650;
+  --bgColor-Koyori: #feacd3;
+  --bgColor-Iroha: #93dcd8;
+  --bgColor-Chloe: #d04c4a;
+  /* Myth */
+  --bgColor-Calli: #c90d40;
+  --bgColor-Kiara: #fe511c;
+  --bgColor-Ina: #61567e;
+  --bgColor-Ame: #f7db92;
+  --bgColor-Gura: #5c81c7;
+  /* Promise */
+  --bgColor-Irys: #e10e5b;
+  --bgColor-Kronii: #6879c7;
+  --bgColor-Baelz: #ff948e;
+  --bgColor-Fauna: #b3e4c7;
+  --bgColor-Mumei: #dbc4b2;
+  --bgColor-Sana: #e7bbd2;
+  /* Advent */
+  --bgColor-Shiori: #b7a0cc;
+  --bgColor-Rissa: #2233fc;
+  --bgColor-Bijou: #6e5bf3;
+  --bgColor-Fuwawa: #66b2fe;
+  --bgColor-Mococo: #f7a5c9;
+  /* Justice */
+  --bgColor-ERB: #c7383a;
+  --bgColor-Ceci: #129a5c;
+  --bgColor-Gigi: #fdb441;
+  --bgColor-Raora: #f087a8;
+  /* Area15 */
+  --bgColor-Rissu: #f6bcbb;
+  --bgColor-Moona: #b19ddc;
+  --bgColor-Iofi: #b3ee54;
+  /* Holoro */
+  --bgColor-Ollie: #d60f54;
+  --bgColor-Anya: #f2c95d;
+  --bgColor-Reine: #0f52ba;
+  /* Holoholo */
+  --bgColor-Kaela: #ff3d3d;
+  --bgColor-Kobo: #3a3464;
+  --bgColor-Zeta: #bab8c3;
+  /* ReGloss */
+  --bgColor-Kanade: #fee7b5;
+  --bgColor-Ririka: #f57daa;
+  --bgColor-Raden: #3d7c71;
+  --bgColor-Hajime: #b6b9ff;
+  --bgColor-Ao: #1d3466;
+  /* FlowGlow */
+  --bgColor-Riona: #fe3480;
+  --bgColor-Vivi: #ff90cb;
+  --bgColor-Niko: #f58017;
+  --bgColor-Su: #71e4ff;
+  --bgColor-Chiha: #36bbba;
+}
 /* ========================= ANIMACIÓN DE FONDO ========================= */
 @keyframes triangle
 {
