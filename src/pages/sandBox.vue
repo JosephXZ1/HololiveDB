@@ -17,7 +17,7 @@ const mostrarModal = ref(false);
             </navBar>
         </nav>
 
-        <div class="talents">
+        <section class="talents">
 
             <!-- El DIV común transformado en botón -->
             <div class="modalBtn" @click="mostrarModal = true" role="button" tabindex="0">
@@ -57,11 +57,12 @@ const mostrarModal = ref(false);
                     </div>
                 </div>
             </div>
-        </div>
+        </section>
     </section>
 </template>
 
 <style scoped>
+/* ========================= CONTENEDOR COMPLETO (Donde esta todo) ========================= */
 .main
 {
     width: 95%;
@@ -71,6 +72,7 @@ const mostrarModal = ref(false);
     top: 15vh;
 }
 
+/* ========================= PARTE IZQUIERDA: MENU DE NAVEGACION ========================= */
 .menu
 {
     width: 22%;
@@ -89,6 +91,7 @@ const mostrarModal = ref(false);
 
 .menu::-webkit-scrollbar {display: none;}
 
+/* ========================= PARTE DERECHA: ÁREA DE TALENTOS ========================= */
 .talents
 {
     width: 70%;
@@ -106,8 +109,7 @@ const mostrarModal = ref(false);
 }
 
 
-
-
+/* ========================= FICHAS DE HOLOMEMS ========================= */
 /* Boton del modal */
 .modalBtn
 {
@@ -172,17 +174,17 @@ const mostrarModal = ref(false);
     border-radius: 2rem;
 }
 
-
+/* Mitad izquierda: Carrusel de imagenes */
 .modalContainer .imgCarousel
 {
     width: 45%;
     height: 100%;
 }
 
+/* Mitad derecha: Información */
 .modalContainer .info
 {
     width: 55%;
     height: 100%;
-    border: 3px solid #000;
 }
 </style>
