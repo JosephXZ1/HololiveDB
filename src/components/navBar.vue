@@ -80,7 +80,7 @@ details[open] .options
 }
 
 /* El summary (lo que abre el details pues) */
-details summary img {width: 9vw;}
+details summary img {width: 50%;}
 
 details summary
 {
