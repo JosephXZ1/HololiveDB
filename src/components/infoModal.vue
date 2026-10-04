@@ -9,7 +9,7 @@ const cerrarDesdeComponente = () =>
 </script>
 
 <template>
-    <div class="info_Container">
+    <div class="info_Container flexColumn">
         <div class="name-close flex">
             <h3>Ouro Kronii</h3>
             <button class="transition" @click="cerrarDesdeComponente">✖</button>
@@ -19,9 +19,16 @@ const cerrarDesdeComponente = () =>
 
         <div class="dataGrid">
             <div class="dataGrid_cell flex bgImg"><span>14 de Marzo</span></div>
-            <div class="dataGrid_cell flex bgImg"><span>23 de agosto de 2021</span></div>
+            <div class="dataGrid_cell flex bgImg"><span>23 de Septiembre de 2021</span></div>
             <div class="dataGrid_cell flex bgImg"><span>1.68 Mts</span></div>
             <div class="dataGrid_cell flex bgImg"><span>Kronies</span></div>
+        </div>
+
+        <p>Guardiana del Tiempo elegante, guapa, poderosa, asombrosa aunque con crisis existenciales fugaces y narcisismo lindo (le licuaron su sandwich).</p>
+
+        <div class="holomemSocial flex">
+            <a href="https://www.youtube.com/@OuroKronii" class="flex transition" target="_blank" rel="noreferrer noopener"><img src="../assets/Multimedia/Imagenes/L-YT.png" alt=""> Ir a YouTube</a>
+            <a href="https://x.com/ourokronii" class="flex transition" target="_blank" rel="noreferrer noopener"><img src="../assets/Multimedia/Imagenes/L-Twit.png" alt=""> Ir a Twitter</a>
         </div>
     </div>
 </template>
@@ -32,7 +39,13 @@ const cerrarDesdeComponente = () =>
 {
     width: 100%;
     height: 100%;
+    display: flex;
+    justify-content: start;
+    align-items: start;
     color: #272D34;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
 }
 
 /* Estilos de titulos (Los nombres de la Holomem) */
@@ -78,11 +91,13 @@ h5
     font-weight: 400;
 }
 
+
+/* Grid de datos */
 .dataGrid
 {
-    margin: 1rem 0;
+    margin: 10px 0;
     width: 60%;
-    height: 35%;
+    height: 30%;
     color: #FBFBFD;
     font-size: 1.7rem;
     font-weight: 600;
@@ -100,7 +115,7 @@ h5
 {
     width: 100%;
     height: 100%;
-    padding: 1rem;
+    padding: 10px;
     text-align: center;
 
     position: relative;
@@ -111,7 +126,6 @@ h5
     z-index: 30;
 }
 
-
 .dataGrid_cell:nth-child(1) {background-image: url('../assets/Multimedia/Imagenes/emoji-cake.png');}
 .dataGrid_cell:nth-child(2)
 {
@@ -120,9 +134,6 @@ h5
 }
 .dataGrid_cell:nth-child(3) {background-image: url('../assets/Multimedia/Imagenes/emoji-Rule.png');}
 .dataGrid_cell:nth-child(4) {background-image: url('../assets/Multimedia/Imagenes/emoji-people.png');}
-
-
-
 
 .dataGrid_cell::before
 {
@@ -143,5 +154,40 @@ h5
     z-index: 32;
 }
 
+/* Texto descriptivo */
+p
+{
+    font-size: clamp(1rem,1.45vw,1.4rem);
+    font-weight: 450;
+    display: block;
+    padding-right: 1rem;
+}
 
+/* Botones de redes sociales */
+.holomemSocial
+{
+    width: 100%;
+    height: 15%;
+    margin-top: auto;
+    gap: 1rem;
+    justify-content: start;
+}
+
+.holomemSocial a
+{
+    width: 45%;
+    height: 100%;
+    padding: 1rem;
+    gap: 1rem;
+    font-size: 1.8rem;
+    font-weight: 600;
+    border-radius: 1rem;
+}
+
+.holomemSocial a img {height: 85%;}
+
+.holomemSocial a:first-child {background-color: #f60100;}
+.holomemSocial a:last-child {background-color: #2d2d2d;}
+
+.holomemSocial a:hover {filter: brightness(0.85);}
 </style>
