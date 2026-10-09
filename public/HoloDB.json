@@ -6,7 +6,7 @@
         "Gen": ["Zero"],
         "Modal":
         {
-            "Saludo": "Everyone! How are you doing? It's me, Tokino Sora!",
+            "Frase": "I'm not Soda-chan, I'm Sora!",
             "Cumpleaños": "15 de Mayo",
             "Debut": "7/Sep/2017",
             "Altura": "1.60 Mts",
@@ -25,7 +25,7 @@
         "Gen": ["Zero"],
         "Modal":
         {
-            "Saludo": "Hellobo! I'm the high-spec robot, Roboco-san!",
+            "Frase": "Hellobo!",
             "Cumpleaños": "23 de Mayo",
             "Debut": "4/Mar/2018",
             "Altura": "1.54 Mts",
@@ -44,7 +44,7 @@
         "Gen": ["Zero"],
         "Modal":
         {
-            "Saludo": "Nya-hello! I'm the elite shrine maiden, Sakura Miko!",
+            "Frase": "Nya-hello!",
             "Cumpleaños": "5 de Marzo",
             "Debut": "1/Ago/2018",
             "Altura": "1.52 Mts",
@@ -63,7 +63,7 @@
         "Gen": ["Zero"],
         "Modal":
         {
-            "Saludo": "It's your shooting star, your diamond in the rough, idol VTuber Hoshimachi Suisei! Sui-chan wa~ kyou mo kawaii!",
+            "Frase": "Hi honey!",
             "Cumpleaños": "22 de Marzo",
             "Debut": "22/Mar/2018",
             "Altura": "1.60 Mts",
@@ -82,7 +82,7 @@
         "Gen": ["Zero"],
         "Modal":
         {
-            "Saludo": "Hello, this is diva AZKi!",
+            "Frase": "Kon kon-AZKi!",
             "Cumpleaños": "1 de Julio",
             "Debut": "15/Nov/2018",
             "Altura": "1.58 Mts",
@@ -101,7 +101,7 @@
         "Gen": ["1st"],
         "Modal":
         {
-            "Saludo": "Kapu-kapu~! It's Yozora Mel, Hololive's vampire!",
+            "Frase": "Kapu-kapu~!",
             "Cumpleaños": "31 de Octubre",
             "Debut": "13/May/2018",
             "Altura": "1.54 Mts",
@@ -120,7 +120,7 @@
         "Gen": ["1st", "GAMERS"],
         "Modal":
         {
-            "Saludo": "Konkon kitsune! Shirakami Fubuki desu!",
+            "Frase": "YABE",
             "Cumpleaños": "5 de Octubre",
             "Debut": "1/Jun/2018",
             "Altura": "1.55 Mts",
@@ -139,7 +139,7 @@
         "Gen": ["1st"],
         "Modal":
         {
-            "Saludo": "Wasshoi! Hololive 1st Gen's pure and energetic festival girl, Natsuiro Matsuri!",
+            "Frase": "Wasshoi!",
             "Cumpleaños": "22 de Julio",
             "Debut": "1/Jun/2018",
             "Altura": "1.52 Mts",
@@ -158,7 +158,7 @@
         "Gen": ["1st"],
         "Modal":
         {
-            "Saludo": "Alona! Aki Rosenthal desu!",
+            "Frase": "Alona!",
             "Cumpleaños": "17 de Febrero",
             "Debut": "1/Jun/2018",
             "Altura": "1.62 Mts",
@@ -177,7 +177,7 @@
         "Gen": ["1st"],
         "Modal":
         {
-            "Saludo": "Haachama-chama~! Welcome to Haato Channel!",
+            "Frase": "Haachama-chama~!",
             "Cumpleaños": "10 de Agosto",
             "Debut": "2/Jun/2018",
             "Altura": "1.54 Mts",
@@ -196,7 +196,7 @@
         "Gen": ["2nd"],
         "Modal":
         {
-            "Saludo": "A-K-U-A! Minato Aqua desu!",
+            "Frase": "A-K-U-A!",
             "Cumpleaños": "1 de Diciembre",
             "Debut": "8/Ago/2018",
             "Altura": "1.48 Mts",
@@ -215,7 +215,7 @@
         "Gen": ["2nd"],
         "Modal":
         {
-            "Saludo": "Hellshio! It's Murasaki Shion!",
+            "Frase": "Hellshio!",
             "Cumpleaños": "8 de Diciembre",
             "Debut": "17/Ago/2018",
             "Altura": "1.45 Mts",
@@ -234,7 +234,7 @@
         "Gen": ["2nd"],
         "Modal":
         {
-            "Saludo": "Konnakiri~! Nakiri Ayame desu!",
+            "Frase": "Konnakiri~!",
             "Cumpleaños": "13 de Diciembre",
             "Debut": "3/Sep/2018",
             "Altura": "1.52 Mts",
@@ -253,7 +253,7 @@
         "Gen": ["2nd"],
         "Modal":
         {
-            "Saludo": "Good evening, my cute students! Choco-sensei here!",
+            "Frase": "Good evening, Choco-sensei here~",
             "Cumpleaños": "14 de Febrero",
             "Debut": "4/Sep/2018",
             "Altura": "1.65 Mts",
@@ -272,7 +272,7 @@
         "Gen": ["2nd"],
         "Modal":
         {
-            "Saludo": "Sup, everyone! It's Hololive 2nd Gen's MMA club manager, Oozora Subaru!",
+            "Frase": "Ajimaru ajimaru!",
             "Cumpleaños": "2 de Julio",
             "Debut": "16/Sep/2018",
             "Altura": "1.54 Mts",
@@ -291,7 +291,7 @@
         "Gen": ["GAMERS"],
         "Modal":
         {
-            "Saludo": "Konbanmio! Ookami Mio da yo!",
+            "Frase": "Uchi uchi, uchi da yo!",
             "Cumpleaños": "20 de Agosto",
             "Debut": "7/Dic/2018",
             "Altura": "1.65 Mts",
@@ -310,7 +310,7 @@
         "Gen": ["GAMERS"],
         "Modal":
         {
-            "Saludo": "Mogu mogu~ Okayu! Hello, everyone, it's Nekomata Okayu!",
+            "Frase": "Mogu mogu~",
             "Cumpleaños": "22 de Febrero",
             "Debut": "6/Abr/2019",
             "Altura": "1.52 Mts",
@@ -329,7 +329,7 @@
         "Gen": ["GAMERS"],
         "Modal":
         {
-            "Saludo": "Orayo! Fingers, fingers! It's Inugami Korone!",
+            "Frase": "Yubi Yubi~",
             "Cumpleaños": "1 de Octubre",
             "Debut": "13/Abr/2019",
             "Altura": "1.56 Mts",
@@ -348,7 +348,7 @@
         "Gen": ["3rd"],
         "Modal":
         {
-            "Saludo": "Konpeko, konpeko, konpeko! It's Usada Pekora, peko!",
+            "Frase": "Ha➚Ha➘Ha➚!",
             "Cumpleaños": "12 de Enero",
             "Debut": "17/Jul/2019",
             "Altura": "1.53 Mts",
@@ -367,7 +367,7 @@
         "Gen": ["3rd"],
         "Modal":
         {
-            "Saludo": "Noon-noon! Flare here!",
+            "Frase": "Ore no... Ina!",
             "Cumpleaños": "2 de Abril",
             "Debut": "7/Ago/2019",
             "Altura": "1.58 Mts",
@@ -386,7 +386,7 @@
         "Gen": ["3rd"],
         "Modal":
         {
-            "Saludo": "Konnassuru! Shirogane Noel desu!",
+            "Frase": "Konnassuru!",
             "Cumpleaños": "24 de Noviembre",
             "Debut": "8/Ago/2019",
             "Altura": "1.58 Mts",
@@ -405,7 +405,7 @@
         "Gen": ["3rd"],
         "Modal":
         {
-            "Saludo": "Ahoy! Houshou Pirate Captain, Houshou Marine desu!",
+            "Frase": "I'm horny~!",
             "Cumpleaños": "30 de Julio",
             "Debut": "11/Ago/2019",
             "Altura": "1.50 Mts",
@@ -424,7 +424,7 @@
         "Gen": ["4th"],
         "Modal":
         {
-            "Saludo": "Konkanata! Hololive 4th Gen's angel, Amane Kanata desu!",
+            "Frase": "'I'm not a Gorilla!' - Gorilla",
             "Cumpleaños": "22 de Abril",
             "Debut": "27/Dic/2019",
             "Altura": "1.49 Mts",
@@ -443,7 +443,7 @@
         "Gen": ["4th"],
         "Modal":
         {
-            "Saludo": "Good morning, motherfuckers! Kiryu Coco desu!",
+            "Frase": "Good morning, motherf#ckers!",
             "Cumpleaños": "17 de Junio",
             "Debut": "28/Dic/2019",
             "Altura": "1.80 Mts",
@@ -462,12 +462,12 @@
         "Gen": ["4th"],
         "Modal":
         {
-            "Saludo": "Konban Dododo~! Tsunomaki Watame desu!",
+            "Frase": "Wakipai wakipai",
             "Cumpleaños": "6 de Junio",
             "Debut": "29/Dic/2019",
             "Altura": "1.51 Mts",
             "Fanbase": "Watamate",
-            "Descripcion": "Oveja con gran stamina de streaming nocturnas de canto y gaming (Watame Night Fever). Watame wa warukunai yo ne.",
+            "Descripcion": "Oveja con gran stamina de streaming nocturnas de canto y gaming (Watame Night Fever) y recuerden Watame nunca hizo nada malo.",
             "Youtube": "https://www.youtube.com/@TsunomakiWatame",
             "Twitter": "https://x.com/tsunomakiwatame",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Watame_OG.png",
@@ -481,7 +481,7 @@
         "Gen": ["4th"],
         "Modal":
         {
-            "Saludo": "Konbanto-wa! Tokoyami Towa desu!",
+            "Frase": "'I'm a devil!' - Angel",
             "Cumpleaños": "8 de Agosto",
             "Debut": "3/Ene/2020",
             "Altura": "1.50 Mts",
@@ -500,7 +500,7 @@
         "Gen": ["4th"],
         "Modal":
         {
-            "Saludo": "Nnnaaaaa~! Candy Kingdom's princess, Himemori Luna desu!",
+            "Frase": "Nanora~",
             "Cumpleaños": "10 de Octubre",
             "Debut": "4/Ene/2020",
             "Altura": "1.50 Mts",
@@ -520,7 +520,7 @@
         "Gen": ["5th"],
         "Modal":
         {
-            "Saludo": "Konrami~! Yukihana Lamy desu!",
+            "Frase": "Konlamy~",
             "Cumpleaños": "15 de Noviembre",
             "Debut": "12/Ago/2020",
             "Altura": "1.58 Mts",
@@ -539,7 +539,7 @@
         "Gen": ["5th"],
         "Modal":
         {
-            "Saludo": "Kon-nene~! It's your super hyper ultimate idol, Momosuzu Nene!",
+            "Frase": "Kon-nene~",
             "Cumpleaños": "2 de Marzo",
             "Debut": "13/Ago/2020",
             "Altura": "1.53 Mts",
@@ -558,7 +558,7 @@
         "Gen": ["5th"],
         "Modal":
         {
-            "Saludo": "La-la-lion~! Shishiro Botan desu!",
+            "Frase": "Poi poi!",
             "Cumpleaños": "8 de Septiembre",
             "Debut": "14/Ago/2020",
             "Altura": "1.66 Mts",
@@ -577,7 +577,7 @@
         "Gen": ["5th"],
         "Modal":
         {
-            "Saludo": "Poyoyo~n! It's Omaru Polka from the circus!",
+            "Frase": "Polka is VTuber. Princess VTuber!",
             "Cumpleaños": "30 de Enero",
             "Debut": "16/Ago/2020",
             "Altura": "1.53 Mts",
@@ -596,7 +596,7 @@
         "Gen": ["holoX"],
         "Modal":
         {
-            "Saludo": "Yes My Dark! It's the founder of Secret Society holoX, La+ Darknesss!",
+            "Frase": "Yes My Dark!",
             "Cumpleaños": "25 de Mayo",
             "Debut": "26/Nov/2021",
             "Altura": "1.39 Mts",
@@ -615,7 +615,7 @@
         "Gen": ["holoX"],
         "Modal":
         {
-            "Saludo": "Konruru~! It's holoX's executive officer, Takane Lui!",
+            "Frase": "Everyone, did you wait for me?",
             "Cumpleaños": "11 de Junio",
             "Debut": "27/Nov/2021",
             "Altura": "1.61 Mts",
@@ -634,7 +634,7 @@
         "Gen": ["holoX"],
         "Modal":
         {
-            "Saludo": "Konkoyo~! holoX's brain and researcher, Hakui Koyori desu!",
+            "Frase": "Konkoyo~!",
             "Cumpleaños": "15 de Marzo",
             "Debut": "28/Nov/2021",
             "Altura": "1.53 Mts",
@@ -653,7 +653,7 @@
         "Gen": ["holoX"],
         "Modal":
         {
-            "Saludo": "Bakkon~! holoX's cleaner and intern, Sakamata Chloe desu!",
+            "Frase": "Baku baku baku~",
             "Cumpleaños": "18 de Mayo",
             "Debut": "29/Nov/2021",
             "Altura": "1.48 Mts",
@@ -672,7 +672,7 @@
         "Gen": ["holoX"],
         "Modal":
         {
-            "Saludo": "Nin-nin! HoloX's bodyguard, samurai Kazama Iroha de gozaru!",
+            "Frase": "'I'm samurai. Not ninja!' - Ninja",
             "Cumpleaños": "18 de Junio",
             "Debut": "30/Nov/2021",
             "Altura": "1.56 Mts",
@@ -691,7 +691,7 @@
         "Gen": ["Myth"],
         "Modal":
         {
-            "Saludo": "Guh! What's up guys, it's your boy, the Grim Reaper's first apprentice, Mori Calliope!",
+            "Frase": "Guh!",
             "Cumpleaños": "4 de Abril",
             "Debut": "12/Sep/2020",
             "Altura": "1.67 Mts",
@@ -710,7 +710,7 @@
         "Gen": ["Myth"],
         "Modal":
         {
-            "Saludo": "Kikiriki~! It's the idol phoenix, Takanashi Kiara!",
+            "Frase": "You little sh#t!",
             "Cumpleaños": "6 de Julio",
             "Debut": "12/Sep/2020",
             "Altura": "1.65 Mts",
@@ -729,7 +729,7 @@
         "Gen": ["Myth"],
         "Modal":
         {
-            "Saludo": "Wah! We Are Here! Hololive English's priestess of the Ancient Ones, Ninomae Ina'nis!",
+            "Frase": "WAH",
             "Cumpleaños": "20 de Mayo",
             "Debut": "13/Sep/2020",
             "Altura": "1.57 Mts",
@@ -748,7 +748,7 @@
         "Gen": ["Myth"],
         "Modal":
         {
-            "Saludo": "A! Domo, same desu! It's Gawr Gura from Atlantis!",
+            "Frase": "A",
             "Cumpleaños": "20 de Junio",
             "Debut": "13/Sep/2020",
             "Altura": "1.41 Mts",
@@ -767,7 +767,7 @@
         "Gen": ["Myth"],
         "Modal":
         {
-            "Saludo": "Hello there! Detective Amelia Watson at your service!",
+            "Frase": "It's the ping guys-hic",
             "Cumpleaños": "6 de Enero",
             "Debut": "13/Sep/2020",
             "Altura": "1.50 Mts",
@@ -786,7 +786,7 @@
         "Gen": ["Promise"],
         "Modal":
         {
-            "Saludo": "HiDown! HiRyS, it's IRyS!",
+            "Frase": "HiRyS, it's IRyS",
             "Cumpleaños": "7 de Marzo",
             "Debut": "11/Jul/2021",
             "Altura": "1.66 Mts",
@@ -805,7 +805,7 @@
         "Gen": ["Promise"],
         "Modal":
         {
-            "Saludo": "Konfauna~! Mother Nature here, Ceres Fauna!",
+            "Frase": "Uuuu~",
             "Cumpleaños": "21 de Marzo",
             "Debut": "22/Ago/2021",
             "Altura": "1.64 Mts",
@@ -824,7 +824,7 @@
         "Gen": ["Promise"],
         "Modal":
         {
-            "Saludo": "Kroniichiwa",
+            "Frase": "Kroniichiwa~",
             "Cumpleaños": "14 de Marzo",
             "Debut": "23/Ago/2021",
             "Altura": "1.68 Mts",
@@ -843,7 +843,7 @@
         "Gen": ["Promise"],
         "Modal":
         {
-            "Saludo": "Hoo-hoo! It's the Guardian of Civilization, Nanashi Mumei!",
+            "Frase": "Oh hi",
             "Cumpleaños": "4 de Agosto",
             "Debut": "23/Ago/2021",
             "Altura": "1.56 Mts",
@@ -862,7 +862,7 @@
         "Gen": ["Promise"],
         "Modal":
         {
-            "Saludo": "G'day mate! It's the manifestation of Chaos, Hakos Baelz!",
+            "Frase": "Wazzup",
             "Cumpleaños": "29 de Febrero",
             "Debut": "23/Ago/2021",
             "Altura": "1.49 Mts",
@@ -881,7 +881,7 @@
         "Gen": ["Promise"],
         "Modal":
         {
-            "Saludo": "Sanan-nara! It's the Speaker of Space, Tsukumo Sana!",
+            "Frase": "Sana... is BIG",
             "Cumpleaños": "10 de Junio",
             "Debut": "22/Ago/2021",
             "Altura": "1.69 Mts",
@@ -900,7 +900,7 @@
         "Gen": ["Advent"],
         "Modal":
         {
-            "Saludo": "Greetings, my curious little bookmarks! It's Shiori Novella, the Archiver!",
+            "Frase": "Shiorin!",
             "Cumpleaños": "2 de Mayo",
             "Debut": "30/Jul/2023",
             "Altura": "1.52 Mts",
@@ -919,7 +919,7 @@
         "Gen": ["Advent"],
         "Modal":
         {
-            "Saludo": "Bon Bijou! :D",
+            "Frase": "Dang it!",
             "Cumpleaños": "14 de Abril",
             "Debut": "30/Jul/2023",
             "Altura": "1.40 Mts",
@@ -938,7 +938,7 @@
         "Gen": ["Advent"],
         "Modal":
         {
-            "Saludo": "Hey, darlings! It's the Demon of Soup and Song, Nerissa Ravencroft!",
+            "Frase": "Hey darlings~",
             "Cumpleaños": "21 de Noviembre",
             "Debut": "31/Jul/2023",
             "Altura": "1.75 Mts",
@@ -957,7 +957,7 @@
         "Gen": ["Advent"],
         "Modal":
         {
-            "Saludo": "I'm not a chihuahua, I'm Fuwawa!",
+            "Frase": "Bau bau!",
             "Cumpleaños": "1 de Febrero",
             "Debut": "31/Jul/2023",
             "Altura": "1.58 Mts",
@@ -976,7 +976,7 @@
         "Gen": ["Advent"],
         "Modal":
         {
-            "Saludo": "I'm not Fuwawa, I'm Mococo!",
+            "Frase": "Hoeh?!",
             "Cumpleaños": "1 de Febrero",
             "Debut": "31/Jul/2023",
             "Altura": "1.58 Mts",
@@ -995,7 +995,7 @@
         "Gen": ["Justice"],
         "Modal":
         {
-            "Saludo": "Greetings, my darling champions! It is I, your Queen, Elizabeth Rose Bloodflame!",
+            "Frase": "What the frigg?",
             "Cumpleaños": "13 de Enero",
             "Debut": "22/Jun/2024",
             "Altura": "1.70 Mts",
@@ -1014,7 +1014,7 @@
         "Gen": ["Justice"],
         "Modal":
         {
-            "Saludo": "Yo! What's crackin'? It's the Chaser of Justice, Gigi Murin!",
+            "Frase": "Boat goes binted",
             "Cumpleaños": "19 de Septiembre",
             "Debut": "22/Jun/2024",
             "Altura": "1.53 Mts",
@@ -1033,7 +1033,7 @@
         "Gen": ["Justice"],
         "Modal":
         {
-            "Saludo": "Tick-tock, clack-clack! Automaton of Justice, Cecilia Immergreen, operational!",
+            "Frase": "I hate -insert anything-",
             "Cumpleaños": "11 de Octubre",
             "Debut": "23/Jun/2024",
             "Altura": "1.58 Mts",
@@ -1052,7 +1052,7 @@
         "Gen": ["Justice"],
         "Modal":
         {
-            "Saludo": "Ciaora!",
+            "Frase": "DOOM",
             "Cumpleaños": "24 de Enero",
             "Debut": "23/Jun/2024",
             "Altura": "1.62 Mts",
@@ -1071,7 +1071,7 @@
         "Gen": ["Area-15"],
         "Modal":
         {
-            "Saludo": "Halo, ini Risu si tupai lucu! It's Ayunda Risu!",
+            "Frase": "Halo, ini Risu si tupai lucu! It's Ayunda Risu!",
             "Cumpleaños": "15 de Enero",
             "Debut": "10/Abr/2020",
             "Altura": "1.53 Mts",
@@ -1090,7 +1090,7 @@
         "Gen": ["Area-15"],
         "Modal":
         {
-            "Saludo": "Moon moon, Moona! It's Hololive Indonesia's moon idol, Moona Hoshinova!",
+            "Frase": "Moon moon, Moona! It's Hololive Indonesia's moon idol, Moona Hoshinova!",
             "Cumpleaños": "15 de Febrero",
             "Debut": "11/Abr/2020",
             "Altura": "1.65 Mts",
@@ -1109,7 +1109,7 @@
         "Gen": ["Area-15"],
         "Modal":
         {
-            "Saludo": "Obisa! It's your alien artist friend, Airani Iofifteen!",
+            "Frase": "Obisa! It's your alien artist friend, Airani Iofifteen!",
             "Cumpleaños": "15 de Julio",
             "Debut": "12/Abr/2020",
             "Altura": "1.50 Mts",
@@ -1128,7 +1128,7 @@
         "Gen": ["Holoro"],
         "Modal":
         {
-            "Saludo": "ZOM-BANG! Hal-Ollie! It's Hololive Indonesia's energetic zombie idol, Kureiji Ollie!",
+            "Frase": "ZOM-BANG! Hal-Ollie! It's Hololive Indonesia's energetic zombie idol, Kureiji Ollie!",
             "Cumpleaños": "13 de Octubre",
             "Debut": "4/Dic/2020",
             "Altura": "1.62 Mts",
@@ -1147,7 +1147,7 @@
         "Gen": ["Holoro"],
         "Modal":
         {
-            "Saludo": "Kon-nya! Ancient weapon Keris, Anya Melfissa desu!",
+            "Frase": "Kon-nya! Ancient weapon Keris, Anya Melfissa desu!",
             "Cumpleaños": "12 de Marzo",
             "Debut": "5/Dic/2020",
             "Altura": "1.47 Mts",
@@ -1166,7 +1166,7 @@
         "Gen": ["Holoro"],
         "Modal":
         {
-            "Saludo": "Attention please! It's the lady peacock, Pavolia Reine!",
+            "Frase": "Attention please! It's the lady peacock, Pavolia Reine!",
             "Cumpleaños": "9 de Septiembre",
             "Debut": "6/Dic/2020",
             "Altura": "1.72 Mts",
@@ -1185,7 +1185,7 @@
         "Gen": ["HoloHolo"],
         "Modal":
         {
-            "Saludo": "Mission accomplished! It's the secret agent, Vestia Zeta!",
+            "Frase": "Mission accomplished! It's the secret agent, Vestia Zeta!",
             "Cumpleaños": "7 de Noviembre",
             "Debut": "25/Mar/2022",
             "Altura": "1.55 Mts",
@@ -1204,7 +1204,7 @@
         "Gen": ["HoloHolo"],
         "Modal":
         {
-            "Saludo": "GSH! Get Some Help! It's your blacksmith, Kaela Kovalskia!",
+            "Frase": "Get Some Help",
             "Cumpleaños": "30 de Agosto",
             "Debut": "26/Mar/2022",
             "Altura": "1.73 Mts",
@@ -1223,7 +1223,7 @@
         "Gen": ["HoloHolo"],
         "Modal":
         {
-            "Saludo": "Ehe! It's the rain shaman, Kobo Kanaeru!",
+            "Frase": "Ehe! It's the rain shaman, Kobo Kanaeru!",
             "Cumpleaños": "12 de Diciembre",
             "Debut": "27/Mar/2022",
             "Altura": "1.50 Mts",
@@ -1242,7 +1242,7 @@
         "Gen": ["ReGLOSS"],
         "Modal":
         {
-            "Saludo": "Kon-ao! It's Hololive DEV_IS ReGLOSS's manga artist, Hiodoshi Ao!",
+            "Frase": "Kon-ao! It's Hololive DEV_IS ReGLOSS's manga artist, Hiodoshi Ao!",
             "Cumpleaños": "27 de Febrero",
             "Debut": "9/Sep/2023",
             "Altura": "1.71 Mts",
@@ -1261,7 +1261,7 @@
         "Gen": ["ReGLOSS"],
         "Modal":
         {
-            "Saludo": "Guys! You know what day is tomorrow? You know? It's monday!",
+            "Frase": "You know what day is tomorrow? You know? It's monday!",
             "Cumpleaños": "20 de Abril",
             "Debut": "9/Sep/2023",
             "Altura": "1.53 Mts",
@@ -1280,7 +1280,7 @@
         "Gen": ["ReGLOSS"],
         "Modal":
         {
-            "Saludo": "Good morning/afternoon! It's your ambitious entrepreneur, Ichijou Ririka!",
+            "Frase": "Good morning/afternoon! It's your ambitious entrepreneur, Ichijou Ririka!",
             "Cumpleaños": "12 de Mayo",
             "Debut": "9/Sep/2023",
             "Altura": "1.62 Mts",
@@ -1299,7 +1299,7 @@
         "Gen": ["ReGLOSS"],
         "Modal":
         {
-            "Saludo": "Domo! Rakugoka and culture enthusiast, Juufuutei Raden desu!",
+            "Frase": "Domo! Rakugoka and culture enthusiast, Juufuutei Raden desu!",
             "Cumpleaños": "4 de Febrero",
             "Debut": "10/Sep/2023",
             "Altura": "1.59 Mts",
@@ -1318,7 +1318,7 @@
         "Gen": ["ReGLOSS"],
         "Modal":
         {
-            "Saludo": "Osu! The ultimate bancho, Todoroki Hajime da zo!",
+            "Frase": "Osu! The ultimate bancho, Todoroki Hajime da zo!",
             "Cumpleaños": "7 de Junio",
             "Debut": "10/Sep/2023",
             "Altura": "1.55 Mts",
@@ -1337,7 +1337,7 @@
         "Gen": ["FlowGlow"],
         "Modal":
         {
-            "Saludo": "Gao~! It's FLOW GLOW's leader, Isaki Riona!",
+            "Frase": "Gao~! It's FLOW GLOW's leader, Isaki Riona!",
             "Cumpleaños": "29 de Mayo",
             "Debut": "9/Nov/2024",
             "Altura": "1.56 Mts",
@@ -1356,7 +1356,7 @@
         "Gen": ["FlowGlow"],
         "Modal":
         {
-            "Saludo": "Niko-niko smile! Koganei Niko at your service!",
+            "Frase": "Niko-niko smile! Koganei Niko at your service!",
             "Cumpleaños": "23 de Noviembre",
             "Debut": "9/Nov/2024",
             "Altura": "1.52 Mts",
@@ -1375,7 +1375,7 @@
         "Gen": ["FlowGlow"],
         "Modal":
         {
-            "Saludo": "Splash! Cool and steady, Mizumiya Su here.",
+            "Frase": "Splash! Cool and steady, Mizumiya Su here.",
             "Cumpleaños": "16 de Julio",
             "Debut": "9/Nov/2024",
             "Altura": "1.63 Mts",
@@ -1394,7 +1394,7 @@
         "Gen": ["FlowGlow"],
         "Modal":
         {
-            "Saludo": "Accelerating to maximum speed! Rindo Chihaya ready to roll!",
+            "Frase": "Accelerating to maximum speed! Rindo Chihaya ready to roll!",
             "Cumpleaños": "12 de Agosto",
             "Debut": "10/Nov/2024",
             "Altura": "1.68 Mts",
@@ -1413,7 +1413,7 @@
         "Gen": ["FlowGlow"],
         "Modal":
         {
-            "Saludo": "Sparkle and shine! It's the colorful fashionista, Kikiriki Vivi!",
+            "Frase": "Sparkle and shine! It's the colorful fashionista, Kikiriki Vivi!",
             "Cumpleaños": "30 de Octubre",
             "Debut": "10/Nov/2024",
             "Altura": "1.58 Mts",
