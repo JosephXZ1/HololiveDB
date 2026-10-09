@@ -34,7 +34,8 @@
             "Youtube": "https://www.youtube.com/@Robocosan",
             "Twitter": "https://x.com/robocosan",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Roboco_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Roboco_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Roboco_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/RobocoBtn.png"
         }
     },
     {
@@ -53,7 +54,8 @@
             "Youtube": "https://www.youtube.com/@SakuraMiko",
             "Twitter": "https://x.com/sakuramiko35",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Miko_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/MikO_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/MikO_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/MikoBtn.png"
         }
     },
     {
@@ -72,7 +74,8 @@
             "Youtube": "https://www.youtube.com/@HoshimachiSuisei",
             "Twitter": "https://x.com/suisei_hosimati",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Suisei_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Suisei_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Suisei_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/SuiseiBtn.png"
         }
     },
     {
@@ -91,7 +94,8 @@
             "Youtube": "https://www.youtube.com/@AZKi",
             "Twitter": "https://x.com/AZKi_VDiVA",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Azki_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Azki_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Azki_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/AZKiBtn.png"
         }
     },
     {
@@ -1071,7 +1075,7 @@
         "Gen": ["Area-15"],
         "Modal":
         {
-            "Frase": "Halo, ini Risu si tupai lucu! It's Ayunda Risu!",
+            "Frase": "Seiso? we don't do that here",
             "Cumpleaños": "15 de Enero",
             "Debut": "10/Abr/2020",
             "Altura": "1.53 Mts",
@@ -1090,7 +1094,7 @@
         "Gen": ["Area-15"],
         "Modal":
         {
-            "Frase": "Moon moon, Moona! It's Hololive Indonesia's moon idol, Moona Hoshinova!",
+            "Frase": "Moon moon, Moonafic-dayo",
             "Cumpleaños": "15 de Febrero",
             "Debut": "11/Abr/2020",
             "Altura": "1.65 Mts",
@@ -1109,7 +1113,7 @@
         "Gen": ["Area-15"],
         "Modal":
         {
-            "Frase": "Obisa! It's your alien artist friend, Airani Iofifteen!",
+            "Frase": "Obisa!",
             "Cumpleaños": "15 de Julio",
             "Debut": "12/Abr/2020",
             "Altura": "1.50 Mts",
@@ -1128,7 +1132,7 @@
         "Gen": ["Holoro"],
         "Modal":
         {
-            "Frase": "ZOM-BANG! Hal-Ollie! It's Hololive Indonesia's energetic zombie idol, Kureiji Ollie!",
+            "Frase": "ZOM-BANG! Hal-Ollie!",
             "Cumpleaños": "13 de Octubre",
             "Debut": "4/Dic/2020",
             "Altura": "1.62 Mts",
@@ -1147,7 +1151,7 @@
         "Gen": ["Holoro"],
         "Modal":
         {
-            "Frase": "Kon-nya! Ancient weapon Keris, Anya Melfissa desu!",
+            "Frase": "Kon-nya!",
             "Cumpleaños": "12 de Marzo",
             "Debut": "5/Dic/2020",
             "Altura": "1.47 Mts",
@@ -1166,7 +1170,7 @@
         "Gen": ["Holoro"],
         "Modal":
         {
-            "Frase": "Attention please! It's the lady peacock, Pavolia Reine!",
+            "Frase": "Attention please!",
             "Cumpleaños": "9 de Septiembre",
             "Debut": "6/Dic/2020",
             "Altura": "1.72 Mts",
@@ -1185,7 +1189,7 @@
         "Gen": ["HoloHolo"],
         "Modal":
         {
-            "Frase": "Mission accomplished! It's the secret agent, Vestia Zeta!",
+            "Frase": "'I'm not a cat' - Cat",
             "Cumpleaños": "7 de Noviembre",
             "Debut": "25/Mar/2022",
             "Altura": "1.55 Mts",
@@ -1223,7 +1227,7 @@
         "Gen": ["HoloHolo"],
         "Modal":
         {
-            "Frase": "Ehe! It's the rain shaman, Kobo Kanaeru!",
+            "Frase": "Oxford~ no? Australia!",
             "Cumpleaños": "12 de Diciembre",
             "Debut": "27/Mar/2022",
             "Altura": "1.50 Mts",
@@ -1242,7 +1246,7 @@
         "Gen": ["ReGLOSS"],
         "Modal":
         {
-            "Frase": "Kon-ao! It's Hololive DEV_IS ReGLOSS's manga artist, Hiodoshi Ao!",
+            "Frase": "Thought I'm a cute girl? Ta-da!",
             "Cumpleaños": "27 de Febrero",
             "Debut": "9/Sep/2023",
             "Altura": "1.71 Mts",
@@ -1280,7 +1284,7 @@
         "Gen": ["ReGLOSS"],
         "Modal":
         {
-            "Frase": "Good morning/afternoon! It's your ambitious entrepreneur, Ichijou Ririka!",
+            "Frase": "Kawaii! Positive! Genius!",
             "Cumpleaños": "12 de Mayo",
             "Debut": "9/Sep/2023",
             "Altura": "1.62 Mts",
@@ -1299,7 +1303,7 @@
         "Gen": ["ReGLOSS"],
         "Modal":
         {
-            "Frase": "Domo! Rakugoka and culture enthusiast, Juufuutei Raden desu!",
+            "Frase": "Maitake! Maitake! Guruguru! Guruguru!",
             "Cumpleaños": "4 de Febrero",
             "Debut": "10/Sep/2023",
             "Altura": "1.59 Mts",
@@ -1318,7 +1322,7 @@
         "Gen": ["ReGLOSS"],
         "Modal":
         {
-            "Frase": "Osu! The ultimate bancho, Todoroki Hajime da zo!",
+            "Frase": "-unintelligible but cute Bancho language-",
             "Cumpleaños": "7 de Junio",
             "Debut": "10/Sep/2023",
             "Altura": "1.55 Mts",
@@ -1337,7 +1341,7 @@
         "Gen": ["FlowGlow"],
         "Modal":
         {
-            "Frase": "Gao~! It's FLOW GLOW's leader, Isaki Riona!",
+            "Frase": "Gao~!",
             "Cumpleaños": "29 de Mayo",
             "Debut": "9/Nov/2024",
             "Altura": "1.56 Mts",
@@ -1356,7 +1360,7 @@
         "Gen": ["FlowGlow"],
         "Modal":
         {
-            "Frase": "Niko-niko smile! Koganei Niko at your service!",
+            "Frase": "Niko-niko smile!",
             "Cumpleaños": "23 de Noviembre",
             "Debut": "9/Nov/2024",
             "Altura": "1.52 Mts",
@@ -1375,7 +1379,7 @@
         "Gen": ["FlowGlow"],
         "Modal":
         {
-            "Frase": "Splash! Cool and steady, Mizumiya Su here.",
+            "Frase": "Shupi shuwa~!",
             "Cumpleaños": "16 de Julio",
             "Debut": "9/Nov/2024",
             "Altura": "1.63 Mts",
@@ -1394,7 +1398,7 @@
         "Gen": ["FlowGlow"],
         "Modal":
         {
-            "Frase": "Accelerating to maximum speed! Rindo Chihaya ready to roll!",
+            "Frase": "Accelerating to maximum speed!",
             "Cumpleaños": "12 de Agosto",
             "Debut": "10/Nov/2024",
             "Altura": "1.68 Mts",
@@ -1413,7 +1417,7 @@
         "Gen": ["FlowGlow"],
         "Modal":
         {
-            "Frase": "Sparkle and shine! It's the colorful fashionista, Kikiriki Vivi!",
+            "Frase": "Nnnnn~ Vivi!",
             "Cumpleaños": "30 de Octubre",
             "Debut": "10/Nov/2024",
             "Altura": "1.58 Mts",
