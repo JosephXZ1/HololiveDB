@@ -15,7 +15,8 @@
             "Youtube": "https://www.youtube.com/@tokinosora",
             "Twitter": "https://x.com/tokino_sora",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Sora_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Sora_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Sora_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/SoraBtn.png"
         }
     },
     {
@@ -114,7 +115,8 @@
             "Youtube": "https://www.youtube.com/@YozoraMel",
             "Twitter": "https://x.com/yozoramel",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Mel_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Mel_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Mel_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/MelBtn.png"
         }
     },
     {
@@ -133,7 +135,8 @@
             "Youtube": "https://www.youtube.com/@ShirakamiFubuki",
             "Twitter": "https://x.com/shirakamifubuki",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Fubuki_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Fubuki_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Fubuki_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/FubukiBtn.png"
         }
     },
     {
@@ -152,7 +155,8 @@
             "Youtube": "https://www.youtube.com/@NatsuiroMatsuri",
             "Twitter": "https://x.com/natsuiromatsuri",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Matsuri_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Matsuri_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Matsuri_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/MatsuriBtn.png"
         }
     },
     {
@@ -171,7 +175,8 @@
             "Youtube": "https://www.youtube.com/@AkiRosenthal",
             "Twitter": "https://x.com/akirosenthal",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Akirose_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Akirose_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Akirose_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/AkiBtn.png"
         }
     },
     {
@@ -190,7 +195,8 @@
             "Youtube": "https://www.youtube.com/@AkaiHaato",
             "Twitter": "https://x.com/akaihaato",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Haato_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Haato_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Haato_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/HaatoBtn.png"
         }
     },
     {
@@ -209,7 +215,8 @@
             "Youtube": "https://www.youtube.com/@MinatoAqua",
             "Twitter": "https://x.com/minatoaqua",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Aqua_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Aqua_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Aqua_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/AquaBtn.png"
         }
     },
     {
@@ -228,7 +235,8 @@
             "Youtube": "https://www.youtube.com/@MurasakiShion",
             "Twitter": "https://x.com/murasakishionch",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Shion_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Shion_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Shion_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/ShionBtn.png"
         }
     },
     {
@@ -247,7 +255,8 @@
             "Youtube": "https://www.youtube.com/@NakiriAyame",
             "Twitter": "https://x.com/nakiriayame",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Ayame_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Ayame_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Ayame_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/AyameBtn.png"
         }
     },
     {
@@ -266,7 +275,8 @@
             "Youtube": "https://www.youtube.com/@YuzukiChoco",
             "Twitter": "https://x.com/yuzukichococh",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Choco_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Choco_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Choco_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/ChocoBtn.png"
         }
     },
     {
@@ -285,7 +295,8 @@
             "Youtube": "https://www.youtube.com/@OozoraSubaru",
             "Twitter": "https://x.com/oozorasubaru",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Subaru_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Subaru_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Subaru_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/SubaruBtn.png"
         }
     },
     {
@@ -304,7 +315,8 @@
             "Youtube": "https://www.youtube.com/@OokamiMio",
             "Twitter": "https://x.com/ookamimio",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Mio_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Mio_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Mio_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/MioBtn.png"
         }
     },
     {
@@ -323,7 +335,8 @@
             "Youtube": "https://www.youtube.com/@NekomataOkayu",
             "Twitter": "https://x.com/nekomataokayu",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Okayu_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Okayu_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Okayu_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/OkayuBtn.png"
         }
     },
     {
@@ -342,7 +355,8 @@
             "Youtube": "https://www.youtube.com/@InugamiKorone",
             "Twitter": "https://x.com/inugamikorone",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Korone_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Korone_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Korone_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/KoroneBtn.png"
         }
     },
     {
@@ -361,7 +375,8 @@
             "Youtube": "https://www.youtube.com/@usadapekora",
             "Twitter": "https://x.com/usadapekora",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Pekora_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Pekora_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Pekora_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/PekoraBtn.png"
         }
     },
     {
@@ -380,7 +395,8 @@
             "Youtube": "https://www.youtube.com/@ShiranuiFlare",
             "Twitter": "https://x.com/shiranuiflare",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Flare_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Flare_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Flare_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/FlareBtn.png"
         }
     },
     {
@@ -399,7 +415,8 @@
             "Youtube": "https://www.youtube.com/@ShiroganeNoel",
             "Twitter": "https://x.com/shiroganenoel",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Noel_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Noel_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Noel_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/NoelBtn.png"
         }
     },
     {
@@ -418,7 +435,8 @@
             "Youtube": "https://www.youtube.com/@HoushouMarine",
             "Twitter": "https://x.com/houshoumarine",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Marine_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Marine_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Marine_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/MarineBtn.png"
         }
     },
     {
@@ -437,7 +455,8 @@
             "Youtube": "https://www.youtube.com/@AmaneKanata",
             "Twitter": "https://x.com/amanekanatach",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Kanata_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Kanata_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Kanata_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/KanataBtn.png"
         }
     },
     {
@@ -456,7 +475,8 @@
             "Youtube": "https://www.youtube.com/@KiryuCoco",
             "Twitter": "https://x.com/kiryucoco",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Coco_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Coco_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Coco_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/CocoBtn.png"
         }
     },
     {
@@ -475,7 +495,8 @@
             "Youtube": "https://www.youtube.com/@TsunomakiWatame",
             "Twitter": "https://x.com/tsunomakiwatame",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Watame_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Watame_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Watame_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/WatameBtn.png"
         }
     },
     {
@@ -494,7 +515,8 @@
             "Youtube": "https://www.youtube.com/@TokoyamiTowa",
             "Twitter": "https://x.com/tokoyamitowa",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Towa_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Towa_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Towa_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/TowaBtn.png"
         }
     },
     {
@@ -513,7 +535,8 @@
             "Youtube": "https://www.youtube.com/@HimemoriLuna",
             "Twitter": "https://x.com/himemoriluna",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Luna_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Luna_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Luna_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/LunaBtn.png"
         }
     },
 
@@ -533,7 +556,8 @@
             "Youtube": "https://www.youtube.com/@YukihanaLamy",
             "Twitter": "https://x.com/yukihanalamy",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Lamy_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Lamy_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Lamy_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/LamyBtn.png"
         }
     },
     {
@@ -552,7 +576,8 @@
             "Youtube": "https://www.youtube.com/@MomosuzuNene",
             "Twitter": "https://x.com/momosuzunene",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Nene_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Nene_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Nene_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/NeneBtn.png"
         }
     },
     {
@@ -571,7 +596,8 @@
             "Youtube": "https://www.youtube.com/@ShishiroBotan",
             "Twitter": "https://x.com/shishirobotan",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Botan_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Botan_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Botan_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/BotanBtn.png"
         }
     },
     {
@@ -590,7 +616,8 @@
             "Youtube": "https://www.youtube.com/@OmaruPolka",
             "Twitter": "https://x.com/omarupolka",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Polka_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Polka_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Polka_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/PolkaBtn.png"
         }
     },
     {
@@ -609,7 +636,8 @@
             "Youtube": "https://www.youtube.com/@LaplusDarknesss",
             "Twitter": "https://x.com/LaplusDarknesss",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Laplus_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Laplus_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Laplus_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/LaplusBtn.png"
         }
     },
     {
@@ -628,7 +656,8 @@
             "Youtube": "https://www.youtube.com/@TakaneLui",
             "Twitter": "https://x.com/takanelui",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Lui_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Lui_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Lui_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/LuiBtn.png"
         }
     },
     {
@@ -647,7 +676,8 @@
             "Youtube": "https://www.youtube.com/@HakuiKoyori",
             "Twitter": "https://x.com/hakuikoyori",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Koyori_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Koyori_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Koyori_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/KoyoriBtn.png"
         }
     },
     {
@@ -666,7 +696,8 @@
             "Youtube": "https://www.youtube.com/@SakamataChloe",
             "Twitter": "https://x.com/sakamatachloe",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Chloe_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Chloe_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Chloe_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/ChloeBtn.png"
         }
     },
     {
@@ -685,7 +716,8 @@
             "Youtube": "https://www.youtube.com/@KazamaIroha",
             "Twitter": "https://x.com/kazamairohach",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Iroha_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Iroha_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Iroha_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/IrohaBtn.png"
         }
     },
     {
@@ -704,7 +736,8 @@
             "Youtube": "https://www.youtube.com/@MoriCalliope",
             "Twitter": "https://x.com/moricalliope",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Calli_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Calli_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Calli_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/CalliBtn.png"
         }
     },
     {
@@ -723,7 +756,8 @@
             "Youtube": "https://www.youtube.com/@TakanashiKiara",
             "Twitter": "https://x.com/takanashikiara",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Kiara_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Kiara_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Kiara_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/KiaraBtn.png"
         }
     },
     {
@@ -742,7 +776,8 @@
             "Youtube": "https://www.youtube.com/@NinomaeInanis",
             "Twitter": "https://x.com/ninomaeinanis",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Ina_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Ina_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Ina_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/InaBtn.png"
         }
     },
     {
@@ -761,7 +796,8 @@
             "Youtube": "https://www.youtube.com/@GawrGura",
             "Twitter": "https://x.com/gawrgura",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Gura_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Gura_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Gura_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/GuraBtn.png"
         }
     },
     {
@@ -780,7 +816,8 @@
             "Youtube": "https://www.youtube.com/@AmeliaWatson",
             "Twitter": "https://x.com/watsonameliaen",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Ame_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Ame_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Ame_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/AmeBtn.png"
         }
     },
     {
@@ -799,7 +836,8 @@
             "Youtube": "https://www.youtube.com/@IRyS",
             "Twitter": "https://x.com/irys_en",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Irys_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Irys_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Irys_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/IrysBtn.png"
         }
     },
     {
@@ -818,7 +856,8 @@
             "Youtube": "https://www.youtube.com/@CeresFauna",
             "Twitter": "https://x.com/ceresfauna",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Fauna_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Fauna_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Fauna_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/FaunaBtn.png"
         }
     },
     {
@@ -837,7 +876,8 @@
             "Youtube": "https://www.youtube.com/@OuroKronii",
             "Twitter": "https://x.com/ourokronii",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Kronii_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Kronii_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Kronii_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/KroniiBtn.png"
         }
     },
     {
@@ -856,7 +896,8 @@
             "Youtube": "https://www.youtube.com/@NanashiMumei",
             "Twitter": "https://x.com/nanashimumei_en",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Mumei_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Mumei_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Mumei_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/MumeiBtn.png"
         }
     },
     {
@@ -875,7 +916,8 @@
             "Youtube": "https://www.youtube.com/@HakosBaelz",
             "Twitter": "https://x.com/hakosbaelz",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Bae_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Bae_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Bae_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/BaeBtn.png"
         }
     },
     {
@@ -894,7 +936,8 @@
             "Youtube": "https://www.youtube.com/@TsukumoSana",
             "Twitter": "https://x.com/tsukumosana",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Sana_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Sana_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Sana_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/SanaBtn.png"
         }
     },
     {
@@ -913,7 +956,8 @@
             "Youtube": "https://www.youtube.com/@ShioriNovella",
             "Twitter": "https://x.com/shiorinovella",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Shiori_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Shiori_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Shiori_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/ShioriBtn.png"
         }
     },
     {
@@ -932,7 +976,8 @@
             "Youtube": "https://www.youtube.com/@KosekiBijou",
             "Twitter": "https://x.com/kosekibijou",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Bijou_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Bijou_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Bijou_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/BijouBtn.png"
         }
     },
     {
@@ -951,7 +996,8 @@
             "Youtube": "https://www.youtube.com/@NerissaRavencroft",
             "Twitter": "https://x.com/nerissa_en",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Rissa_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Rissa_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Rissa_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/RissaBtn.png"
         }
     },
     {
@@ -970,7 +1016,8 @@
             "Youtube": "https://www.youtube.com/@FUWAMOCOch",
             "Twitter": "https://x.com/fuwamoco_en",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Fuwawa_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Fuwawa_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Fuwawa_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/FuwawaBtn.png"
         }
     },
     {
@@ -989,7 +1036,8 @@
             "Youtube": "https://www.youtube.com/@FUWAMOCOch",
             "Twitter": "https://x.com/fuwamoco_en",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Mococo_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Mococo_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Mococo_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/MococoBtn.png"
         }
     },
     {
@@ -1008,7 +1056,8 @@
             "Youtube": "https://www.youtube.com/@ElizabethRoseBloodflame",
             "Twitter": "https://x.com/ERBloodflame",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/ERB_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/ERB_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/ERB_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/ERBBtn.png"
         }
     },
     {
@@ -1027,7 +1076,8 @@
             "Youtube": "https://www.youtube.com/@GigiMurin",
             "Twitter": "https://x.com/gigimurin",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Gigi_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Gigi_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Gigi_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/GigiBtn.png"
         }
     },
     {
@@ -1046,7 +1096,8 @@
             "Youtube": "https://www.youtube.com/@CeciliaImmergreen",
             "Twitter": "https://x.com/ceciliaimgreen",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Ceci_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Ceci_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Ceci_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/CeciBtn.png"
         }
     },
     {
@@ -1065,7 +1116,8 @@
             "Youtube": "https://www.youtube.com/@RaoraPanthera",
             "Twitter": "https://x.com/raorapanthera",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Raora_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Raora_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Raora_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/RaoraBtn.png"
         }
     },
     {
@@ -1084,7 +1136,8 @@
             "Youtube": "https://www.youtube.com/@AyundaRisu",
             "Twitter": "https://x.com/ayunda_risu",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Risu_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Risu_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Risu_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/RisuBtn.png"
         }
     },
     {
@@ -1103,7 +1156,8 @@
             "Youtube": "https://www.youtube.com/@MoonaHoshinova",
             "Twitter": "https://x.com/moonahoshinova",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Moona_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Moona_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Moona_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/MoonaBtn.png"
         }
     },
     {
@@ -1122,7 +1176,8 @@
             "Youtube": "https://www.youtube.com/@AiraniIofifteen",
             "Twitter": "https://x.com/airaniiofifteen",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Iofi_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Iofi_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Iofi_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/IofiBtn.png"
         }
     },
     {
@@ -1141,7 +1196,8 @@
             "Youtube": "https://www.youtube.com/@KureijiOllie",
             "Twitter": "https://x.com/kureijiollie",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Ollie_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Ollie_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Ollie_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/OllieBtn.png"
         }
     },
     {
@@ -1160,7 +1216,8 @@
             "Youtube": "https://www.youtube.com/@AnyaMelfissa",
             "Twitter": "https://x.com/anyamelfissa",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Anya_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Anya_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Anya_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/AnyaBtn.png"
         }
     },
     {
@@ -1179,7 +1236,8 @@
             "Youtube": "https://www.youtube.com/@PavoliaReine",
             "Twitter": "https://x.com/pavoliareine",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Reine_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Reine_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Reine_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/ReineBtn.png"
         }
     },
     {
@@ -1198,7 +1256,8 @@
             "Youtube": "https://www.youtube.com/@VestiaZeta",
             "Twitter": "https://x.com/vestiazeta",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Zeta_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Zeta_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Zeta_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/ZetaBtn.png"
         }
     },
     {
@@ -1217,7 +1276,8 @@
             "Youtube": "https://www.youtube.com/@KaelaKovalskia",
             "Twitter": "https://x.com/kaelakovalskia",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Kaela_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Kaela_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Kaela_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/KaelaBtn.png"
         }
     },
     {
@@ -1236,7 +1296,8 @@
             "Youtube": "https://www.youtube.com/@KoboKanaeru",
             "Twitter": "https://x.com/kobokanaeru",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Kobo_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Kobo_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Kobo_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/KoboBtn.png"
         }
     },
     {
@@ -1255,7 +1316,8 @@
             "Youtube": "https://www.youtube.com/@HiodoshiAo",
             "Twitter": "https://x.com/hiodoshiao",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Ao_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Ao_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Ao_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/AoBtn.png"
         }
     },
     {
@@ -1274,7 +1336,8 @@
             "Youtube": "https://www.youtube.com/@OtonoseKanade",
             "Twitter": "https://x.com/otonosekanade",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Kanade_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Kanade_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Kanade_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/KanadeBtn.png"
         }
     },
     {
@@ -1293,7 +1356,8 @@
             "Youtube": "https://www.youtube.com/@IchijouRirika",
             "Twitter": "https://x.com/ichijouririka",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Ririka_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Ririka_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Ririka_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/RirikaBtn.png"
         }
     },
     {
@@ -1312,7 +1376,8 @@
             "Youtube": "https://www.youtube.com/@JuufuuteiRaden",
             "Twitter": "https://x.com/juufuuteiraden",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Raden_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Raden_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Raden_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/RadenBtn.png"
         }
     },
     {
@@ -1331,7 +1396,8 @@
             "Youtube": "https://www.youtube.com/@TodorokiHajime",
             "Twitter": "https://x.com/todoroki_hajime",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Hajime_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Hajime_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Hajime_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/BanchoBtn.png"
         }
     },
     {
@@ -1350,7 +1416,8 @@
             "Youtube": "https://www.youtube.com/@IsakiRiona",
             "Twitter": "https://x.com/isakiriona",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Riona_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Riona_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Riona_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/RionaBtn.png"
         }
     },
     {
@@ -1369,7 +1436,8 @@
             "Youtube": "https://www.youtube.com/@KoganeiNiko",
             "Twitter": "https://x.com/koganeiniko",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Niko_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Niko_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Niko_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/NicoBtn.png"
         }
     },
     {
@@ -1388,7 +1456,8 @@
             "Youtube": "https://www.youtube.com/@MizumiyaSu",
             "Twitter": "https://x.com/mizumiyasu",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Su_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Su_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Su_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/SuBtn.png"
         }
     },
     {
@@ -1407,7 +1476,8 @@
             "Youtube": "https://www.youtube.com/@RindoChihaya",
             "Twitter": "https://x.com/rindochihaya",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Chiha_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Chiha_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Chiha_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/ChihayaBtn.png"
         }
     },
     {
@@ -1426,7 +1496,8 @@
             "Youtube": "https://www.youtube.com/@KikirikiVivi",
             "Twitter": "https://x.com/kikirikivivi",
             "Outfit1": "/src/assets/Multimedia/Imagenes/Holomem/Vivi_OG.png",
-            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Vivi_F.png"
+            "Outfit2": "/src/assets/Multimedia/Imagenes/Holomem/Vivi_F.png",
+            "Boton": "/src/assets/Multimedia/Imagenes/HolomemsBtn/ViviBtn.png"
         }
     }
 ]
