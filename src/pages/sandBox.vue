@@ -11,6 +11,7 @@ import {ref, onMounted} from 'vue';
 //CARGA DE TALENTOS Y USO DE ESTOS (LOS DATOS Y DEMAS DEL JSON)
 //Se trae almacenTalentos en la variable Talentos (osea, se crea una variables que tenga todos los talentos y no hacer un fetch manual otra vez)
 const Talentos = almacenTalentos()
+
 //Monta y trae ya todo
 onMounted(async () => await Talentos.cargarDirectorio())
 
@@ -18,11 +19,16 @@ onMounted(async () => await Talentos.cargarDirectorio())
 // El estado que controla si el modal se ve o no (al recargar pagina, no se debe ver)
 const mostrarModal = ref(false);
 
-//
-function modal (talento)
+//Estado de los datos del modal (osea, dice si hay informacion del JSON para usarse en el modal, por defecto no hay nada porque no se muestra un modal, por tanto es null)
+const talentoSelect = ref(null)
+
+//Esta funcion es la que cambia las dos variables anteriores, al hacer click (abrirModalConTalento(talento)) se activa esta funcion y cambia el estado para que se active el modal
+function abrirModalConTalento(talento)
 {
-    talentoSeleccionado.value = talento
-    mostrarModal.value = true
+    //Cambia el valor de mostrar modal true para que pues, se muestre el modal
+    mostrarModal.value = true;    
+    //Cambia el estado de datos a los del talento, haciendo que haya información y no este vacío
+    talentoSelect.value = talento;
 }
 </script>
 
@@ -38,23 +44,21 @@ function modal (talento)
         <section class="talents">
 
             <!-- El DIV común transformado en botón -->
+            <!-- El @click activa ahora la funcion de abrirModalConTalento para que se muestre -->
             <div 
                 v-for="talento in Talentos.listaMaestra" 
-                :id="talento.Id"
+                :key="talento.Id"
                 class="modalBtn" 
                 :style="{backgroundColor: `var(--bgColor-${talento.Id})`}"
-                @click="abrirModalConTalento(talento)" 
+                @click="abrirModalConTalento(talento)"
                 role="button" 
                 tabindex="0"
             >
                 <img :src="talento.Modal.Boton" :alt="talento.Nombre">
-
                 <div class="modalBtnHover flex transition">
-                    <!-- Mostramos el nombre con la interpolación {{ }} -->
                     <h3>{{ talento.Nombre }}</h3>
                 </div>
             </div>
-
 
             <!-- El Contenedor del Modal -->
             <div v-if="mostrarModal" class="modalBg">
@@ -64,11 +68,12 @@ function modal (talento)
                         </carouselModal>
                     </div>
                     <div class="info">
-                        <infoModal @close="mostrarModal = false">
+                        <infoModal :talento="talentoSelect" @cerrar="mostrarModal = false">
                         </infoModal>
                     </div>
                 </div>
             </div>
+
         </section>
     </section>
 </template>
