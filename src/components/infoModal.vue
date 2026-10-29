@@ -1,34 +1,38 @@
 <script setup>
-// Definimos los eventos que este componente puede emitir hacia el padre
-const emit = defineEmits(['close']);
-
-const cerrarDesdeComponente = () =>
+defineProps(
 {
-  emit('close'); // Emitimos el evento 'close'
+    talento:
+    {
+        type: Object,
+        default: null
+    }
 }
+);
+
+const emit = defineEmits(['cerrar']);
 </script>
 
 <template>
-    <div class="info_Container flexColumn">
+    <div v-if="talento" class="info_Container flexColumn">
         <div class="name-close flex">
-            <h3>Ouro Kronii</h3>
-            <button class="transition" @click="cerrarDesdeComponente">✖</button>
+            <h3>{{talento.Nombre}}</h3>
+            <button class="transition" @click="emit('cerrar')">✖</button>
         </div>
-        <h4>オーロ・クロニー</h4>
-        <h5>"Kroniichiwa~"</h5>
+        <h4>{{talento.NombreJP}}</h4>
+        <h5>"{{talento.Modal.Frase}}"</h5>
 
         <div class="dataGrid">
-            <div class="dataGrid_cell flex bgImg"><span>14 de Marzo</span></div>
-            <div class="dataGrid_cell flex bgImg"><span>23 de Septiembre de 2021</span></div>
-            <div class="dataGrid_cell flex bgImg"><span>1.68 Mts</span></div>
-            <div class="dataGrid_cell flex bgImg"><span>Kronies</span></div>
+            <div class="dataGrid_cell flex bgImg"><span>{{talento.Modal.Cumpleaños}}</span></div>
+            <div class="dataGrid_cell flex bgImg"><span>{{talento.Modal.Debut}}</span></div>
+            <div class="dataGrid_cell flex bgImg"><span>{{talento.Modal.Altura}}</span></div>
+            <div class="dataGrid_cell flex bgImg"><span>{{talento.Modal.Fanbase}}</span></div>
         </div>
 
-        <p>Guardiana del Tiempo elegante, guapa, poderosa, asombrosa aunque con crisis existenciales fugaces y narcisismo lindo (le licuaron su sandwich).</p>
+        <p>{{ talento.Modal.Descripcion }}</p>
 
         <div class="holomemSocial flex">
-            <a href="https://www.youtube.com/@OuroKronii" class="flex transition" target="_blank" rel="noreferrer noopener"><img src="../assets/Multimedia/Imagenes/L-YT.png" alt=""> Ir a YouTube</a>
-            <a href="https://x.com/ourokronii" class="flex transition" target="_blank" rel="noreferrer noopener"><img src="../assets/Multimedia/Imagenes/L-Twit.png" alt=""> Ir a Twitter</a>
+            <a :href="talento.Modal.Youtube" class="flex transition" target="_blank" rel="noreferrer noopener"><img src="../assets/Multimedia/Imagenes/L-YT.png" alt=""> Ir a YouTube</a>
+            <a :href="talento.Modal.Twitter" class="flex transition" target="_blank" rel="noreferrer noopener"><img src="../assets/Multimedia/Imagenes/L-Twit.png" alt=""> Ir a Twitter</a>
         </div>
     </div>
 </template>
