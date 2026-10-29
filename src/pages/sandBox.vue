@@ -1,46 +1,58 @@
 <script setup>
 
+//IMPORTACIONES
 import navBar from '@/components/navBar.vue'
 import carouselModal from '@/components/carouselModal.vue'
 import infoModal from '@/components/infoModal.vue'
-import {ref} from 'vue';
+import { almacenTalentos } from '@/stores/talents';
+import {ref, onMounted} from 'vue';
 
-// El estado que controla si el modal se ve o no
+
+//CARGA DE TALENTOS Y USO DE ESTOS (LOS DATOS Y DEMAS DEL JSON)
+//Se trae almacenTalentos en la variable Talentos (osea, se crea una variables que tenga todos los talentos y no hacer un fetch manual otra vez)
+const Talentos = almacenTalentos()
+//Monta y trae ya todo
+onMounted(async () => await Talentos.cargarDirectorio())
+
+//ESTADOS DEL MODAL
+// El estado que controla si el modal se ve o no (al recargar pagina, no se debe ver)
 const mostrarModal = ref(false);
 
+//
+function modal (talento)
+{
+    talentoSeleccionado.value = talento
+    mostrarModal.value = true
+}
 </script>
 
 <template>
     <section class="main flex">
+        <!-- ÁREA DE NAVEGACIÓN -->
         <nav class="menu flex flexColumn">
             <navBar>
             </navBar>
         </nav>
 
+        <!-- SECCION DE LOS TALENTOS (LOS BOTONES) -->
         <section class="talents">
 
             <!-- El DIV común transformado en botón -->
-            <div class="modalBtn" @click="mostrarModal = true" role="button" tabindex="0">
-                <img src="../assets/Multimedia/Imagenes/HolomemsBtn/Kronii2.png" alt="">
+            <div 
+                v-for="talento in Talentos.listaMaestra" 
+                :id="talento.Id"
+                class="modalBtn" 
+                :style="{backgroundColor: `var(--bgColor-${talento.Id})`}"
+                @click="abrirModalConTalento(talento)" 
+                role="button" 
+                tabindex="0"
+            >
+                <img :src="talento.Modal.Boton" :alt="talento.Nombre">
+
                 <div class="modalBtnHover flex transition">
-                    <h3>Ouro Kronii</h3>
+                    <!-- Mostramos el nombre con la interpolación {{ }} -->
+                    <h3>{{ talento.Nombre }}</h3>
                 </div>
-            </div>
-
-            <div class="modalBtn" @click="mostrarModal = true" role="button" tabindex="0">
-                Haz clic aquí para abrir el modal
-            </div>
-
-            <div class="modalBtn" @click="mostrarModal = true" role="button" tabindex="0">
-                Haz clic aquí para abrir el modal
-            </div>
-
-            <div class="modalBtn" @click="mostrarModal = true" role="button" tabindex="0">
-                Haz clic aquí para abrir el modal
-            </div>
-
-            <div class="modalBtn" @click="mostrarModal = true" role="button" tabindex="0">
-                Haz clic aquí para abrir el modal
             </div>
 
 
@@ -116,7 +128,7 @@ const mostrarModal = ref(false);
     position: relative;
     display: inline-block;
     border-radius: 1rem;
-    background-color: #6879c7;
+    /* background-color: #6879c7; */
     user-select: none;
 }
 
