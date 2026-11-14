@@ -59,7 +59,7 @@ const emit = defineEmits(['cerrar']);
     font-family: 'Yuruka', sans-serif;
 }
 
-.name-close h3 {font-size: 2.7rem;}
+.name-close h3 {font-size: clamp(1.5rem,2.7vw,2.4rem);}
 .info_Container h4 {font-size: 2rem;}
 
 /* Contenedor para separar el nombre del talento y el boton de cerrar */
@@ -91,7 +91,7 @@ const emit = defineEmits(['cerrar']);
 
 h5
 {
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: 400;
 }
 
@@ -170,11 +170,11 @@ p
 /* Botones de redes sociales */
 .holomemSocial
 {
-    width: 100%;
+    width: 97%;
     height: 15%;
     margin-top: auto;
     gap: 1rem;
-    justify-content: start;
+    justify-content: space-between;
 }
 
 .holomemSocial a
