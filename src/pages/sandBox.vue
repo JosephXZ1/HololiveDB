@@ -64,7 +64,7 @@ function abrirModalConTalento(talento)
             <div v-if="mostrarModal" class="modalBg">
                 <div class="modalContainer flex">
                     <div class="imgCarousel">
-                        <carouselModal>
+                        <carouselModal :talento="talentoSelect">
                         </carouselModal>
                     </div>
                     <div class="info">
@@ -194,14 +194,14 @@ function abrirModalConTalento(talento)
 /* Mitad izquierda: Carrusel de imagenes */
 .modalContainer .imgCarousel
 {
-    width: 45%;
+    width: 40%;
     height: 100%;
 }
 
 /* Mitad derecha: Información */
 .modalContainer .info
 {
-    width: 55%;
+    width: 60%;
     height: 100%;
 }
 </style>
