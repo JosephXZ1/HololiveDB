@@ -18,7 +18,7 @@ const imagenes = computed(() =>
 {
     //Si no hay talento (está en null por X/Y razon), se devuelve un arreglo vacío para evitar errores o colapsos
     if (!propiedades.talento) return [];
-    
+
     //Aquí esta el arreglo buscado, si hay algun talento se extraen las rutas del JSON
     //Nota: no se puede usar notacion allman, debe ser K&R
     return[
@@ -77,8 +77,8 @@ function anterior()
 
 .carrusel img
 {
-    width: 55%;
-    height: 97%;
+    /* width: 55%; */
+    height: 90%;
     object-fit: contain;
 }
 
