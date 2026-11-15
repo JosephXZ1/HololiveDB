@@ -26,7 +26,7 @@ const talentoSelect = ref(null)
 function abrirModalConTalento(talento)
 {
     //Cambia el valor de mostrar modal true para que pues, se muestre el modal
-    mostrarModal.value = true;    
+    mostrarModal.value = true;
     //Cambia el estado de datos a los del talento, haciendo que haya información y no este vacío
     talentoSelect.value = talento;
 }
@@ -45,13 +45,13 @@ function abrirModalConTalento(talento)
 
             <!-- El DIV común transformado en botón -->
             <!-- El @click activa ahora la funcion de abrirModalConTalento para que se muestre -->
-            <div 
-                v-for="talento in Talentos.listaMaestra" 
+            <div
+                v-for="talento in Talentos.listaMaestra"
                 :key="talento.Id"
-                class="modalBtn" 
+                class="modalBtn"
                 :style="{backgroundColor: `var(--bgColor-${talento.Id})`}"
                 @click="abrirModalConTalento(talento)"
-                role="button" 
+                role="button"
                 tabindex="0"
             >
                 <img :src="talento.Modal.Boton" :alt="talento.Nombre">
@@ -185,7 +185,7 @@ function abrirModalConTalento(talento)
 {
     background: #FBFBFD;
     padding: 20px 0;
-    width: 80%;
+    width: 90%;
     height: 87%;
     border: 5px solid #8586A4;
     border-radius: 2rem;
@@ -194,14 +194,14 @@ function abrirModalConTalento(talento)
 /* Mitad izquierda: Carrusel de imagenes */
 .modalContainer .imgCarousel
 {
-    width: 40%;
+    width: 50%;
     height: 100%;
 }
 
 /* Mitad derecha: Información */
 .modalContainer .info
 {
-    width: 60%;
+    width: 50%;
     height: 100%;
 }
 </style>
